@@ -1,0 +1,23 @@
+gunicorn app:app
+astroid==2.1.0
+certifi==2019.3.9
+Click==7.0
+colorama==0.4.1
+Flask==1.0.3
+Flask-SQLAlchemy==2.4.0
+gunicorn==19.9.0
+isort==4.3.4
+itsdangerous==1.1.0
+Jinja2==2.10.1
+lazy-object-proxy==1.3.1
+MarkupSafe==1.1.1
+matplotlib==3.0.3
+mccabe==0.6.1
+pandas==0.24.2
+pylint==2.2.2
+scipy==1.2.1
+six==1.12.0
+SQLAlchemy==1.3.4
+Werkzeug==0.15.4
+wincertstore==0.2
+wrapt==1.11.1
