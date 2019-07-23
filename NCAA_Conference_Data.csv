@@ -1,0 +1,941 @@
+,Year,Rk,Conference,Schls,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+0,2018-19,1,Big Ten Conference,14,290,195,0.598,15.12,10.82,4,8,1,Michigan State Purdue,Michigan State
+1,2018-19,2,Big 12 Conference,10,216,137,0.612,14.82,10.54,4,6,1,Kansas State Texas Tech,Iowa State
+2,2018-19,3,Atlantic Coast Conference,15,316,198,0.615,14.17,9.06,5,7,1,North Carolina Virginia,Duke
+3,2018-19,4,Southeastern Conference,14,283,197,0.59,12.73,9.29,4,7,1,Louisiana State,Auburn
+4,2018-19,5,Big East Conference,10,202,142,0.587,9.92,6.96,1,4,0,Villanova,Villanova
+5,2018-19,6,Pacific-12 Conference,12,217,181,0.545,7.07,5.25,0,3,0,Washington,Oregon
+6,2018-19,7,American Athletic Conference,12,239,169,0.586,7.03,4.21,2,4,0,Houston,Cincinnati
+7,2018-19,8,West Coast Conference,10,191,142,0.574,4.99,2.24,1,2,0,Gonzaga,Saint Mary's (CA)
+8,2018-19,9,Mid-American Conference,12,226,172,0.568,3,1.6,1,1,0,Buffalo (East),Buffalo
+9,2018-19,10,Mountain West Conference,11,183,175,0.511,1.49,1.12,2,2,0,Nevada Utah State,Utah State
+10,2018-19,11,Atlantic 10 Conference,14,235,227,0.509,1.47,0.83,0,2,0,Virginia Commonwealth,Saint Louis
+11,2018-19,12,Missouri Valley Conference,10,171,159,0.518,-0.69,-0.23,0,1,0,Drake Loyola (IL),Bradley
+12,2018-19,13,Southern Conference,10,178,150,0.543,-0.71,-0.6,1,1,0,Wofford,Wofford
+13,2018-19,14,Ivy Group,8,132,109,0.548,-1.46,-1.58,0,1,0,Harvard Yale,Yale
+14,2018-19,15,Sun Belt Conference,12,204,190,0.518,-1.74,-1.14,0,1,0,Georgia State,Georgia State
+15,2018-19,16,Conference USA,14,244,217,0.529,-1.76,-1.1,0,1,0,Old Dominion,Old Dominion
+16,2018-19,17,Western Athletic Conference,9,161,142,0.531,-3.01,-2.14,0,1,0,New Mexico State,New Mexico State
+17,2018-19,18,Horizon League,10,158,173,0.477,-3.34,-1.66,0,1,0,Northern Kentucky Wright State,Northern Kentucky
+18,2018-19,19,Colonial Athletic Association,10,163,165,0.497,-4.53,-3.12,0,1,0,Hofstra,Northeastern
+19,2018-19,20,Big West Conference,9,142,153,0.481,-4.77,-2.74,0,1,0,UC-Irvine,UC-Irvine
+20,2018-19,21,Atlantic Sun Conference,9,145,155,0.483,-5.36,-2.55,0,1,0,Liberty Lipscomb,Liberty
+21,2018-19,22,Summit League,9,136,150,0.476,-5.49,-3.38,0,1,0,South Dakota State,North Dakota State
+22,2018-19,23,Patriot League,10,157,163,0.491,-5.57,-4.61,0,1,0,Bucknell Colgate,Colgate
+23,2018-19,24,Ohio Valley Conference,12,190,192,0.497,-5.82,-3.73,0,2,0,Belmont Murray State,Murray State
+24,2018-19,25,Big South Conference,11,181,183,0.497,-6.03,-4.25,0,1,0,Campbell Radford,Gardner-Webb
+25,2018-19,26,America East Conference,9,137,155,0.469,-8.04,-5.55,0,1,0,Vermont,Vermont
+26,2018-19,27,Big Sky Conference,11,170,186,0.478,-8.25,-5.81,0,1,0,Montana,Montana
+27,2018-19,28,Metro Atlantic Athletic Conference,11,150,203,0.425,-9.08,-6.58,0,1,0,Iona,Iona
+28,2018-19,29,Southland Conference,13,198,217,0.477,-10.05,-6.1,0,1,0,Sam Houston State,Abilene Christian
+29,2018-19,30,Northeast Conference,10,148,174,0.46,-10.81,-7.47,0,1,0,Fairleigh Dickinson Saint Francis (PA),Fairleigh Dickinson
+30,2018-19,31,Southwest Athletic Conference,10,129,200,0.392,-14.78,-8.26,0,1,0,Prairie View,Prairie View
+31,2018-19,32,Mid-Eastern Athletic Conference,12,151,238,0.388,-16,-9.2,0,1,0,Norfolk State,North Carolina Central
+33,2017-18,1,Big 12 Conference,10,220,130,0.629,15.16,9.82,3,7,1,Kansas,Kansas
+34,2017-18,2,Big East Conference,10,213,128,0.625,14.23,9.28,2,6,1,Xavier,Villanova
+35,2017-18,3,Atlantic Coast Conference,15,315,200,0.612,13.38,8.51,5,9,0,Virginia,Virginia
+36,2017-18,4,Big Ten Conference,14,289,189,0.605,13.01,7.99,4,4,1,Michigan State,Michigan
+37,2017-18,5,Southeastern Conference,14,286,193,0.597,13,9.34,4,8,0,Auburn Tennessee,Kentucky
+38,2017-18,6,Pacific-12 Conference,12,231,172,0.573,8.62,6.15,1,3,0,Arizona,Arizona
+39,2017-18,7,American Athletic Conference,12,224,168,0.571,5.58,3.4,3,3,0,Cincinnati,Cincinnati
+40,2017-18,8,Mountain West Conference,11,198,163,0.548,4.43,3.05,1,2,0,Nevada,San Diego State
+41,2017-18,9,Missouri Valley Conference,10,186,145,0.562,2.43,1.61,0,1,1,Loyola (IL),Loyola (IL)
+42,2017-18,10,Atlantic 10 Conference,14,232,224,0.509,2.26,1.99,0,3,0,Rhode Island,Davidson
+43,2017-18,11,West Coast Conference,10,180,159,0.531,1.83,1.43,2,1,0,Gonzaga,Gonzaga
+44,2017-18,12,Conference USA,14,245,221,0.526,0.22,0.2,0,1,0,Middle Tennessee,Marshall
+45,2017-18,13,Mid-American Conference,12,219,181,0.548,-2.01,-1.88,0,1,0,Buffalo (East),Buffalo
+46,2017-18,14,Summit League,8,134,122,0.523,-2.89,-1.41,0,1,0,South Dakota State,South Dakota State
+47,2017-18,15,Sun Belt Conference,12,201,194,0.509,-2.95,-2.67,0,1,0,Louisiana,Georgia State
+48,2017-18,16,Colonial Athletic Association,10,167,156,0.517,-3.06,-2.14,0,1,0,College of Charleston Northeastern,College of Charleston
+49,2017-18,17,Big Sky Conference,12,198,195,0.504,-3.56,-2,0,1,0,Montana,Montana
+50,2017-18,18,Western Athletic Conference,8,133,130,0.506,-3.8,-1.77,0,1,0,New Mexico State,New Mexico State
+51,2017-18,19,Big West Conference,9,139,148,0.484,-4.19,-1.67,0,1,0,UC-Davis,Cal State Fullerton
+52,2017-18,20,Ivy Group,8,109,125,0.466,-4.65,-3.08,0,1,0,Harvard Pennsylvania,Pennsylvania
+53,2017-18,21,Metro Atlantic Athletic Conference,11,164,191,0.462,-4.8,-3.48,0,1,0,Canisius Rider,Iona
+54,2017-18,22,Southern Conference,10,168,161,0.511,-5.23,-3.38,0,1,0,North Carolina-Greensboro,North Carolina-Greensboro
+55,2017-18,23,Ohio Valley Conference,12,190,191,0.499,-5.25,-3.54,0,1,0,Murray State,Murray State
+56,2017-18,24,America East Conference,9,145,147,0.497,-5.62,-4.41,0,1,0,Vermont,Maryland-Baltimore County
+57,2017-18,25,Horizon League,10,154,177,0.465,-5.88,-3.58,0,1,0,Northern Kentucky,Wright State
+58,2017-18,26,Big South Conference,10,164,166,0.497,-7.37,-5.25,0,1,0,North Carolina-Asheville,Radford
+59,2017-18,27,Patriot League,10,145,169,0.462,-7.77,-5.84,0,1,0,Bucknell,Bucknell
+60,2017-18,28,Atlantic Sun Conference,8,118,140,0.457,-9.15,-4.72,0,1,0,Florida Gulf Coast,Lipscomb
+61,2017-18,29,Southland Conference,13,201,215,0.483,-9.29,-5.77,0,1,0,Nicholls State Southeastern Louisiana,Stephen F. Austin
+62,2017-18,30,Northeast Conference,10,146,174,0.456,-9.85,-6.89,0,1,0,Wagner,Long Island University
+63,2017-18,31,Southwest Athletic Conference,10,116,211,0.355,-15.97,-8.63,0,1,0,Grambling,Texas Southern
+64,2017-18,32,Mid-Eastern Athletic Conference,13,162,265,0.379,-16.74,-9.52,0,1,0,Bethune-Cookman Hampton Savannah State,North Carolina Central
+66,2016-17,1,Big 12 Conference,10,215,131,0.621,17.44,11.26,4,6,0,Kansas,Iowa State
+67,2016-17,2,Atlantic Coast Conference,15,320,196,0.62,14.66,9.67,6,9,1,North Carolina,Duke
+68,2016-17,3,Big East Conference,10,203,135,0.601,13.19,9.11,2,7,0,Villanova,Villanova
+69,2016-17,4,Big Ten Conference,14,288,192,0.6,12.64,8.75,3,7,0,Purdue,Michigan
+70,2016-17,5,Southeastern Conference,14,274,202,0.576,11.72,8.82,2,5,1,Kentucky,Kentucky
+71,2016-17,6,Pacific-12 Conference,12,238,168,0.586,9.33,6.73,3,4,1,Arizona Oregon,Arizona
+72,2016-17,7,American Athletic Conference,11,199,163,0.55,6.2,4.11,2,2,0,Southern Methodist,Southern Methodist
+73,2016-17,8,Atlantic 10 Conference,14,250,211,0.542,3.8,2.66,0,3,0,Dayton,Rhode Island
+74,2016-17,9,Missouri Valley Conference,10,172,155,0.526,3.48,2.62,1,1,0,Illinois State Wichita State,Wichita State
+75,2016-17,10,West Coast Conference,10,184,147,0.556,3.01,1.94,2,2,1,Gonzaga,Gonzaga
+76,2016-17,11,Mountain West Conference,11,203,162,0.556,2.95,1.92,0,1,0,,Nevada
+77,2016-17,12,Colonial Athletic Association,10,171,156,0.523,-1.22,-1.27,0,1,0,North Carolina-Wilmington,North Carolina-Wilmington
+78,2016-17,13,Mid-American Conference,12,211,185,0.533,-1.26,-1.67,0,1,0,Akron (East),Kent State
+79,2016-17,14,Sun Belt Conference,12,217,189,0.534,-2.8,-2.6,0,1,0,Texas-Arlington,Troy
+80,2016-17,15,Ivy Group,8,111,117,0.487,-3.17,-2.5,0,1,0,Princeton,Princeton
+81,2016-17,16,Conference USA,14,224,228,0.496,-3.26,-2.42,0,1,0,Middle Tennessee,Middle Tennessee
+82,2016-17,17,Summit League,9,143,141,0.504,-3.3,-1.85,0,1,0,South Dakota,South Dakota State
+83,2016-17,18,Southern Conference,10,172,160,0.518,-3.6,-2.17,0,1,0,East Tennessee State Furman North Carolina-Greensboro,East Tennessee State
+84,2016-17,19,Horizon League,10,169,164,0.508,-3.63,-2.42,0,1,0,Oakland Valparaiso,Northern Kentucky
+85,2016-17,20,Metro Atlantic Athletic Conference,11,179,186,0.49,-4.32,-3.32,0,1,0,Monmouth,Iona
+86,2016-17,21,Western Athletic Conference,8,139,124,0.529,-4.37,-2.66,0,1,0,Cal State Bakersfield,New Mexico State
+87,2016-17,22,Patriot League,10,151,169,0.472,-5,-3.52,0,1,0,Bucknell,Bucknell
+88,2016-17,23,Ohio Valley Conference,12,182,196,0.481,-5.19,-3.34,0,1,0,Belmont (East),Jacksonville State
+89,2016-17,24,America East Conference,9,148,147,0.502,-6.66,-5.01,0,1,0,Vermont,Vermont
+90,2016-17,25,Atlantic Sun Conference,8,131,131,0.5,-7.21,-4.85,0,1,0,Florida Gulf Coast,Florida Gulf Coast
+91,2016-17,26,Big West Conference,9,126,160,0.441,-7.63,-3.78,0,1,0,UC-Irvine,UC-Davis
+92,2016-17,27,Big Sky Conference,12,174,210,0.453,-7.72,-5.16,0,1,0,North Dakota,North Dakota
+93,2016-17,28,Southland Conference,13,202,209,0.491,-9.35,-5.82,0,1,0,New Orleans,New Orleans
+94,2016-17,29,Big South Conference,10,160,165,0.492,-9.36,-6.04,0,1,0,North Carolina-Asheville Winthrop,Winthrop
+95,2016-17,30,Northeast Conference,10,133,186,0.417,-10.26,-6.52,0,1,0,Mount St. Mary's,Mount St. Mary's
+96,2016-17,31,Mid-Eastern Athletic Conference,13,156,259,0.376,-16.34,-9.42,0,1,0,North Carolina Central,North Carolina Central
+97,2016-17,32,Southwest Athletic Conference,10,123,199,0.382,-17.06,-10.16,0,1,0,Texas Southern,Texas Southern
+99,2015-16,1,Big 12 Conference,10,213,129,0.623,15.01,10.12,5,7,1,Kansas,Kansas
+100,2015-16,2,Atlantic Coast Conference,15,317,200,0.613,13.96,9.24,5,7,2,North Carolina,North Carolina
+101,2015-16,3,Pacific-12 Conference,12,241,160,0.601,11.85,8.52,4,7,0,Oregon,Oregon
+102,2015-16,4,Big East Conference,10,206,134,0.606,11.63,7.92,3,5,1,Villanova,Seton Hall
+103,2015-16,5,Big Ten Conference,14,279,196,0.587,10.93,7.12,5,7,0,Indiana,Michigan State
+104,2015-16,6,Southeastern Conference,14,263,204,0.563,10.33,7.5,2,3,0,Kentucky Texas A&M,Kentucky
+105,2015-16,7,American Athletic Conference,11,198,161,0.552,7.57,4.49,1,4,0,Temple,Connecticut
+106,2015-16,8,Atlantic 10 Conference,14,260,203,0.562,4.96,3.51,0,3,0,Dayton St. Bonaventure Virginia Commonwealth,Saint Joseph's
+107,2015-16,9,Mountain West Conference,11,203,165,0.552,2.88,2.28,0,1,0,San Diego State,Fresno State
+108,2015-16,10,West Coast Conference,10,170,152,0.528,2.04,1.59,0,1,0,Gonzaga Saint Mary's (CA),Gonzaga
+109,2015-16,11,Missouri Valley Conference,10,169,159,0.515,2.02,2.01,0,2,0,Wichita State,Northern Iowa
+110,2015-16,12,Colonial Athletic Association,10,174,146,0.544,1.22,0.61,0,1,0,Hofstra North Carolina-Wilmington,North Carolina-Wilmington
+111,2015-16,13,Mid-American Conference,12,224,179,0.556,-0.4,-0.97,0,1,0,Akron (East) Ball State (West) Central Michigan (West),Buffalo
+112,2015-16,14,Big West Conference,9,150,143,0.512,-0.72,0.08,0,1,0,Hawaii UC-Irvine,Hawaii
+113,2015-16,15,Ivy Group,8,123,113,0.521,-1.33,-1.85,0,1,0,Yale,
+114,2015-16,16,Summit League,9,155,131,0.542,-2.15,-1.41,0,1,0,Fort Wayne South Dakota State,South Dakota State
+115,2015-16,17,Horizon League,10,168,163,0.508,-2.26,-0.91,0,1,0,Valparaiso,Green Bay
+116,2015-16,18,Sun Belt Conference,11,181,175,0.508,-2.91,-2.34,0,1,0,Little Rock,Little Rock
+117,2015-16,19,Conference USA,14,225,237,0.487,-4.13,-2.7,0,1,0,Alabama-Birmingham,Middle Tennessee
+118,2015-16,20,Metro Atlantic Athletic Conference,11,167,188,0.47,-4.51,-3.46,0,1,0,Monmouth,Iona
+119,2015-16,21,Southern Conference,10,170,165,0.507,-5.38,-3.4,0,1,0,Chattanooga,Chattanooga
+120,2015-16,22,Ohio Valley Conference,12,184,198,0.482,-5.41,-3.4,0,1,0,Belmont (East),Austin Peay
+121,2015-16,23,Big South Conference,11,175,176,0.499,-6.54,-4.36,0,1,0,High Point Winthrop,North Carolina-Asheville
+122,2015-16,24,Western Athletic Conference,8,125,131,0.488,-6.66,-3.85,0,1,0,New Mexico State,Cal State Bakersfield
+123,2015-16,25,Atlantic Sun Conference,8,124,142,0.466,-7.21,-4.07,0,1,0,North Florida,Florida Gulf Coast
+124,2015-16,26,Big Sky Conference,12,181,203,0.471,-7.94,-5.05,0,1,0,Weber State,Weber State
+125,2015-16,27,Patriot League,10,146,173,0.458,-8.55,-6.21,0,1,0,Bucknell,Holy Cross
+126,2015-16,28,America East Conference,9,137,153,0.472,-8.83,-6.24,0,1,0,Stony Brook,Stony Brook
+127,2015-16,29,Southland Conference,13,186,221,0.457,-10.68,-6.56,0,1,0,Stephen F. Austin,Stephen F. Austin
+128,2015-16,30,Northeast Conference,10,133,182,0.422,-12.87,-8.79,0,1,0,Wagner,Fairleigh Dickinson
+129,2015-16,31,Southwest Athletic Conference,10,130,194,0.401,-13.98,-8.48,0,1,0,Texas Southern,Southern
+130,2015-16,32,Mid-Eastern Athletic Conference,13,165,250,0.398,-14.26,-8.14,0,1,0,Hampton,Hampton
+132,2014-15,1,Big 12 Conference,10,209,128,0.62,14.05,9.03,5,7,0,Kansas,Iowa State
+133,2014-15,2,Atlantic Coast Conference,15,316,200,0.612,12.33,8.06,5,6,1,Virginia,Notre Dame
+134,2014-15,3,Big Ten Conference,14,287,191,0.6,12.22,8.02,3,7,2,Wisconsin,Wisconsin
+135,2014-15,4,Big East Conference,10,199,136,0.594,12.2,8.51,3,6,0,Villanova,Villanova
+136,2014-15,5,Southeastern Conference,14,276,198,0.582,10.65,7.51,2,5,1,Kentucky,Kentucky
+137,2014-15,6,Pacific-12 Conference,12,242,166,0.593,9.74,6.59,2,4,0,Arizona,Arizona
+138,2014-15,7,West Coast Conference,10,179,147,0.549,5.07,3.84,1,2,0,Gonzaga,Gonzaga
+139,2014-15,8,Atlantic 10 Conference,14,250,209,0.545,4.43,3.32,1,3,0,Davidson,Virginia Commonwealth
+140,2014-15,9,American Athletic Conference,11,200,164,0.549,3.35,2.29,1,2,0,Southern Methodist,Southern Methodist
+141,2014-15,10,Missouri Valley Conference,10,187,150,0.555,2.25,1.5,2,2,0,Wichita State,Northern Iowa
+142,2014-15,11,Mountain West Conference,11,195,163,0.545,1.69,1.32,0,3,0,Boise State San Diego State,Wyoming
+143,2014-15,12,Mid-American Conference,12,216,176,0.551,1.2,-0.07,0,1,0,Buffalo (East) Kent State (East) Central Michigan (West),Buffalo
+144,2014-15,13,Big West Conference,9,148,143,0.509,-0.76,0.09,0,1,0,UC-Davis,UC-Irvine
+145,2014-15,14,Conference USA,14,234,222,0.513,-1.42,-0.75,0,1,0,Louisiana Tech,Alabama-Birmingham
+146,2014-15,15,Horizon League,9,148,146,0.503,-1.69,-0.54,0,1,0,Valparaiso,Valparaiso
+147,2014-15,16,Ivy Group,8,122,116,0.513,-1.99,-1.76,0,1,0,Harvard,
+148,2014-15,17,Colonial Athletic Association,10,157,168,0.483,-3.02,-2.07,0,1,0,James Madison North Carolina-Wilmington Northeastern William & Mary,Northeastern
+149,2014-15,18,Independent,1,21,12,0.636,-3.21,-4.07,0,0,0,,
+150,2014-15,19,Metro Atlantic Athletic Conference,11,166,189,0.468,-3.75,-2.93,0,1,0,Iona,Manhattan
+151,2014-15,20,Sun Belt Conference,11,181,172,0.513,-4.4,-3.48,0,1,0,Georgia State,Georgia State
+152,2014-15,21,Summit League,9,141,143,0.496,-4.83,-3.21,0,1,0,North Dakota State South Dakota State,North Dakota State
+153,2014-15,22,Ohio Valley Conference,12,190,192,0.497,-4.99,-3.44,0,1,0,Murray State (West),Belmont
+154,2014-15,23,Patriot League,10,154,161,0.489,-5.35,-3.55,0,1,0,Bucknell,Lafayette
+155,2014-15,24,Southern Conference,10,157,165,0.488,-6.24,-4.07,0,1,0,Wofford,Wofford
+156,2014-15,25,Big Sky Conference,12,178,199,0.472,-7.1,-4.56,0,1,0,Eastern Washington Montana,Eastern Washington
+157,2014-15,26,Big South Conference,11,181,179,0.503,-7.69,-5.41,0,1,0,Charleston Southern High Point,Coastal Carolina
+158,2014-15,27,America East Conference,9,125,160,0.439,-7.79,-4.73,0,1,0,Albany (NY),Albany (NY)
+159,2014-15,28,Northeast Conference,10,140,175,0.444,-7.99,-5.04,0,1,0,St. Francis (NY),Robert Morris
+160,2014-15,29,Western Athletic Conference,8,115,144,0.444,-8.14,-4.59,0,1,0,New Mexico State,New Mexico State
+161,2014-15,30,Southland Conference,13,196,207,0.486,-9.02,-5.7,0,1,0,Stephen F. Austin,Stephen F. Austin
+162,2014-15,31,Atlantic Sun Conference,8,125,135,0.481,-9.1,-5.79,0,1,0,North Florida,North Florida
+163,2014-15,32,Mid-Eastern Athletic Conference,13,171,251,0.405,-12.87,-7.36,0,1,0,North Carolina Central,Hampton
+164,2014-15,33,Southwest Athletic Conference,10,120,198,0.377,-15.63,-8.87,0,1,0,Texas Southern,Texas Southern
+166,2013-14,1,Big 12 Conference,10,207,133,0.609,13.24,9.09,4,7,0,Kansas,Iowa State
+167,2013-14,2,Big Ten Conference,12,258,159,0.619,13.18,8.31,4,6,1,Michigan,Michigan State
+168,2013-14,3,Pacific-12 Conference,12,248,160,0.608,11.22,7.59,2,6,0,Arizona,UCLA
+169,2013-14,4,Big East Conference,10,198,136,0.593,10.9,7.21,2,4,0,Villanova,Providence
+170,2013-14,5,Atlantic Coast Conference,15,300,210,0.588,10.8,7.21,4,6,0,Virginia,Virginia
+171,2013-14,6,Southeastern Conference,14,281,199,0.585,9.66,6.47,1,3,2,Florida,Florida
+172,2013-14,7,American Athletic Conference,10,204,138,0.596,9.08,5.79,3,4,1,Cincinnati Louisville,Louisville
+173,2013-14,8,Atlantic 10 Conference,13,251,176,0.588,6.55,4.12,2,6,0,Saint Louis,Saint Joseph's
+174,2013-14,9,West Coast Conference,10,189,146,0.564,5.23,3.63,0,2,0,Gonzaga,Gonzaga
+175,2013-14,10,Mountain West Conference,11,206,160,0.563,4.64,3.26,2,2,0,San Diego State,New Mexico
+176,2013-14,11,Missouri Valley Conference,10,177,152,0.538,1.53,0.98,1,1,0,Wichita State,Wichita State
+177,2013-14,12,Horizon League,9,152,145,0.512,-0.5,-0.22,0,1,0,Green Bay,Milwaukee
+178,2013-14,13,Conference USA,16,280,248,0.53,-1.15,-0.84,0,1,0,Louisiana Tech Middle Tennessee Tulsa,Tulsa
+179,2013-14,14,Mid-American Conference,12,208,184,0.531,-1.49,-0.95,0,1,0,Buffalo (East) Toledo (West) Western Michigan (West),Western Michigan
+180,2013-14,15,Ivy Group,8,125,117,0.517,-1.77,-1.67,0,1,0,Harvard,
+181,2013-14,16,Big West Conference,9,140,150,0.483,-1.9,-0.73,0,1,0,UC-Irvine,Cal Poly
+182,2013-14,17,Metro Atlantic Athletic Conference,11,173,187,0.481,-2.31,-1.53,0,1,0,Iona,Manhattan
+183,2013-14,18,Sun Belt Conference,10,157,160,0.495,-2.75,-1.41,0,1,0,Georgia State,Louisiana
+184,2013-14,19,Colonial Athletic Association,9,141,152,0.481,-2.78,-1.53,0,1,0,Delaware,Delaware
+185,2013-14,20,Summit League,8,131,125,0.512,-2.92,-1.74,0,1,0,North Dakota State,North Dakota State
+186,2013-14,21,Patriot League,10,153,164,0.483,-4.58,-3.67,0,1,0,Boston University,American
+187,2013-14,22,Western Athletic Conference,9,135,153,0.469,-5.77,-3.41,0,1,0,Utah Valley,New Mexico State
+188,2013-14,23,Ohio Valley Conference,12,185,201,0.479,-6.54,-4.28,0,1,0,Belmont (East) Murray State (West),Eastern Kentucky
+189,2013-14,24,Big Sky Conference,11,159,182,0.466,-7.38,-4.79,0,1,0,Weber State,Weber State
+190,2013-14,25,Atlantic Sun Conference,10,152,172,0.469,-7.47,-4.72,0,1,0,Florida Gulf Coast Mercer,Mercer
+191,2013-14,26,Northeast Conference,10,138,178,0.437,-8.67,-5.31,0,1,0,Robert Morris,Mount St. Mary's
+192,2013-14,27,America East Conference,9,119,162,0.423,-9.19,-5.59,0,1,0,Vermont,Albany (NY)
+193,2013-14,28,Big South Conference,12,186,206,0.474,-9.84,-6.56,0,1,0,High Point (North) Coastal Carolina (South),Coastal Carolina
+194,2013-14,29,Southland Conference,14,206,226,0.477,-10.37,-6.2,0,1,0,Stephen F. Austin,Stephen F. Austin
+195,2013-14,30,Southern Conference,11,162,195,0.454,-10.38,-6.54,0,1,0,Davidson,Wofford
+196,2013-14,31,Mid-Eastern Athletic Conference,13,167,246,0.404,-11.13,-6.53,0,1,0,North Carolina Central,North Carolina Central
+197,2013-14,32,Independent,1,13,16,0.448,-12.52,-7.48,0,0,0,,
+198,2013-14,33,Southwest Athletic Conference,10,132,184,0.418,-14.47,-9.03,0,1,0,Southern,Texas Southern
+199,2012-2013,1,Big Ten Conference,12,262,159,0.622,14.14,9.21,5,7,1,Indiana,Ohio State
+200,2012-2013,2,Big East Conference,15,316,191,0.623,11.81,7.29,6,8,2,Georgetown Louisville Marquette,Louisville
+201,2012-2013,3,Atlantic Coast Conference,12,245,163,0.6,10.07,6.44,2,4,0,Miami (FL),Miami (FL)
+202,2012-2013,4,Pacific-12 Conference,12,237,168,0.585,9.88,6.7,3,5,0,UCLA,Oregon
+203,2012-2013,5,Big 12 Conference,10,199,139,0.589,9.49,6.29,3,5,0,Kansas Kansas State,Kansas
+204,2012-2013,6,Mountain West Conference,9,185,113,0.621,8.4,5.61,1,5,0,New Mexico,New Mexico
+205,2012-2013,7,Southeastern Conference,14,263,203,0.564,8.22,5.09,1,3,0,Florida,Mississippi
+206,2012-2013,8,Atlantic 10 Conference,16,293,225,0.566,6.08,4.23,1,5,0,Saint Louis,Saint Louis
+207,2012-2013,9,Missouri Valley Conference,10,194,150,0.564,6.07,4.28,1,2,1,Creighton,Creighton
+208,2012-2013,10,West Coast Conference,9,175,130,0.574,4.62,2.84,1,2,0,Gonzaga,Gonzaga
+209,2012-2013,11,Conference USA,12,225,175,0.563,1.44,0.4,1,1,0,Memphis,Memphis
+210,2012-2013,12,Western Athletic Conference,10,164,156,0.513,-0.48,-0.62,0,1,0,Denver Louisiana Tech,New Mexico State
+211,2012-2013,13,Horizon League,9,160,140,0.533,-0.54,-0.57,0,1,0,Valparaiso,Valparaiso
+212,2012-2013,14,Metro Atlantic Athletic Conference,10,161,169,0.488,-2.11,-1.47,0,1,0,Niagara,Iona
+213,2012-2013,15,Mid-American Conference,12,191,196,0.494,-2.3,-1.36,0,1,0,Akron (East) Ohio (East) Western Michigan (West),Akron
+214,2012-2013,16,Big West Conference,10,156,169,0.48,-2.73,-0.95,0,1,0,Long Beach State,Pacific
+215,2012-2013,17,Sun Belt Conference,11,174,178,0.494,-3.45,-2.48,0,2,0,Middle Tennessee (East) Arkansas State (West),Western Kentucky
+216,2012-2013,18,Patriot League,8,125,128,0.494,-3.54,-3.04,0,1,0,Bucknell,Bucknell
+217,2012-2013,19,Colonial Athletic Association,11,163,192,0.459,-3.58,-1.85,0,1,0,Northeastern,James Madison
+218,2012-2013,20,Ivy Group,8,107,128,0.455,-3.73,-1.98,0,1,0,Harvard,
+219,2012-2013,21,Ohio Valley Conference,12,188,187,0.501,-5.25,-3.57,0,1,0,Belmont (East) Murray State (West),Belmont
+220,2012-2013,22,America East Conference,9,135,147,0.479,-5.63,-4.16,0,1,0,Stony Brook,Albany (NY)
+221,2012-2013,23,Summit League,9,138,153,0.474,-6.43,-3.55,0,1,0,South Dakota State Western Illinois,South Dakota State
+222,2012-2013,24,Atlantic Sun Conference,10,144,176,0.45,-7.25,-3.92,0,1,0,Mercer,Florida Gulf Coast
+223,2012-2013,25,Northeast Conference,12,171,203,0.457,-7.33,-4.6,0,1,0,Robert Morris,Long Island University
+224,2012-2013,26,Southern Conference,12,175,212,0.452,-7.61,-4.81,0,1,0,Elon (North) Davidson (South),Davidson
+225,2012-2013,27,Southland Conference,10,145,170,0.46,-7.79,-4.5,0,1,0,Stephen F. Austin,Northwestern State
+226,2012-2013,28,Big Sky Conference,11,157,187,0.456,-8.22,-5.29,0,1,0,Montana,Montana
+227,2012-2013,29,Big South Conference,12,172,214,0.446,-8.86,-5.67,0,1,0,High Point (North) Charleston Southern (South),Liberty
+228,2012-2013,30,Mid-Eastern Athletic Conference,13,173,244,0.415,-10.52,-6.02,0,1,0,Norfolk State,North Carolina A&T
+229,2012-2013,31,Great West Conference,5,71,86,0.452,-12,-7.43,0,0,0,NJIT,Chicago State
+230,2012-2013,32,Independent,2,22,34,0.393,-13.85,-4.15,0,0,0,,
+231,2012-2013,33,Southwest Athletic Conference,10,118,192,0.381,-15.28,-8.88,0,1,0,Texas Southern,Southern
+233,2011-12,1,Big Ten Conference,12,260,157,0.624,12.77,8.18,5,6,1,Michigan Michigan State Ohio State,Michigan State
+234,2011-12,2,Big 12 Conference,10,209,131,0.615,11.71,7.49,3,6,1,Kansas,Missouri
+235,2011-12,3,Big East Conference,16,334,217,0.606,10.66,6.81,4,9,1,Syracuse,Louisville
+236,2011-12,4,Southeastern Conference,12,246,160,0.606,10.09,6.24,3,4,1,Kentucky,Vanderbilt
+237,2011-12,5,Atlantic Coast Conference,12,232,166,0.583,8.74,5.76,3,5,0,North Carolina,Florida State
+238,2011-12,6,Mountain West Conference,8,165,96,0.632,7.04,3.36,3,4,0,New Mexico San Diego State,New Mexico
+239,2011-12,7,Pacific-12 Conference,12,226,185,0.55,6.74,4.83,0,2,0,Washington,Colorado
+240,2011-12,8,Atlantic 10 Conference,14,251,205,0.55,5.28,3.59,0,4,0,Temple,St. Bonaventure
+241,2011-12,9,Missouri Valley Conference,10,180,151,0.544,4.85,3.48,2,2,0,Wichita State,Creighton
+242,2011-12,10,Conference USA,12,218,172,0.559,4.15,2.48,0,2,0,Memphis,Memphis
+243,2011-12,11,West Coast Conference,9,158,132,0.545,1.63,1.33,1,3,0,Saint Mary's (CA),Saint Mary's (CA)
+244,2011-12,12,Western Athletic Conference,8,150,121,0.554,0.42,-0.4,0,1,0,Nevada,New Mexico State
+245,2011-12,13,Colonial Athletic Association,12,197,200,0.496,-1.41,-0.86,0,1,0,Drexel,Virginia Commonwealth
+246,2011-12,14,Horizon League,10,167,160,0.511,-1.41,-0.21,0,1,0,Valparaiso,Detroit Mercy
+247,2011-12,15,Mid-American Conference,12,195,197,0.497,-1.56,-0.91,0,1,0,Akron (East) Eastern Michigan (West),Ohio
+248,2011-12,16,Sun Belt Conference,12,177,197,0.473,-2.26,-0.88,0,1,0,Middle Tennessee (East) Little Rock (West),Western Kentucky
+249,2011-12,17,Ivy Group,8,125,119,0.512,-2.42,-2.08,0,1,0,Harvard,
+250,2011-12,18,Atlantic Sun Conference,10,156,167,0.483,-2.54,-1.03,0,1,0,Belmont,Belmont
+251,2011-12,19,Summit League,10,168,153,0.523,-2.72,-1.94,0,1,0,Oral Roberts,South Dakota State
+252,2011-12,20,Metro Atlantic Athletic Conference,10,157,169,0.482,-4.1,-2.85,0,2,0,Iona,Loyola (MD)
+253,2011-12,21,Big West Conference,9,133,148,0.473,-4.29,-2.33,0,1,0,Long Beach State,Long Beach State
+254,2011-12,22,Southern Conference,12,179,200,0.472,-5.83,-3.13,0,1,0,North Carolina-Greensboro (North) Davidson (South),Davidson
+255,2011-12,23,Patriot League,8,123,128,0.49,-6.16,-4.75,0,1,0,Bucknell,Lehigh
+256,2011-12,24,Big Sky Conference,9,127,145,0.467,-6.2,-3.69,0,1,0,Montana,Montana
+257,2011-12,25,Big South Conference,11,167,182,0.479,-6.22,-4.25,0,1,0,North Carolina-Asheville,North Carolina-Asheville
+258,2011-12,26,Ohio Valley Conference,11,172,175,0.496,-6.3,-4.05,1,1,0,Murray State,Murray State
+259,2011-12,27,Southland Conference,12,180,197,0.477,-7.31,-4.47,0,1,0,Lamar (East) Texas-Arlington (West),Lamar
+260,2011-12,28,Northeast Conference,12,167,207,0.447,-7.42,-4.99,0,1,0,Long Island University,Long Island University
+261,2011-12,29,America East Conference,9,121,163,0.426,-8.8,-6.12,0,1,0,Stony Brook,Vermont
+262,2011-12,30,Independent,3,38,51,0.427,-10.6,-4.13,0,0,0,,
+263,2011-12,31,Mid-Eastern Athletic Conference,13,176,238,0.425,-10.63,-6.05,0,1,0,Savannah State,Norfolk State
+264,2011-12,32,Great West Conference,6,77,112,0.407,-12.73,-5.9,0,0,0,Utah Valley,North Dakota
+265,2011-12,33,Southwest Athletic Conference,10,118,195,0.377,-16.71,-9.4,0,1,0,Mississippi Valley State,Mississippi Valley State
+267,2010-11,1,Big Ten Conference,11,224,146,0.605,14.63,9.56,3,7,0,Ohio State,Ohio State
+268,2010-11,2,Big East Conference,16,331,210,0.612,13.27,8.59,7,11,1,Pittsburgh,Connecticut
+269,2010-11,3,Big 12 Conference,12,257,149,0.633,12,6.3,4,5,0,Kansas,Kansas
+270,2010-11,4,Atlantic Coast Conference,12,241,163,0.597,11.23,6.82,2,4,0,North Carolina,Duke
+271,2010-11,5,Pacific-10 Conference,10,195,146,0.572,10.07,7.19,2,4,0,Arizona,Washington
+272,2010-11,6,Southeastern Conference,12,237,165,0.59,8.57,5.23,3,5,1,Florida (East) Alabama (West),Kentucky
+273,2010-11,7,Mountain West Conference,9,181,120,0.601,8.16,5.07,2,3,0,Brigham Young San Diego State,San Diego State
+274,2010-11,8,Conference USA,12,233,160,0.593,4.39,1.88,0,2,0,Alabama-Birmingham,Memphis
+275,2010-11,9,Atlantic 10 Conference,14,243,209,0.538,3.15,2.37,1,3,0,Xavier,Richmond
+276,2010-11,10,West Coast Conference,8,142,126,0.53,2.64,2.17,0,1,0,Gonzaga Saint Mary's (CA),Gonzaga
+277,2010-11,11,Missouri Valley Conference,10,184,153,0.546,2.32,1.45,0,1,0,Missouri State,Indiana State
+278,2010-11,12,Horizon League,10,179,153,0.539,1.87,1.73,0,1,1,Butler Cleveland State Milwaukee,Butler
+279,2010-11,13,Western Athletic Conference,9,161,133,0.548,1.56,0.34,1,1,0,Utah State,Utah State
+280,2010-11,14,Colonial Athletic Association,12,209,182,0.535,0.81,0.47,0,3,1,George Mason,Old Dominion
+281,2010-11,15,Big West Conference,9,131,152,0.463,-2.98,-1.28,0,1,0,Long Beach State,UC-Santa Barbara
+282,2010-11,16,Mid-American Conference,12,189,209,0.475,-3.29,-1.48,0,1,0,Kent State (East) Western Michigan (West),Akron
+283,2010-11,17,Ivy Group,8,117,113,0.509,-3.53,-2.64,0,1,0,Harvard Princeton,
+284,2010-11,18,Metro Atlantic Athletic Conference,10,157,168,0.483,-3.6,-2.53,0,1,0,Fairfield,Saint Peter's
+285,2010-11,19,Atlantic Sun Conference,11,164,189,0.465,-4.7,-2.65,0,1,0,Belmont,Belmont
+286,2010-11,20,Summit League,10,149,164,0.476,-4.81,-2.98,0,1,0,Oakland,Oakland
+287,2010-11,21,Big Sky Conference,9,132,144,0.478,-5.05,-2.89,0,1,0,Northern Colorado,Northern Colorado
+288,2010-11,22,Southern Conference,12,185,205,0.474,-5.14,-2.54,0,1,0,Chattanooga (North) Western Carolina (North) College of Charleston (South) Wofford (South),Wofford
+289,2010-11,23,Sun Belt Conference,12,176,198,0.471,-5.88,-3.65,0,1,0,Florida Atlantic (East) Arkansas State (West) Louisiana (West),Little Rock
+290,2010-11,24,Ohio Valley Conference,10,153,166,0.48,-6.46,-4.94,0,1,0,Murray State,Morehead State
+291,2010-11,25,Big South Conference,10,155,161,0.491,-6.49,-3.87,0,1,0,Coastal Carolina,North Carolina-Asheville
+292,2010-11,26,Northeast Conference,12,168,200,0.457,-6.72,-4.68,0,1,0,Long Island University,Long Island University
+293,2010-11,27,Patriot League,8,113,135,0.456,-6.95,-5.14,0,1,0,Bucknell,Bucknell
+294,2010-11,28,Southland Conference,12,181,186,0.493,-7.76,-5.22,0,1,0,McNeese State (East) Sam Houston State (West) Texas State (West),Texas-San Antonio
+295,2010-11,29,America East Conference,9,126,157,0.445,-8.17,-5.41,0,1,0,Vermont,Boston University
+296,2010-11,30,Mid-Eastern Athletic Conference,11,151,196,0.435,-12.83,-7.66,0,1,0,Bethune-Cookman,Hampton
+297,2010-11,31,Independent,6,67,112,0.374,-13.53,-3.71,0,0,0,,
+298,2010-11,32,Great West Conference,7,88,133,0.398,-15.02,-8.4,0,0,0,Utah Valley,North Dakota
+299,2010-11,33,Southwest Athletic Conference,10,116,197,0.371,-16.98,-9.41,0,1,0,Texas Southern,Alabama State
+301,2009-10,1,Big 12 Conference,12,260,146,0.64,13.62,8,4,7,0,Kansas,Kansas
+302,2009-10,2,Atlantic Coast Conference,12,260,146,0.64,13.24,7.76,2,6,1,Duke Maryland,Duke
+303,2009-10,3,Big East Conference,16,327,210,0.609,12.01,7.85,5,8,1,Syracuse,West Virginia
+304,2009-10,4,Big Ten Conference,11,218,155,0.584,11.38,7.92,4,5,1,Michigan State Ohio State Purdue,Ohio State
+305,2009-10,5,Southeastern Conference,12,242,160,0.602,10.71,6.47,3,4,0,Kentucky (East) Mississippi State (West),Kentucky
+306,2009-10,6,Pacific-10 Conference,10,178,146,0.549,8.81,6.69,0,2,0,University of California,Washington
+307,2009-10,7,Mountain West Conference,9,173,123,0.584,5.68,3.84,2,4,0,New Mexico,San Diego State
+308,2009-10,8,Atlantic 10 Conference,14,258,202,0.561,4.17,3.21,3,3,0,Temple Xavier,Temple
+309,2009-10,9,Missouri Valley Conference,10,190,139,0.578,4.12,2.46,0,1,0,Northern Iowa,Northern Iowa
+310,2009-10,10,Conference USA,12,216,178,0.548,4.05,2.64,0,2,0,Texas-El Paso,Houston
+311,2009-10,11,Western Athletic Conference,9,163,132,0.553,1.88,0.96,0,2,0,Utah State,New Mexico State
+312,2009-10,12,West Coast Conference,8,135,124,0.521,1.25,2.1,1,2,0,Gonzaga,Saint Mary's (CA)
+313,2009-10,13,Horizon League,10,176,152,0.537,0.29,0.93,1,1,1,Butler,Butler
+314,2009-10,14,Colonial Athletic Association,12,199,195,0.505,0.23,0.42,0,1,0,Old Dominion,Old Dominion
+315,2009-10,15,Mid-American Conference,12,195,190,0.506,-2.25,-1.27,0,1,0,Akron (East) Kent State (East) Eastern Michigan (West),Ohio
+316,2009-10,16,Metro Atlantic Athletic Conference,10,162,156,0.509,-2.72,-2.91,0,1,0,Siena,Siena
+317,2009-10,17,Big West Conference,9,139,146,0.488,-3.89,-1.67,0,1,0,Pacific UC-Santa Barbara,UC-Santa Barbara
+318,2009-10,18,Big Sky Conference,9,134,140,0.489,-4.35,-2.01,0,1,0,Weber State,Montana
+319,2009-10,19,Southern Conference,12,191,201,0.487,-4.63,-2.5,0,1,0,Appalachian State (North) Wofford (South),Wofford
+320,2009-10,20,Atlantic Sun Conference,9,144,141,0.505,-5.41,-2.71,0,1,0,Belmont Campbell Jacksonville Lipscomb,East Tennessee State
+321,2009-10,21,Ohio Valley Conference,10,157,163,0.491,-5.8,-3.33,0,1,0,Murray State,Murray State
+322,2009-10,22,Sun Belt Conference,13,199,212,0.484,-5.85,-3.73,0,1,0,Middle Tennessee (East) Troy (East) North Texas (West),North Texas
+323,2009-10,23,Southland Conference,11,179,161,0.526,-6.54,-4.35,0,1,0,Stephen F. Austin (East) Sam Houston State (West),Sam Houston State
+324,2009-10,24,Ivy Group,8,117,123,0.488,-6.73,-4.33,0,1,0,Cornell,
+325,2009-10,25,America East Conference,9,132,153,0.463,-8.18,-5.8,0,1,0,Stony Brook,Vermont
+326,2009-10,26,Summit League,10,152,160,0.487,-8.42,-4.68,0,1,0,Oakland,Oakland
+327,2009-10,27,Patriot League,8,112,134,0.455,-8.9,-7.31,0,1,0,Lehigh,Lehigh
+328,2009-10,28,Northeast Conference,11,152,190,0.444,-11.25,-7.91,0,1,0,Quinnipiac Robert Morris,Robert Morris
+329,2009-10,29,Mid-Eastern Athletic Conference,11,150,201,0.427,-12.07,-7.19,0,1,0,Morgan State,Morgan State
+330,2009-10,30,Big South Conference,9,142,137,0.509,-12.4,-7.59,0,1,0,Coastal Carolina,Winthrop
+331,2009-10,31,Independent,2,23,34,0.404,-13.8,-4.75,0,0,0,,
+332,2009-10,32,Southwest Athletic Conference,10,120,188,0.39,-18.01,-11.01,0,1,0,Jackson State,Arkansas-Pine Bluff
+333,2009-10,33,Great West Conference,4,37,89,0.294,-18.72,-7.39,0,0,0,South Dakota,South Dakota
+335,2008-09,1,Atlantic Coast Conference,12,255,142,0.642,12.49,7.82,5,7,1,North Carolina,Duke
+336,2008-09,2,Pacific-10 Conference,10,205,137,0.599,11.9,8.06,3,6,0,Washington,Southern California
+337,2008-09,3,Big East Conference,16,335,214,0.61,11.82,7.91,6,7,2,Louisville,Louisville
+338,2008-09,4,Big 12 Conference,12,260,153,0.63,11.41,6.66,3,6,0,Kansas,Missouri
+339,2008-09,5,Big Ten Conference,11,232,143,0.619,10.85,7.76,2,7,1,Michigan State,Purdue
+340,2008-09,6,Southeastern Conference,12,242,158,0.605,8.35,4.56,1,3,0,South Carolina (East) Tennessee (East) Louisiana State (West),Mississippi State
+341,2008-09,7,Mountain West Conference,9,170,125,0.576,6.45,4.03,1,2,0,Brigham Young New Mexico Utah,Utah
+342,2008-09,8,Conference USA,12,217,178,0.549,3.76,2.87,1,1,0,Memphis,Memphis
+343,2008-09,9,Atlantic 10 Conference,14,244,206,0.542,2.75,1.83,1,3,0,Xavier,Temple
+344,2008-09,10,Missouri Valley Conference,10,181,150,0.547,2.49,1.95,0,1,0,Creighton Northern Iowa,Northern Iowa
+345,2008-09,11,Horizon League,10,168,152,0.525,0.3,0.81,1,2,0,Butler,Cleveland State
+346,2008-09,12,Western Athletic Conference,9,158,135,0.539,0.3,0.02,0,1,0,Utah State,Utah State
+347,2008-09,13,West Coast Conference,8,130,129,0.502,-0.31,1.37,1,1,0,Gonzaga,Gonzaga
+348,2008-09,14,Colonial Athletic Association,12,201,190,0.514,-2.26,-1.78,0,1,0,Virginia Commonwealth,Virginia Commonwealth
+349,2008-09,15,Metro Atlantic Athletic Conference,10,161,160,0.502,-2.57,-1.8,0,1,0,Siena,Siena
+350,2008-09,16,Atlantic Sun Conference,7,122,100,0.55,-2.76,-1.27,0,1,0,Jacksonville,East Tennessee State
+351,2008-09,17,Big West Conference,9,133,146,0.477,-2.9,-1.63,0,1,0,Cal State Northridge,Cal State Northridge
+352,2008-09,18,Mid-American Conference,12,175,210,0.455,-3.6,-2.07,0,1,0,Bowling Green State (East) Buffalo (East) Ball State (West) Central Michigan (West) Western Michigan (West),Akron
+353,2008-09,19,Summit League,10,142,173,0.451,-3.74,-1.79,0,1,0,North Dakota State,North Dakota State
+354,2008-09,20,Sun Belt Conference,13,203,207,0.495,-4.69,-3.15,0,1,0,Western Kentucky (East) Little Rock (West),Western Kentucky
+355,2008-09,21,Southland Conference,11,179,159,0.53,-4.82,-3.1,0,1,0,Stephen F. Austin (East) Sam Houston State (West),Stephen F. Austin
+356,2008-09,22,Big Sky Conference,9,124,150,0.453,-5.1,-2.31,0,1,0,Weber State,Portland State
+357,2008-09,23,America East Conference,9,140,141,0.498,-6.16,-4.72,0,1,0,Binghamton Vermont,Binghamton
+358,2008-09,24,Ohio Valley Conference,10,148,163,0.476,-6.37,-4.47,0,1,0,Tennessee-Martin,Morehead State
+359,2008-09,25,Southern Conference,12,183,201,0.477,-7.69,-4.83,0,1,0,Chattanooga (North) Western Carolina (North) Davidson (South),Chattanooga
+360,2008-09,26,Ivy Group,8,101,125,0.447,-7.92,-5.46,0,1,0,Cornell,
+361,2008-09,27,Patriot League,8,112,131,0.461,-8.29,-6.41,0,1,0,American,American
+362,2008-09,28,Big South Conference,9,136,145,0.484,-9.25,-5.49,0,1,0,Radford,Radford
+363,2008-09,29,Northeast Conference,11,151,189,0.444,-9.47,-6.76,0,1,0,Robert Morris,Robert Morris
+364,2008-09,30,Independent,4,61,58,0.513,-11.25,-3.8,0,0,0,,
+365,2008-09,31,Mid-Eastern Athletic Conference,11,148,202,0.423,-12.97,-7.42,0,1,0,Morgan State,Morgan State
+366,2008-09,32,Southwest Athletic Conference,10,112,199,0.36,-16.45,-9.49,0,1,0,Alabama State,Alabama State
+368,2007-08,1,Big 12 Conference,12,253,154,0.622,12.36,7.41,2,6,1,Kansas Texas,Kansas
+369,2007-08,2,Atlantic Coast Conference,12,248,153,0.618,12.32,7.97,3,4,1,North Carolina,North Carolina
+370,2007-08,3,Pacific-10 Conference,10,207,133,0.609,11.7,7.75,3,6,1,UCLA,UCLA
+371,2007-08,4,Big East Conference,16,315,217,0.592,10.89,7.45,6,8,0,Georgetown,Pittsburgh
+372,2007-08,5,Southeastern Conference,12,244,157,0.608,9.92,6.08,2,6,0,Tennessee (East) Mississippi State (West),Georgia
+373,2007-08,6,Big Ten Conference,11,214,156,0.578,9.9,6.8,3,4,0,Wisconsin,Wisconsin
+374,2007-08,7,Missouri Valley Conference,10,184,145,0.559,5.36,3.82,1,1,0,Drake,Drake
+375,2007-08,8,Atlantic 10 Conference,14,254,197,0.563,4.97,3.32,1,3,0,Xavier,Temple
+376,2007-08,9,Mountain West Conference,9,165,126,0.567,3.96,1.95,0,2,0,Brigham Young,Nevada-Las Vegas
+377,2007-08,10,Conference USA,12,221,175,0.558,3.46,2.34,1,1,1,Memphis,Memphis
+378,2007-08,11,Horizon League,10,169,150,0.53,0.68,1.38,1,1,0,Butler,Butler
+379,2007-08,12,Mid-American Conference,12,183,195,0.484,-0.78,0.51,0,1,0,Kent State (East) Western Michigan (West),Kent State
+380,2007-08,13,West Coast Conference,8,122,135,0.475,-1.47,0.09,1,3,0,Gonzaga,San Diego
+381,2007-08,14,Colonial Athletic Association,12,189,192,0.496,-2.62,-2.05,0,1,0,Virginia Commonwealth,George Mason
+382,2007-08,15,Sun Belt Conference,13,213,196,0.521,-2.77,-1.74,0,2,0,South Alabama (East) Western Kentucky (East) Little Rock (West) Louisiana (West),Western Kentucky
+383,2007-08,16,Southern Conference,11,173,177,0.494,-3.34,-1.47,1,1,0,Appalachian State (North) Chattanooga (North) Davidson (South),Davidson
+384,2007-08,17,Western Athletic Conference,9,142,148,0.49,-3.45,-1.83,0,1,0,Boise State Nevada New Mexico State Utah State,Boise State
+385,2007-08,18,Summit League,8,124,127,0.494,-3.65,-1.04,0,1,0,Oral Roberts,Oral Roberts
+386,2007-08,19,Metro Atlantic Athletic Conference,10,152,164,0.481,-4.24,-3.16,0,1,0,Rider Siena,Siena
+387,2007-08,20,Big West Conference,9,142,140,0.504,-4.58,-2.82,0,1,0,Cal State Fullerton Cal State Northridge UC-Santa Barbara,Cal State Fullerton
+388,2007-08,21,Patriot League,8,125,119,0.512,-5.48,-4.97,0,1,0,American,American
+389,2007-08,22,Southland Conference,11,179,158,0.531,-6.28,-4.02,0,1,0,Lamar (East) Stephen F. Austin (West),Texas-Arlington
+390,2007-08,23,Big Sky Conference,9,129,144,0.473,-6.43,-3.33,0,1,0,Portland State,Portland State
+391,2007-08,24,Atlantic Sun Conference,8,130,122,0.516,-6.82,-4.43,0,1,0,Belmont,Belmont
+392,2007-08,25,Big South Conference,8,125,122,0.506,-7.64,-4.85,0,1,0,North Carolina-Asheville Winthrop,Winthrop
+393,2007-08,26,America East Conference,9,124,154,0.446,-7.65,-5.54,0,1,0,Maryland-Baltimore County,Maryland-Baltimore County
+394,2007-08,27,Ivy Group,8,105,127,0.453,-7.75,-4.86,0,1,0,Cornell,
+395,2007-08,28,Northeast Conference,11,158,180,0.467,-8.04,-6.18,0,1,0,Robert Morris,Mount St. Mary's
+396,2007-08,29,Ohio Valley Conference,11,156,186,0.456,-9.69,-6.77,0,1,0,Austin Peay,Austin Peay
+397,2007-08,30,Independent,4,51,70,0.421,-14.03,-3.29,0,0,0,,
+398,2007-08,31,Mid-Eastern Athletic Conference,11,150,203,0.425,-14.32,-8.27,0,1,0,Morgan State,Coppin State
+399,2007-08,32,Southwest Athletic Conference,10,118,189,0.384,-17.8,-11.23,0,1,0,Alabama State Mississippi Valley State,Mississippi Valley State
+401,2006-07,1,Atlantic Coast Conference,12,256,150,0.631,14.34,8.62,2,7,0,North Carolina Virginia,North Carolina
+402,2006-07,2,Southeastern Conference,12,253,153,0.623,12.94,7.92,2,5,1,Florida (East) Mississippi State (West),Florida
+403,2006-07,3,Big Ten Conference,11,226,143,0.612,11.95,7.59,2,6,1,Ohio State,Ohio State
+404,2006-07,4,Pacific-10 Conference,10,202,131,0.607,11.26,7.92,4,6,1,UCLA,Oregon
+405,2006-07,5,Big East Conference,16,321,202,0.614,11.14,6.84,5,6,1,Georgetown,Georgetown
+406,2006-07,6,Big 12 Conference,12,239,153,0.61,10.25,5.93,3,4,0,Kansas,Kansas
+407,2006-07,7,Missouri Valley Conference,10,189,135,0.583,8.58,5.99,1,2,0,Southern Illinois,Creighton
+408,2006-07,8,Mountain West Conference,9,176,117,0.601,6.3,3.76,2,2,0,Brigham Young,Nevada-Las Vegas
+409,2006-07,9,Conference USA,12,208,172,0.547,2.7,1.33,1,1,0,Memphis,Memphis
+410,2006-07,10,Western Athletic Conference,9,153,135,0.531,1.04,0.84,1,2,0,Nevada,New Mexico State
+411,2006-07,11,Atlantic 10 Conference,14,227,209,0.521,1.01,1.11,0,2,0,Massachusetts Xavier,George Washington
+412,2006-07,12,Horizon League,9,149,140,0.516,0.3,1.16,1,2,0,Butler Wright State,Wright State
+413,2006-07,13,West Coast Conference,8,122,132,0.48,-0.07,1.13,0,1,0,Gonzaga,Gonzaga
+414,2006-07,14,Mid-American Conference,12,186,194,0.489,-0.39,0.33,0,1,0,Akron (East) Toledo (West),Miami (OH)
+415,2006-07,15,Colonial Athletic Association,12,188,192,0.495,-1.3,-0.47,0,2,0,Virginia Commonwealth,Virginia Commonwealth
+416,2006-07,16,Big West Conference,8,129,118,0.522,-4.14,-2.74,0,1,0,Long Beach State,Long Beach State
+417,2006-07,17,Mid-Continent Conference,8,118,133,0.47,-4.36,-2.48,0,1,0,Oral Roberts,Oral Roberts
+418,2006-07,18,Southern Conference,11,172,174,0.497,-4.7,-2.2,0,1,0,Appalachian State (North) Davidson (South),Davidson
+419,2006-07,19,Patriot League,8,123,123,0.5,-5.68,-3.68,0,1,0,Bucknell Holy Cross,Holy Cross
+420,2006-07,20,Ivy Group,8,111,115,0.491,-6.13,-4.4,0,1,0,Pennsylvania,
+421,2006-07,21,Big South Conference,8,122,129,0.486,-6.24,-3.76,1,1,0,Winthrop,Winthrop
+422,2006-07,22,Metro Atlantic Athletic Conference,10,147,169,0.465,-6.48,-4.58,0,1,0,Marist,Niagara
+423,2006-07,23,Big Sky Conference,8,123,121,0.504,-6.64,-3.22,0,1,0,Northern Arizona Weber State,Weber State
+424,2006-07,24,America East Conference,9,129,147,0.467,-7.29,-5.42,0,1,0,Vermont,Albany (NY)
+425,2006-07,25,Sun Belt Conference,13,197,209,0.485,-8.04,-5.18,0,1,0,South Alabama (East) Arkansas State (West) Louisiana-Monroe (West),North Texas
+426,2006-07,26,Atlantic Sun Conference,8,127,122,0.51,-8.15,-4.35,0,1,0,East Tennessee State,Belmont
+427,2006-07,27,Southland Conference,11,162,175,0.481,-8.4,-4.84,0,1,0,Northwestern State (East) Texas A&M-Corpus Christi (West),Texas A&M-Corpus Christi
+428,2006-07,28,Ohio Valley Conference,11,155,189,0.451,-8.98,-5.99,0,1,0,Austin Peay,Eastern Kentucky
+429,2006-07,29,Northeast Conference,11,146,187,0.438,-9.23,-6.75,0,1,0,Central Connecticut State,Central Connecticut State
+430,2006-07,30,Independent,4,47,70,0.402,-10.57,-1.86,0,0,0,,
+431,2006-07,31,Mid-Eastern Athletic Conference,11,143,204,0.412,-14.23,-8.65,0,1,0,Delaware State,Florida A&M
+432,2006-07,32,Southwest Athletic Conference,10,126,182,0.409,-18.76,-11.43,0,1,0,Jackson State Mississippi Valley State,Jackson State
+434,2005-06,1,Atlantic Coast Conference,12,238,147,0.618,11.53,6.4,3,4,0,Duke,Duke
+435,2005-06,2,Big East Conference,16,309,194,0.614,11.23,7.13,6,8,0,Connecticut Villanova,Syracuse
+436,2005-06,3,Southeastern Conference,12,240,149,0.617,11.01,6.96,3,6,2,Tennessee (East) Louisiana State (West),Florida
+437,2005-06,4,Pacific-10 Conference,10,181,135,0.573,10.43,7.55,2,4,1,UCLA,UCLA
+438,2005-06,5,Big 12 Conference,12,215,146,0.596,10.39,6.84,3,4,0,Kansas Texas,Kansas
+439,2005-06,6,Big Ten Conference,11,213,133,0.616,10.32,6.66,3,6,0,Ohio State,Iowa
+440,2005-06,7,Missouri Valley Conference,10,179,133,0.574,6.6,4.68,0,4,0,Wichita State,Southern Illinois
+441,2005-06,8,Mountain West Conference,9,152,124,0.551,5.02,3.53,0,2,0,San Diego State,San Diego State
+442,2005-06,9,Atlantic 10 Conference,14,218,201,0.52,2.66,1.93,1,2,0,George Washington,Xavier
+443,2005-06,10,Western Athletic Conference,9,142,131,0.52,2.11,2.23,1,2,0,Nevada,Nevada
+444,2005-06,11,West Coast Conference,8,118,117,0.502,1.87,2.63,1,1,0,Gonzaga,Gonzaga
+445,2005-06,12,Colonial Athletic Association,12,196,172,0.533,0.82,0.35,0,2,1,George Mason North Carolina-Wilmington,North Carolina-Wilmington
+446,2005-06,13,Conference USA,12,191,169,0.531,0.31,0.29,2,2,0,Memphis,Memphis
+447,2005-06,14,Mid-American Conference,12,185,177,0.511,-0.99,-0.42,0,1,0,Kent State (East) Northern Illinois (West),Kent State
+448,2005-06,15,Horizon League,9,138,134,0.507,-1.47,-0.33,0,1,0,Milwaukee,Milwaukee
+449,2005-06,16,Metro Atlantic Athletic Conference,10,146,147,0.498,-1.74,-1.08,0,1,0,Manhattan,Iona
+450,2005-06,17,Big Sky Conference,8,125,110,0.532,-2.08,-1.15,0,1,0,Northern Arizona,Montana
+451,2005-06,18,Sun Belt Conference,11,164,159,0.508,-2.39,-1.27,0,1,0,Western Kentucky (East) South Alabama (West),South Alabama
+452,2005-06,19,Big West Conference,8,115,119,0.491,-3.03,-1.54,0,1,0,Pacific,Pacific
+453,2005-06,20,Southland Conference,11,159,162,0.495,-5.97,-3.51,0,1,0,Northwestern State,Northwestern State
+454,2005-06,21,Mid-Continent Conference,9,114,149,0.433,-7.02,-3.69,0,1,0,IUPUI Oral Roberts,Oral Roberts
+455,2005-06,22,Ivy Group,8,100,121,0.452,-7.23,-5.08,0,1,0,Pennsylvania,
+456,2005-06,23,Patriot League,8,114,122,0.483,-7.23,-4.63,0,1,0,Bucknell,Bucknell
+457,2005-06,24,America East Conference,9,113,148,0.433,-7.4,-4.9,0,1,0,Albany (NY),Albany (NY)
+458,2005-06,25,Northeast Conference,11,147,173,0.459,-7.5,-5.72,0,1,0,Fairleigh Dickinson,Monmouth
+459,2005-06,26,Southern Conference,11,166,163,0.505,-7.57,-4.96,0,1,0,Elon (North) Georgia Southern (South),Davidson
+460,2005-06,27,Ohio Valley Conference,11,153,167,0.478,-7.83,-5.4,0,1,0,Murray State,Murray State
+461,2005-06,28,Big South Conference,9,130,131,0.498,-8.92,-6.13,0,1,0,Winthrop,Winthrop
+462,2005-06,29,Atlantic Sun Conference,9,122,141,0.464,-10.96,-8.01,0,1,0,Belmont Lipscomb,Belmont
+463,2005-06,30,Southwest Athletic Conference,10,117,175,0.401,-14.16,-8.85,0,1,0,Southern,Southern
+464,2005-06,31,Mid-Eastern Athletic Conference,11,129,207,0.384,-14.58,-8.87,0,1,0,Delaware State,Hampton
+465,2005-06,32,Independent,4,39,78,0.333,-14.84,-2.48,0,0,0,,
+467,2004-05,1,Atlantic Coast Conference,11,221,132,0.626,14.5,9.08,4,5,1,North Carolina,Duke
+468,2004-05,2,Big 12 Conference,12,226,144,0.611,12.26,7.96,4,6,0,Kansas Oklahoma,Oklahoma State
+469,2004-05,3,Big East Conference,12,224,143,0.61,11.42,7.21,4,6,0,Boston College Connecticut,Syracuse
+470,2004-05,4,Big Ten Conference,11,207,145,0.588,11.35,8.26,3,5,2,Illinois,Illinois
+471,2004-05,5,Southeastern Conference,12,227,153,0.597,11.05,6.81,3,5,0,Kentucky (East) Alabama (West) Louisiana State (West),Florida
+472,2004-05,6,Pacific-10 Conference,10,181,128,0.586,8.81,6.72,2,4,0,Arizona,Washington
+473,2004-05,7,Missouri Valley Conference,10,177,134,0.569,6.18,4.29,0,3,0,Southern Illinois,Creighton
+474,2004-05,8,Conference USA,14,254,190,0.572,6.17,4.19,2,4,1,Louisville,Louisville
+475,2004-05,9,Mountain West Conference,8,136,108,0.557,6.02,4.29,1,2,0,Utah,New Mexico
+476,2004-05,10,West Coast Conference,8,142,103,0.58,3.63,2.43,1,2,0,Gonzaga,Gonzaga
+477,2004-05,11,Mid-American Conference,13,210,180,0.538,2.91,2.45,0,1,0,Miami (OH) (East) Toledo (West) Western Michigan (West),Ohio
+478,2004-05,12,Western Athletic Conference,10,162,144,0.529,2.5,1.72,0,2,0,Nevada,Texas-El Paso
+479,2004-05,13,Atlantic 10 Conference,12,166,189,0.468,0.17,1.51,0,1,0,Saint Joseph's (East) George Washington (West),George Washington
+480,2004-05,14,Sun Belt Conference,11,171,156,0.523,-0.95,-0.1,0,1,0,Little Rock (East) Denver (West),Louisiana
+481,2004-05,15,Horizon League,9,127,134,0.487,-1.03,0.42,0,1,0,Milwaukee,Milwaukee
+482,2004-05,16,Big West Conference,10,149,150,0.498,-1.76,-0.78,1,2,0,Pacific,Utah State
+483,2004-05,17,Colonial Athletic Association,10,150,150,0.5,-3.17,-2.48,0,1,0,Old Dominion,Old Dominion
+484,2004-05,18,America East Conference,10,145,147,0.497,-4.8,-3.92,0,1,0,Vermont,Vermont
+485,2004-05,19,Mid-Continent Conference,9,121,143,0.458,-4.89,-1.66,0,1,0,Oral Roberts,Oakland
+486,2004-05,20,Metro Atlantic Athletic Conference,10,133,160,0.454,-4.94,-3.64,0,1,0,Niagara Rider,Niagara
+487,2004-05,21,Ivy Group,8,105,115,0.477,-5.38,-4.11,0,1,0,Pennsylvania,
+488,2004-05,22,Southern Conference,12,183,174,0.513,-5.97,-3.73,0,1,0,Chattanooga (North) Davidson (South),Chattanooga
+489,2004-05,23,Ohio Valley Conference,11,150,169,0.47,-6.53,-3.82,0,1,0,Tennessee Tech,Eastern Kentucky
+490,2004-05,24,Patriot League,8,111,122,0.476,-6.85,-4.73,0,1,0,Holy Cross,Bucknell
+491,2004-05,25,Southland Conference,11,162,156,0.509,-7.19,-4.72,0,1,0,Northwestern State Southeastern Louisiana,Southeastern Louisiana
+492,2004-05,26,Big Sky Conference,8,105,123,0.461,-7.99,-5.09,0,1,0,Portland State,Montana
+493,2004-05,27,Big South Conference,9,124,140,0.47,-10.31,-6.86,0,1,0,Winthrop,Winthrop
+494,2004-05,28,Atlantic Sun Conference,11,152,166,0.478,-10.38,-7.72,0,1,0,Central Florida Gardner-Webb,Central Florida
+495,2004-05,29,Northeast Conference,11,138,177,0.438,-10.58,-7.49,0,1,0,Monmouth,Fairleigh Dickinson
+496,2004-05,30,Independent,4,39,74,0.345,-13.01,-4.2,0,0,0,,
+497,2004-05,31,Mid-Eastern Athletic Conference,11,136,189,0.418,-14.13,-9.64,0,1,0,Delaware State,Delaware State
+498,2004-05,32,Southwest Athletic Conference,10,119,169,0.413,-17.19,-11.8,0,1,0,Alabama A&M,Alabama A&M
+500,2003-04,1,Atlantic Coast Conference,9,187,104,0.643,16.55,10.72,6,6,2,Duke,Maryland
+501,2003-04,2,Southeastern Conference,12,227,138,0.622,11.76,7.28,3,6,0,Kentucky (East) Mississippi State (West),Kentucky
+502,2003-04,3,Big 12 Conference,12,224,150,0.599,10.7,6.83,3,4,1,Oklahoma State,Oklahoma State
+503,2003-04,4,Big East Conference,14,274,171,0.616,10.18,6.61,5,6,1,Pittsburgh,Connecticut
+504,2003-04,5,Big Ten Conference,11,188,147,0.561,8.21,6.42,2,3,0,Illinois,Wisconsin
+505,2003-04,6,Mountain West Conference,8,137,101,0.576,7.25,4.39,0,3,0,Air Force,Utah
+506,2003-04,7,Pacific-10 Conference,10,159,133,0.545,7.09,5.93,2,3,0,Stanford,Stanford
+507,2003-04,8,Conference USA,14,235,180,0.566,6.8,4.7,2,6,0,Alabama-Birmingham Charlotte Cincinnati DePaul Memphis,Cincinnati
+508,2003-04,9,Western Athletic Conference,10,171,141,0.548,5.6,4.24,0,2,0,Nevada Texas-El Paso,Nevada
+509,2003-04,10,Atlantic 10 Conference,12,198,174,0.532,4.54,3.94,1,4,0,Saint Joseph's (East) Dayton (West),Xavier
+510,2003-04,11,Missouri Valley Conference,10,159,141,0.53,3.39,2.48,0,2,0,Southern Illinois,Northern Iowa
+511,2003-04,12,West Coast Conference,8,125,118,0.514,1.8,2.13,1,1,0,Gonzaga,Gonzaga
+512,2003-04,13,Mid-American Conference,13,195,191,0.505,0.27,0.52,0,1,0,Kent State (East) Western Michigan (West),Western Michigan
+513,2003-04,14,Colonial Athletic Association,10,148,146,0.503,-0.47,-0.62,0,1,0,Virginia Commonwealth,Virginia Commonwealth
+514,2003-04,15,Horizon League,9,131,134,0.494,-0.49,0.14,0,1,0,Milwaukee,Illinois-Chicago
+515,2003-04,16,Big West Conference,10,144,144,0.5,-1.08,-0.31,1,1,0,Pacific Utah State,Pacific
+516,2003-04,17,Sun Belt Conference,11,160,151,0.514,-2.66,-1.75,0,1,0,Little Rock (East) Louisiana (West),Louisiana
+517,2003-04,18,Mid-Continent Conference,9,125,141,0.47,-3.39,-1.33,0,1,0,Valparaiso,Valparaiso
+518,2003-04,19,Metro Atlantic Athletic Conference,10,142,156,0.477,-4.04,-2.83,0,1,0,Manhattan,Manhattan
+519,2003-04,20,Big Sky Conference,8,108,121,0.472,-4.31,-2.16,0,1,0,Eastern Washington,Eastern Washington
+520,2003-04,21,Southern Conference,12,181,171,0.514,-5.26,-3.43,0,1,0,East Tennessee State (North) College of Charleston (South) Davidson (South) Georgia Southern (South),East Tennessee State
+521,2003-04,22,Ohio Valley Conference,11,153,165,0.481,-5.7,-3.28,0,1,0,Austin Peay,Murray State
+522,2003-04,23,Ivy Group,8,91,127,0.417,-6.54,-4.2,0,1,0,Princeton,
+523,2003-04,24,Atlantic Sun Conference,11,155,163,0.487,-7.06,-4.87,0,1,0,Troy,Central Florida
+524,2003-04,25,America East Conference,10,142,153,0.481,-8.11,-6.67,0,1,0,Boston University,Vermont
+525,2003-04,26,Southland Conference,11,154,165,0.483,-9.38,-6.37,0,1,0,Southeastern Louisiana Texas-Arlington Texas-San Antonio,Texas-San Antonio
+526,2003-04,27,Northeast Conference,11,146,170,0.462,-9.73,-7.5,0,1,0,Monmouth St. Francis (NY),Monmouth
+527,2003-04,28,Patriot League,8,109,122,0.472,-9.79,-7,0,1,0,American Lehigh,Lehigh
+528,2003-04,29,Big South Conference,9,120,140,0.462,-9.92,-6.71,0,1,0,Birmingham-Southern Liberty,Liberty
+529,2003-04,30,Independent,4,36,74,0.327,-11.88,-2.54,0,0,0,,
+530,2003-04,31,Mid-Eastern Athletic Conference,11,125,196,0.389,-13.74,-9.43,0,1,0,Coppin State South Carolina State,Florida A&M
+531,2003-04,32,Southwest Athletic Conference,10,119,169,0.413,-15.9,-11.27,0,1,0,Alabama State Mississippi Valley State,Alabama State
+533,2002-03,1,Southeastern Conference,12,220,145,0.603,12.95,8.58,4,6,0,Kentucky (East) Mississippi State (West),Kentucky
+534,2002-03,2,Big 12 Conference,12,238,146,0.62,12.94,8.21,4,6,2,Kansas,Oklahoma
+535,2002-03,3,Atlantic Coast Conference,9,170,111,0.605,12.75,7.83,3,4,0,Wake Forest,Duke
+536,2002-03,4,Big East Conference,14,262,179,0.594,11.03,7.13,4,4,1,Boston College (East) Connecticut (East) Pittsburgh (West) Syracuse (West),Pittsburgh
+537,2002-03,5,Big Ten Conference,11,200,146,0.578,10.68,7.66,2,5,0,Wisconsin,Illinois
+538,2002-03,6,Pacific-10 Conference,10,170,132,0.563,9.81,7.72,2,5,0,Arizona,Oregon
+539,2002-03,7,Conference USA,14,231,187,0.553,7.22,5.44,3,4,1,Marquette (American) Memphis (National),Louisville
+540,2002-03,8,Mountain West Conference,8,147,101,0.593,6.39,4.1,0,3,0,Brigham Young Utah,Colorado State
+541,2002-03,9,Atlantic 10 Conference,12,184,174,0.514,4.28,3.98,2,3,0,Saint Joseph's (East) Xavier (West),Dayton
+542,2002-03,10,Missouri Valley Conference,10,148,152,0.493,1.6,1.7,1,2,0,Southern Illinois,Creighton
+543,2002-03,11,West Coast Conference,8,122,115,0.515,1.28,1.45,0,2,0,Gonzaga,San Diego
+544,2002-03,12,Western Athletic Conference,10,154,143,0.519,0.94,1.23,0,1,0,Fresno State,Tulsa
+545,2002-03,13,Sun Belt Conference,11,172,154,0.528,0.87,0.49,0,1,0,Western Kentucky (East) Louisiana (West),Western Kentucky
+546,2002-03,14,Horizon League,9,142,131,0.52,0.66,0.53,0,2,0,Butler,Milwaukee
+547,2002-03,15,Mid-American Conference,13,196,188,0.51,0.46,0.94,0,1,0,Kent State (East) Central Michigan (West),Central Michigan
+548,2002-03,16,Colonial Athletic Association,10,141,148,0.488,-2.77,-2.57,0,1,0,North Carolina-Wilmington,North Carolina-Wilmington
+549,2002-03,17,Big West Conference,10,138,151,0.478,-2.94,-1.54,0,1,0,UC-Santa Barbara,Utah State
+550,2002-03,18,Metro Atlantic Athletic Conference,10,146,147,0.498,-3.2,-2.54,0,1,0,Manhattan,Manhattan
+551,2002-03,19,Big Sky Conference,8,115,118,0.494,-3.32,-1.73,0,1,0,Weber State,Weber State
+552,2002-03,20,Ivy Group,8,100,119,0.457,-5.08,-3.54,0,1,0,Pennsylvania,
+553,2002-03,21,Southern Conference,12,180,174,0.508,-5.59,-3.45,0,1,0,Appalachian State (North) Davidson (North) East Tennessee State (North) College of Charleston (South),East Tennessee State
+554,2002-03,22,Ohio Valley Conference,9,132,131,0.502,-5.77,-3.13,0,1,0,Austin Peay Morehead State,Austin Peay
+555,2002-03,23,Mid-Continent Conference,8,105,131,0.445,-6.03,-3.13,0,1,0,Valparaiso,IUPUI
+556,2002-03,24,America East Conference,9,126,139,0.475,-6.77,-4.99,0,1,0,Boston University,Vermont
+557,2002-03,25,Patriot League,8,112,118,0.487,-7.14,-5.7,0,1,0,Holy Cross,Holy Cross
+558,2002-03,26,Atlantic Sun Conference,12,171,178,0.49,-7.41,-5.47,0,1,0,Belmont (North) Mercer (South) Troy (South),Troy
+559,2002-03,27,Southland Conference,11,147,163,0.474,-9.08,-6.53,0,1,0,Sam Houston State,Sam Houston State
+560,2002-03,28,Northeast Conference,12,156,186,0.456,-10.8,-8.21,0,1,0,Wagner,Wagner
+561,2002-03,29,Big South Conference,8,105,126,0.455,-13.22,-8.84,0,1,0,Winthrop,North Carolina-Asheville
+562,2002-03,30,Southwest Athletic Conference,10,121,172,0.413,-13.82,-9.34,0,1,0,Prairie View Texas Southern,Texas Southern
+563,2002-03,31,Mid-Eastern Athletic Conference,11,130,188,0.409,-14.59,-10.32,0,1,0,South Carolina State,South Carolina State
+564,2002-03,32,Independent,6,58,114,0.337,-16.02,-5.96,0,0,0,,
+566,2001-02,1,Southeastern Conference,12,239,148,0.618,13.72,8.64,5,6,0,Florida (East) Georgia (East) Kentucky (East) Alabama (West),Mississippi State
+567,2001-02,2,Atlantic Coast Conference,9,172,114,0.601,12.99,8.71,2,4,1,Maryland,Duke
+568,2001-02,3,Pacific-10 Conference,10,179,131,0.577,11.15,8.67,4,6,0,Oregon,Arizona
+569,2001-02,4,Big Ten Conference,11,197,153,0.563,10.93,8.36,2,5,1,Illinois Indiana Ohio State Wisconsin,Ohio State
+570,2001-02,5,Big 12 Conference,12,232,153,0.603,10.39,6.88,3,6,2,Kansas,Oklahoma
+571,2001-02,6,Big East Conference,14,266,178,0.599,9.24,5.44,3,6,0,Connecticut (East) Pittsburgh (West),Connecticut
+572,2001-02,7,Conference USA,14,247,190,0.565,8.11,5.65,2,3,0,Cincinnati (American) Memphis (National),Cincinnati
+573,2001-02,8,Mountain West Conference,8,140,104,0.574,6.56,4.44,0,3,0,Wyoming,San Diego State
+574,2001-02,9,Atlantic 10 Conference,12,189,179,0.514,3.56,3.95,1,1,0,Saint Joseph's (East) Temple (East) Xavier (West),Xavier
+575,2001-02,10,Western Athletic Conference,10,170,145,0.54,3.15,2.47,1,2,0,Hawaii Tulsa,Hawaii
+576,2001-02,11,West Coast Conference,8,117,120,0.494,0.39,1.09,1,2,0,Gonzaga Pepperdine,Gonzaga
+577,2001-02,12,Mid-American Conference,13,204,196,0.51,0.28,0.9,0,1,0,Kent State (East) Ball State (West),Kent State
+578,2001-02,13,Missouri Valley Conference,10,150,154,0.493,0.26,0.82,0,2,0,Creighton Southern Illinois,Creighton
+579,2001-02,14,Horizon League,9,140,130,0.519,0.12,-0.19,0,1,0,Butler,Illinois-Chicago
+580,2001-02,15,Sun Belt Conference,11,170,158,0.518,-0.75,-0.74,1,1,0,Western Kentucky (East) Louisiana (West) New Mexico State (West),Western Kentucky
+581,2001-02,16,Big West Conference,10,146,144,0.503,-1.78,-0.63,0,1,0,UC-Irvine Utah State,UC-Santa Barbara
+582,2001-02,17,Southern Conference,12,189,162,0.538,-1.8,-1.03,0,1,0,Davidson (North) East Tennessee State (North) North Carolina-Greensboro (North) Chattanooga (South) College of Charleston (South) Georgia Southern (South),Davidson
+583,2001-02,18,Colonial Athletic Association,10,151,149,0.503,-2.63,-2,0,1,0,North Carolina-Wilmington,North Carolina-Wilmington
+584,2001-02,19,Mid-Continent Conference,8,117,119,0.496,-2.79,-1.4,0,1,0,Valparaiso,Valparaiso
+585,2001-02,20,Ivy Group,8,118,109,0.52,-4.4,-3.9,0,1,0,Pennsylvania Princeton Yale,
+586,2001-02,21,Big Sky Conference,8,116,115,0.502,-5.16,-2.55,0,1,0,Montana State,Montana
+587,2001-02,22,Ohio Valley Conference,9,132,138,0.489,-5.64,-2.41,0,1,0,Tennessee Tech,Murray State
+588,2001-02,23,Metro Atlantic Athletic Conference,10,135,163,0.453,-5.69,-4.86,0,1,0,Marist Rider,Siena
+589,2001-02,24,Atlantic Sun Conference,11,155,162,0.489,-6.82,-4.84,0,1,0,Georgia State Troy,Florida Atlantic
+590,2001-02,25,Patriot League,8,108,127,0.46,-8.15,-6.39,0,1,0,American,Holy Cross
+591,2001-02,26,Southland Conference,11,148,168,0.468,-9.24,-6.46,0,1,0,McNeese State,McNeese State
+592,2001-02,27,Independent,3,39,47,0.453,-11.23,-1.85,0,0,0,,
+593,2001-02,28,America East Conference,9,110,153,0.418,-12.26,-8.7,0,1,0,Boston University Vermont,Boston University
+594,2001-02,29,Northeast Conference,12,154,193,0.444,-12.35,-9.26,0,1,0,Central Connecticut State,Central Connecticut State
+595,2001-02,30,Mid-Eastern Athletic Conference,11,137,189,0.42,-12.55,-8.2,0,1,0,Hampton,Hampton
+596,2001-02,31,Big South Conference,8,96,140,0.407,-12.65,-6.85,0,1,0,North Carolina-Asheville Winthrop,Winthrop
+597,2001-02,32,Southwest Athletic Conference,10,119,171,0.41,-18.08,-12.15,0,1,0,Alcorn State,Alcorn State
+599,2000-01,1,Atlantic Coast Conference,9,176,111,0.613,16.47,10.65,5,6,2,Duke North Carolina,Duke
+600,2000-01,2,Southeastern Conference,12,237,146,0.619,14.11,8.71,3,6,0,Florida (East) Kentucky (East) Mississippi (West),Kentucky
+601,2000-01,3,Big Ten Conference,11,214,138,0.608,14,10.13,5,7,1,Illinois Michigan State,Iowa
+602,2000-01,4,Pacific-10 Conference,10,185,127,0.593,12.89,9.72,3,5,1,Stanford,
+603,2000-01,5,Big 12 Conference,12,220,152,0.591,9.65,6.46,4,6,0,Iowa State,Oklahoma
+604,2000-01,6,Big East Conference,14,257,171,0.6,8.63,5.21,4,5,0,Boston College (East) Notre Dame (West),Boston College
+605,2000-01,7,Western Athletic Conference,9,168,112,0.6,7.86,4.41,0,2,0,Fresno State,Hawaii
+606,2000-01,8,Conference USA,12,199,178,0.528,7.47,6.33,0,2,0,Cincinnati (American) Southern Mississippi (National),Charlotte
+607,2000-01,9,Atlantic 10 Conference,11,179,164,0.522,6.19,5.65,1,3,0,Saint Joseph's,Temple
+608,2000-01,10,Mountain West Conference,8,137,105,0.566,5.74,3.85,0,1,0,Brigham Young Utah Wyoming,Brigham Young
+609,2000-01,11,Missouri Valley Conference,10,157,146,0.518,2.42,1.82,0,2,0,Creighton,Indiana State
+610,2000-01,12,Midwestern Collegiate Conference,8,130,112,0.537,2.23,2.01,0,1,0,Butler,Butler
+611,2000-01,13,Mid-American Conference,13,184,200,0.479,-0.42,0.93,0,1,0,Kent State (East) Central Michigan (West),Kent State
+612,2000-01,14,West Coast Conference,8,118,122,0.492,-0.6,1.18,0,1,0,Gonzaga,Gonzaga
+613,2000-01,15,Colonial Athletic Association,9,132,130,0.504,-0.96,-1.14,0,1,0,Richmond,George Mason
+614,2000-01,16,Big West Conference,9,139,128,0.521,-2.93,-0.86,0,1,0,UC-Irvine,Utah State
+615,2000-01,17,Big Sky Conference,9,124,133,0.482,-3.13,-1.58,0,1,0,Cal State Northridge,Cal State Northridge
+616,2000-01,18,Sun Belt Conference,12,172,178,0.491,-3.48,-1.83,0,1,0,Western Kentucky (East) South Alabama (West),Western Kentucky
+617,2000-01,19,Metro Atlantic Athletic Conference,10,146,149,0.495,-4.71,-3.86,0,1,0,Iona Niagara Siena,Iona
+618,2000-01,20,Ohio Valley Conference,9,137,125,0.523,-4.98,-3.26,0,1,0,Tennessee Tech,Eastern Illinois
+619,2000-01,21,Mid-Continent Conference,9,125,140,0.472,-5.39,-2.65,0,1,0,Southern Utah Valparaiso,Southern Utah
+620,2000-01,22,Southern Conference,12,170,182,0.483,-6.95,-4.87,0,1,0,East Tennessee State (North) College of Charleston (South),North Carolina-Greensboro
+621,2000-01,23,America East Conference,10,138,150,0.479,-7.14,-5.77,0,1,0,Hofstra,Hofstra
+622,2000-01,24,Trans America Athletic Conference,10,142,155,0.478,-7.99,-5.97,0,1,0,Georgia State,Georgia State
+623,2000-01,25,Patriot League,7,102,101,0.502,-8.55,-7.05,0,1,0,Holy Cross,Holy Cross
+624,2000-01,26,Ivy Group,8,94,123,0.433,-8.82,-6,0,1,0,Princeton,
+625,2000-01,27,Independent,5,56,84,0.4,-11.51,-4.98,0,0,0,,
+626,2000-01,28,Northeast Conference,12,148,193,0.434,-11.64,-8.86,0,1,0,St. Francis (NY),Monmouth
+627,2000-01,29,Southland Conference,11,148,167,0.47,-11.73,-8.54,0,1,0,McNeese State,Northwestern State
+628,2000-01,30,Big South Conference,8,100,130,0.435,-12.56,-7.97,0,1,0,Radford,Winthrop
+629,2000-01,31,Mid-Eastern Athletic Conference,11,139,182,0.433,-14.63,-9.83,0,1,0,Hampton South Carolina State,Hampton
+630,2000-01,32,Southwest Athletic Conference,10,113,170,0.399,-17.5,-11.41,0,1,0,Alabama State,Alabama State
+632,1999-00,1,Southeastern Conference,12,239,150,0.614,13,7.96,5,6,1,Florida (East) Kentucky (East) Tennessee (East) Louisiana State (West),Arkansas
+633,1999-00,2,Big Ten Conference,11,208,144,0.591,12.86,9.64,5,6,2,Michigan State Ohio State,Michigan State
+634,1999-00,3,Atlantic Coast Conference,9,172,123,0.583,12.49,8.58,2,3,1,Duke,Duke
+635,1999-00,4,Pacific-10 Conference,10,179,131,0.577,11.78,8.8,2,4,0,Arizona Stanford,
+636,1999-00,5,Big 12 Conference,12,224,154,0.593,10.14,7.1,4,6,0,Iowa State,Iowa State
+637,1999-00,6,Conference USA,12,212,161,0.568,9.43,6.46,1,4,0,Cincinnati (American) South Florida (National) Tulane (National),Saint Louis
+638,1999-00,7,Big East Conference,13,246,171,0.59,8.82,5.72,4,5,0,Miami (FL) Syracuse,St. John's (NY)
+639,1999-00,8,Western Athletic Conference,8,145,102,0.587,5.66,2.84,1,2,0,Tulsa,Fresno State
+640,1999-00,9,Mountain West Conference,8,136,109,0.555,5.05,3.51,0,2,0,Nevada-Las Vegas Utah,Nevada-Las Vegas
+641,1999-00,10,Atlantic 10 Conference,12,191,176,0.52,4.93,4.32,1,3,0,Temple (East) Dayton (West),Temple
+642,1999-00,11,Missouri Valley Conference,10,167,142,0.54,3.62,2.59,0,2,0,Indiana State,Creighton
+643,1999-00,12,West Coast Conference,8,129,112,0.535,2.38,2.5,0,2,0,Pepperdine,Gonzaga
+644,1999-00,13,Mid-American Conference,13,207,178,0.538,2.14,2.04,0,1,0,Bowling Green State (East) Ball State (West) Toledo (West),Ball State
+645,1999-00,14,Midwestern Collegiate Conference,8,124,115,0.519,1.06,0.39,0,1,0,Butler,Butler
+646,1999-00,15,Big Sky Conference,9,134,122,0.523,-0.23,0.73,0,1,0,Eastern Washington Montana,Northern Arizona
+647,1999-00,16,Big West Conference,12,171,177,0.491,-1.2,0.51,0,1,0,Utah State (East) Long Beach State (West),Utah State
+648,1999-00,17,Colonial Athletic Association,9,132,131,0.502,-2.53,-2.15,0,1,0,George Mason James Madison,North Carolina-Wilmington
+649,1999-00,18,Ohio Valley Conference,10,145,143,0.503,-3.58,-2.33,0,1,0,Murray State Southeast Missouri State,Southeast Missouri State
+650,1999-00,19,Sun Belt Conference,9,124,141,0.468,-3.75,-2.2,0,1,0,Louisiana South Alabama,Louisiana
+651,1999-00,20,Metro Atlantic Athletic Conference,10,139,154,0.474,-6.51,-5.18,0,1,0,Siena,Iona
+652,1999-00,21,Mid-Continent Conference,9,114,150,0.432,-6.61,-3.43,0,1,0,Oakland,Valparaiso
+653,1999-00,22,Southern Conference,12,174,178,0.494,-7.21,-4.67,0,1,0,Appalachian State (North) College of Charleston (South),Appalachian State
+654,1999-00,23,Southland Conference,11,148,163,0.476,-7.66,-5.11,0,1,0,Sam Houston State,Lamar
+655,1999-00,24,Patriot League,7,100,102,0.495,-8.66,-7.35,0,1,0,Lafayette Navy,Lafayette
+656,1999-00,25,Trans America Athletic Conference,10,133,162,0.451,-8.92,-6.51,0,1,0,Georgia State Troy,Samford
+657,1999-00,26,Ivy Group,8,99,122,0.448,-9.63,-7.36,0,1,0,Pennsylvania,
+658,1999-00,27,America East Conference,10,139,155,0.473,-9.69,-7.67,0,1,0,Hofstra,Hofstra
+659,1999-00,28,Northeast Conference,12,160,183,0.466,-10.29,-8.01,0,1,0,Central Connecticut State,Central Connecticut State
+660,1999-00,29,Big South Conference,8,106,123,0.463,-11.06,-6.7,0,1,0,Radford,Winthrop
+661,1999-00,30,Independent,5,46,95,0.326,-12.37,-3.03,0,0,0,,
+662,1999-00,31,Mid-Eastern Athletic Conference,11,125,199,0.386,-15.46,-10.06,0,1,0,South Carolina State,South Carolina State
+663,1999-00,32,Southwest Athletic Conference,10,120,168,0.417,-16.87,-11.31,0,1,0,Alcorn State,Jackson State
+665,1998-99,1,Atlantic Coast Conference,9,187,110,0.63,14.83,9.01,3,3,1,Duke,Duke
+666,1998-99,2,Big Ten Conference,11,217,134,0.618,14.48,10.47,5,7,2,Michigan State,Michigan State
+667,1998-99,3,Pacific-10 Conference,10,180,121,0.598,11.67,8.6,3,4,0,Stanford,
+668,1998-99,4,Southeastern Conference,12,229,149,0.606,11.29,6.59,5,6,0,Tennessee (East) Auburn (West),Kentucky
+669,1998-99,5,Big East Conference,13,236,171,0.58,10.87,7.94,3,5,1,Connecticut,Connecticut
+670,1998-99,6,Conference USA,12,199,161,0.553,7.84,5.72,2,4,0,Cincinnati (American) Alabama-Birmingham (National),Charlotte
+671,1998-99,7,Big 12 Conference,12,211,166,0.56,7.35,5.12,1,5,0,Texas,Kansas
+672,1998-99,8,Missouri Valley Conference,10,162,133,0.549,6.31,4.87,0,3,0,Evansville,Creighton
+673,1998-99,9,Western Athletic Conference,16,264,208,0.559,4.74,2.9,2,3,0,Nevada-Las Vegas (Mountain) Tulsa (Mountain) Utah (Pacific),Utah
+674,1998-99,10,Atlantic 10 Conference,12,183,178,0.507,4.7,4.31,0,3,0,Temple (East) George Washington (West),Rhode Island
+675,1998-99,11,Mid-American Conference,13,189,170,0.526,1.79,2.04,0,2,0,Miami (OH) (East) Toledo (West),Kent State
+676,1998-99,12,West Coast Conference,8,124,114,0.521,0.47,1.2,0,1,0,Gonzaga,Gonzaga
+677,1998-99,13,Midwestern Collegiate Conference,8,114,117,0.494,-1.29,0.06,0,1,0,Detroit Mercy,Detroit Mercy
+678,1998-99,14,Sun Belt Conference,8,113,116,0.493,-1.68,-0.73,0,1,0,Louisiana Tech,Arkansas State
+679,1998-99,15,Colonial Athletic Association,9,129,130,0.498,-2.15,-2.32,0,1,0,George Mason,George Mason
+680,1998-99,16,Big Sky Conference,9,128,126,0.504,-3.06,-1.55,0,1,0,Weber State,Weber State
+681,1998-99,17,Big West Conference,12,159,173,0.479,-4.35,-1.98,0,1,0,Boise State (East) New Mexico State (East) UC-Santa Barbara (West),New Mexico State
+682,1998-99,18,Metro Atlantic Athletic Conference,10,145,139,0.511,-4.77,-4.61,0,1,0,Niagara Siena,Siena
+683,1998-99,19,Mid-Continent Conference,8,105,125,0.457,-6.16,-3.26,0,1,0,Oral Roberts Valparaiso,Valparaiso
+684,1998-99,20,Ohio Valley Conference,10,131,152,0.463,-7.81,-4.45,0,1,0,Murray State,Murray State
+685,1998-99,21,America East Conference,10,137,147,0.482,-8.3,-6.61,0,1,0,Delaware Drexel,Delaware
+686,1998-99,22,Ivy Group,8,99,114,0.465,-8.33,-6.48,0,1,0,Pennsylvania,
+687,1998-99,23,Southern Conference,12,168,168,0.5,-8.91,-5.71,1,1,0,Appalachian State (North) College of Charleston (South),College of Charleston
+688,1998-99,24,Independent,2,15,39,0.278,-9.07,-1.72,0,0,0,,
+689,1998-99,25,Northeast Conference,11,142,164,0.464,-9.68,-7.66,0,1,0,Maryland-Baltimore County,Mount St. Mary's
+690,1998-99,26,Patriot League,7,93,103,0.474,-10.84,-7.29,0,1,0,Lafayette,Lafayette
+691,1998-99,27,Southland Conference,11,135,164,0.452,-10.9,-7.2,0,1,0,Texas State,Texas-San Antonio
+692,1998-99,28,Trans America Athletic Conference,11,140,163,0.462,-10.97,-7.57,0,1,0,Samford,Samford
+693,1998-99,29,Big South Conference,6,75,93,0.446,-14.27,-7.68,0,1,0,Winthrop,Winthrop
+694,1998-99,30,Mid-Eastern Athletic Conference,11,125,182,0.407,-14.38,-9.85,0,1,0,Coppin State South Carolina State,Florida A&M
+695,1998-99,31,Southwest Athletic Conference,9,108,140,0.435,-15.85,-10.36,0,1,0,Alcorn State,Alcorn State
+697,1997-98,1,Atlantic Coast Conference,9,186,109,0.631,16.05,10.09,3,5,1,Duke,North Carolina
+698,1997-98,2,Big Ten Conference,11,207,144,0.59,12.59,8.37,4,5,0,Illinois Michigan State,Michigan
+699,1997-98,3,Southeastern Conference,12,233,143,0.62,11.48,6.96,4,5,1,Kentucky (East) Mississippi (West),Kentucky
+700,1997-98,4,Pacific-10 Conference,10,179,127,0.585,10.12,8.07,3,4,1,Arizona,
+701,1997-98,5,Big East Conference,13,231,167,0.58,9.43,7.07,2,5,0,Connecticut (Big East 6) Syracuse (Big East 7),Connecticut
+702,1997-98,6,Big 12 Conference,12,206,158,0.566,7.17,5.11,1,4,0,Kansas,Kansas
+703,1997-98,7,Atlantic 10 Conference,12,198,165,0.545,6.43,5.04,2,5,0,Temple (East) Dayton (West) George Washington (West) Xavier (West),Xavier
+704,1997-98,8,Conference USA,12,201,172,0.539,5.96,5.02,1,3,0,Cincinnati (American) Memphis (National),Cincinnati
+705,1997-98,9,Western Athletic Conference,16,272,204,0.571,5.27,3.71,3,4,1,Utah (Mountain) Texas Christian (Pacific),Nevada-Las Vegas
+706,1997-98,10,West Coast Conference,8,124,103,0.546,2.07,1.37,0,1,0,Gonzaga,San Francisco
+707,1997-98,11,Missouri Valley Conference,10,148,146,0.503,2.04,1.65,0,1,0,Illinois State,Illinois State
+708,1997-98,12,Midwestern Collegiate Conference,8,126,107,0.541,0.75,1.09,0,3,0,Detroit Mercy Illinois-Chicago,Butler
+709,1997-98,13,Mid-American Conference,12,165,167,0.497,0.14,1.01,0,2,0,Akron (East) Ball State (West),Eastern Michigan
+710,1997-98,14,Metro Atlantic Athletic Conference,10,144,139,0.509,-1.66,-1.98,0,1,0,Iona,Iona
+711,1997-98,15,Big West Conference,12,171,174,0.496,-1.78,-0.11,0,1,0,Utah State (East) Pacific (West),Utah State
+712,1997-98,16,Colonial Athletic Association,9,123,131,0.484,-1.9,-1.31,0,1,0,North Carolina-Wilmington William & Mary,Richmond
+713,1997-98,17,Sun Belt Conference,10,137,145,0.486,-3.43,-2.35,0,1,0,Arkansas State South Alabama,South Alabama
+714,1997-98,18,America East Conference,10,141,142,0.498,-5.13,-4.25,0,1,0,Boston University Delaware,Delaware
+715,1997-98,19,Big Sky Conference,8,105,118,0.471,-5.27,-3.28,0,1,0,Northern Arizona,Northern Arizona
+716,1997-98,20,Northeast Conference,9,118,135,0.466,-7.51,-5.71,0,1,0,Long Island University,Fairleigh Dickinson
+717,1997-98,21,Ivy Group,8,102,112,0.477,-8.1,-6.36,1,1,0,Princeton,
+718,1997-98,22,Ohio Valley Conference,10,137,145,0.486,-8.2,-5.68,1,1,0,Murray State,Murray State
+719,1997-98,23,Mid-Continent Conference,9,117,137,0.461,-9.52,-5.41,0,1,0,Valparaiso,Valparaiso
+720,1997-98,24,Southern Conference,11,143,165,0.464,-10.24,-6.19,0,1,0,Appalachian State (North) Davidson (North) Chattanooga (South),Davidson
+721,1997-98,25,Southland Conference,10,123,150,0.451,-10.71,-7.3,0,1,0,Nicholls State,Nicholls State
+722,1997-98,26,Patriot League,7,86,109,0.441,-11.05,-7.59,0,1,0,Lafayette Navy,Navy
+723,1997-98,27,Trans America Athletic Conference,12,152,179,0.459,-11.18,-8.2,0,1,0,College of Charleston (East) Georgia State (West),College of Charleston
+724,1997-98,28,Southwest Athletic Conference,8,101,124,0.449,-12.88,-8.44,0,1,0,Texas Southern,Prairie View
+725,1997-98,29,Big South Conference,7,84,111,0.431,-13.53,-8.31,0,1,0,North Carolina-Asheville,Radford
+726,1997-98,30,Mid-Eastern Athletic Conference,11,121,183,0.398,-15.74,-10.18,0,1,0,Coppin State,South Carolina State
+728,1996-97,1,Atlantic Coast Conference,9,184,102,0.643,17.33,10.68,5,6,1,Duke,North Carolina
+729,1996-97,2,Pacific-10 Conference,10,175,124,0.585,12.48,9.37,3,5,1,UCLA,
+730,1996-97,3,Big Ten Conference,11,201,136,0.596,12.42,9.08,2,6,1,Minnesota,
+731,1996-97,4,Big East Conference,13,232,169,0.579,10.44,7.72,2,4,0,Boston College (Big East 6) Villanova (Big East 6) Georgetown (Big East 7),Boston College
+732,1996-97,5,Big 12 Conference,12,222,147,0.602,10.23,6.74,3,5,0,Kansas,Kansas
+733,1996-97,6,Southeastern Conference,12,219,157,0.582,10.19,6.74,3,5,1,South Carolina (East) Mississippi (West),Kentucky
+734,1996-97,7,Atlantic 10 Conference,12,190,162,0.54,7.9,5.98,2,5,0,Saint Joseph's (East) Xavier (West),Saint Joseph's
+735,1996-97,8,Conference USA,12,195,166,0.54,5.47,4.09,2,4,0,Cincinnati (Blue) Tulane (Red) Charlotte (White) Memphis (White),Marquette
+736,1996-97,9,Western Athletic Conference,16,269,203,0.57,4.64,3.54,2,3,0,Utah (Mountain) Fresno State (Pacific) Hawaii (Pacific),Utah
+737,1996-97,10,Missouri Valley Conference,10,154,141,0.522,3.72,2.95,0,1,0,Illinois State,Illinois State
+738,1996-97,11,Mid-American Conference,10,149,135,0.525,1.17,1.13,0,1,0,Bowling Green State Miami (OH),Miami (OH)
+739,1996-97,12,Colonial Athletic Association,9,131,125,0.512,-0.98,-0.88,0,1,0,North Carolina-Wilmington Old Dominion,Old Dominion
+740,1996-97,13,West Coast Conference,8,109,115,0.487,-1.21,-0.27,0,1,0,Saint Mary's (CA) Santa Clara,Saint Mary's (CA)
+741,1996-97,14,Big West Conference,12,174,164,0.515,-1.32,-0.58,0,1,0,Nevada (East) New Mexico State (East) Utah State (East) Pacific (West),Pacific
+742,1996-97,15,Midwestern Collegiate Conference,9,116,140,0.453,-2.81,-0.82,0,1,0,Butler,Butler
+743,1996-97,16,Metro Atlantic Athletic Conference,8,105,121,0.465,-3.9,-3.22,0,1,0,Iona,Fairfield
+744,1996-97,17,Sun Belt Conference,10,140,142,0.496,-4.55,-3.28,0,1,0,New Orleans South Alabama,South Alabama
+745,1996-97,18,America East Conference,10,139,148,0.484,-5.13,-3.73,0,1,0,Boston University,Boston University
+746,1996-97,19,Independent,3,37,44,0.457,-5.32,-1.39,0,0,0,,
+747,1996-97,20,Big Sky Conference,8,111,115,0.491,-5.51,-3.44,0,1,0,Northern Arizona,Montana
+748,1996-97,21,Ivy Group,8,106,104,0.505,-5.77,-5.03,0,1,0,Princeton,
+749,1996-97,22,Mid-Continent Conference,9,123,128,0.49,-7.48,-5.33,0,1,0,Valparaiso,Valparaiso
+750,1996-97,23,Northeast Conference,10,130,149,0.466,-8.08,-6.32,0,1,0,Long Island University,Long Island University
+751,1996-97,24,Southern Conference,10,142,142,0.5,-9.04,-5.38,0,1,0,Davidson (North) Marshall (North) Chattanooga (South),Chattanooga
+752,1996-97,25,Ohio Valley Conference,10,131,153,0.461,-9.94,-6.95,0,1,0,Austin Peay Murray State,Murray State
+753,1996-97,26,Big South Conference,8,111,118,0.485,-10.02,-6.15,0,1,0,Liberty North Carolina-Asheville,Charleston Southern
+754,1996-97,27,Southland Conference,9,112,135,0.453,-11.52,-7.69,0,1,0,Louisiana-Monroe McNeese State Texas State,Texas State
+755,1996-97,28,Patriot League,7,80,114,0.412,-12.25,-7.58,0,1,0,Navy,Navy
+756,1996-97,29,Mid-Eastern Athletic Conference,10,113,165,0.406,-13.25,-8.78,0,1,0,Coppin State,Coppin State
+757,1996-97,30,Trans America Athletic Conference,12,149,182,0.45,-13.54,-9.83,1,1,0,College of Charleston (East) Samford (West),College of Charleston
+758,1996-97,31,Southwest Athletic Conference,8,94,131,0.418,-16.65,-9.98,0,1,0,Mississippi Valley State,Jackson State
+760,1995-96,1,Atlantic Coast Conference,9,164,111,0.596,14.98,10.2,3,6,0,Georgia Tech,Wake Forest
+761,1995-96,2,Big East Conference,13,231,163,0.586,13.33,9.75,4,5,1,Connecticut (Big East 6) Georgetown (Big East 7),Connecticut
+762,1995-96,3,Southeastern Conference,12,226,148,0.604,11.34,7.44,2,4,2,Kentucky (East) Mississippi State (West),Mississippi State
+763,1995-96,4,Big Ten Conference,11,197,139,0.586,11.13,7.82,3,5,0,Purdue,
+764,1995-96,5,Big Eight Conference,8,152,96,0.613,10.46,6.55,2,4,0,Kansas,Iowa State
+765,1995-96,6,Conference USA,11,198,135,0.595,9.75,6,4,4,0,Cincinnati (Blue) Tulane (Red) Memphis (White),Cincinnati
+766,1995-96,7,Pacific-10 Conference,10,161,130,0.553,8.61,6.98,2,4,0,UCLA,
+767,1995-96,8,Western Athletic Conference,10,167,133,0.557,6.24,4.86,2,2,0,Utah,New Mexico
+768,1995-96,9,Atlantic 10 Conference,12,195,168,0.537,5.04,4.15,2,4,1,Massachusetts (East) George Washington (West) Virginia Tech (West),Massachusetts
+769,1995-96,10,Southwest Conference,8,125,105,0.543,3.25,2.7,1,2,0,Texas Tech,Texas Tech
+770,1995-96,11,Missouri Valley Conference,11,164,152,0.519,2.56,1.82,0,2,0,Bradley,Tulsa
+771,1995-96,12,Mid-American Conference,10,148,135,0.523,2.37,2.19,0,1,0,Eastern Michigan,Eastern Michigan
+772,1995-96,13,West Coast Conference,8,129,99,0.566,0.8,0.22,0,2,0,Gonzaga Santa Clara,Portland
+773,1995-96,14,Sun Belt Conference,10,141,139,0.504,-0.57,-0.24,0,1,0,Little Rock New Orleans,New Orleans
+774,1995-96,15,Big West Conference,10,132,146,0.475,-0.94,-0.02,0,1,0,Long Beach State,San Jose State
+775,1995-96,16,Colonial Athletic Association,9,123,136,0.475,-1.88,-0.97,0,1,0,Virginia Commonwealth,Virginia Commonwealth
+776,1995-96,17,Midwestern Collegiate Conference,9,128,122,0.512,-2.18,-1.56,0,2,0,Green Bay,Northern Illinois
+777,1995-96,18,Metro Atlantic Athletic Conference,8,122,105,0.537,-2.2,-2.68,0,1,0,Fairfield Iona,Canisius
+778,1995-96,19,Big Sky Conference,8,108,114,0.486,-3.87,-2.29,0,1,0,Montana State,Montana State
+779,1995-96,20,North Atlantic Conference,10,128,152,0.457,-6.03,-4.18,0,1,0,Drexel,Drexel
+780,1995-96,21,Ohio Valley Conference,9,122,128,0.488,-6.87,-4.16,0,1,0,Murray State,Austin Peay
+781,1995-96,22,Southern Conference,10,130,147,0.469,-7.45,-4.26,0,1,0,Davidson (North) Western Carolina (South),Western Carolina
+782,1995-96,23,Ivy Group,8,105,107,0.495,-7.92,-6.32,0,1,0,Princeton,
+783,1995-96,24,Southland Conference,10,120,152,0.441,-8.23,-5.63,0,1,0,Louisiana-Monroe,Louisiana-Monroe
+784,1995-96,25,Trans America Athletic Conference,12,162,170,0.488,-8.65,-6.71,0,1,0,College of Charleston (East) Samford (West) Southeastern Louisiana (West),Central Florida
+785,1995-96,26,Northeast Conference,10,135,147,0.479,-9.05,-7.01,0,1,0,Mount St. Mary's,Monmouth
+786,1995-96,27,American West Conference,4,45,66,0.405,-10.3,-3.99,0,0,0,Cal Poly,Southern Utah
+787,1995-96,28,Big South Conference,8,101,120,0.457,-10.73,-6.95,0,1,0,North Carolina-Greensboro,North Carolina-Greensboro
+788,1995-96,29,Independent,2,22,31,0.415,-11.25,-3.63,0,0,0,,
+789,1995-96,30,Patriot League,7,81,114,0.415,-11.81,-7.63,0,1,0,Colgate Navy,Colgate
+790,1995-96,31,Mid-Continent Conference,10,128,151,0.459,-13.71,-9.96,0,1,0,Valparaiso,Valparaiso
+791,1995-96,32,Southwest Athletic Conference,8,101,118,0.461,-15.48,-9.72,0,1,0,Jackson State Mississippi Valley State,Mississippi Valley State
+792,1995-96,33,Mid-Eastern Athletic Conference,10,116,159,0.422,-16.86,-10.85,0,1,0,Coppin State South Carolina State,South Carolina State
+794,1994-95,1,Atlantic Coast Conference,9,175,102,0.632,17.01,10.53,4,4,1,Maryland North Carolina Virginia Wake Forest,Wake Forest
+795,1994-95,2,Big Eight Conference,8,163,87,0.652,13.94,8.67,5,5,1,Kansas,Oklahoma State
+796,1994-95,3,Pacific-10 Conference,10,173,120,0.59,12.82,9.45,3,5,1,UCLA,
+797,1994-95,4,Southeastern Conference,12,210,148,0.587,11.98,8.17,4,5,1,Kentucky (East) Arkansas (West) Mississippi State (West),Kentucky
+798,1994-95,5,Great Midwest Conference,7,128,89,0.59,10.4,5.4,0,3,0,Memphis,Cincinnati
+799,1994-95,6,Big East Conference,10,175,124,0.585,9.5,6.53,4,4,0,Connecticut,Villanova
+800,1994-95,7,Big Ten Conference,11,187,145,0.563,9.39,6.99,2,6,0,Purdue,
+801,1994-95,8,Metropolitan Collegiate Athletic Conference,7,137,82,0.626,9.16,4.77,0,3,0,Charlotte,Louisville
+802,1994-95,9,Atlantic 10 Conference,9,144,121,0.543,8.24,6.64,1,2,0,Massachusetts,Massachusetts
+803,1994-95,10,Western Athletic Conference,10,163,135,0.547,5.95,5.25,1,2,0,Utah,Utah
+804,1994-95,11,Missouri Valley Conference,11,168,147,0.533,2.91,2.36,0,2,0,Tulsa,Southern Illinois
+805,1994-95,12,Big Sky Conference,8,124,99,0.556,2.73,1.98,0,1,0,Montana Weber State,Weber State
+806,1994-95,13,Big West Conference,10,147,141,0.51,2.22,2.7,0,1,0,Utah State,Long Beach State
+807,1994-95,14,West Coast Conference,8,123,103,0.544,1.7,0.68,0,2,0,Santa Clara,Gonzaga
+808,1994-95,15,Southwest Conference,8,113,115,0.496,1.09,1.7,0,1,0,Texas Texas Tech,Texas
+809,1994-95,16,Mid-American Conference,10,151,133,0.532,1.03,1.47,0,2,0,Miami (OH),Ball State
+810,1994-95,17,Midwestern Collegiate Conference,11,154,153,0.502,-2.45,-1.92,0,2,0,Xavier,Green Bay
+811,1994-95,18,North Atlantic Conference,9,132,122,0.52,-3.77,-3.67,0,1,0,Drexel,Drexel
+812,1994-95,19,Metro Atlantic Athletic Conference,8,111,124,0.472,-3.92,-2.78,0,2,0,Manhattan,Saint Peter's
+813,1994-95,20,Independent,2,25,29,0.463,-4.4,-0.46,0,0,0,,
+814,1994-95,21,Sun Belt Conference,10,145,139,0.511,-4.44,-3.32,1,1,0,Western Kentucky,Western Kentucky
+815,1994-95,22,Colonial Athletic Association,8,103,125,0.452,-4.49,-2.35,0,1,0,Old Dominion,Old Dominion
+816,1994-95,23,Southern Conference,10,127,151,0.457,-8.48,-4.29,0,1,0,Marshall (North) Chattanooga (South),Chattanooga
+817,1994-95,24,Big South Conference,9,119,129,0.48,-8.54,-5.6,0,0,0,North Carolina-Greensboro,Charleston Southern
+818,1994-95,25,Southland Conference,10,134,144,0.482,-8.98,-6.35,0,1,0,Nicholls State,Nicholls State
+819,1994-95,26,Trans America Athletic Conference,11,141,164,0.462,-9.26,-5.89,0,1,0,College of Charleston,Florida International
+820,1994-95,27,Ohio Valley Conference,9,120,129,0.482,-9.47,-6.36,0,1,0,Murray State Tennessee State,Murray State
+821,1994-95,28,Ivy Group,8,92,118,0.438,-10.8,-7.86,0,1,0,Pennsylvania,
+822,1994-95,29,Mid-Continent Conference,10,128,144,0.471,-11.03,-8.49,0,0,0,Valparaiso,Valparaiso
+823,1994-95,30,Northeast Conference,10,127,152,0.455,-11.03,-8.36,0,1,0,Rider,Mount St. Mary's
+824,1994-95,31,Patriot League,8,101,122,0.453,-11.77,-8.63,0,1,0,Bucknell Colgate,Colgate
+825,1994-95,32,American West Conference,4,32,78,0.291,-14.34,-3.16,0,0,0,Southern Utah,Southern Utah
+826,1994-95,33,Southwest Athletic Conference,8,99,122,0.448,-14.5,-9.29,0,1,0,Texas Southern,Texas Southern
+827,1994-95,34,Mid-Eastern Athletic Conference,9,102,151,0.403,-16.69,-10.25,0,1,0,Coppin State,North Carolina A&T
+829,1993-94,1,Big Ten Conference,11,203,129,0.611,14.95,10.24,4,7,0,Purdue,
+830,1993-94,2,Big East Conference,10,183,121,0.602,14.11,9.39,2,6,0,Connecticut,Providence
+831,1993-94,3,Big Eight Conference,8,158,89,0.64,12.47,7.38,4,4,0,Missouri,Nebraska
+832,1993-94,4,Atlantic Coast Conference,9,171,112,0.604,12.31,8.35,2,5,1,Duke,North Carolina
+833,1993-94,5,Southeastern Conference,12,209,154,0.576,10.83,7.87,3,4,2,Florida (East) Kentucky (East) Arkansas (West),Kentucky
+834,1993-94,6,Great Midwest Conference,7,126,82,0.606,10.22,5.29,3,4,0,Marquette,Cincinnati
+835,1993-94,7,Pacific-10 Conference,10,161,128,0.557,9.43,7.51,3,4,1,Arizona,
+836,1993-94,8,Metropolitan Collegiate Athletic Conference,7,119,85,0.583,9.06,5.12,1,1,0,Louisville,Louisville
+837,1993-94,9,Atlantic 10 Conference,9,149,115,0.564,7.57,5.82,2,3,0,Massachusetts,Massachusetts
+838,1993-94,10,West Coast Conference,8,121,107,0.531,3.04,2.04,0,1,0,Gonzaga,Pepperdine
+839,1993-94,11,Western Athletic Conference,10,165,131,0.557,2.69,2.59,0,2,0,New Mexico,Hawaii
+840,1993-94,12,Southwest Conference,8,114,115,0.498,1.5,1.54,1,1,0,Texas,Texas
+841,1993-94,13,Midwestern Collegiate Conference,6,94,80,0.54,1.3,0.73,0,0,0,Xavier,Detroit Mercy
+842,1993-94,14,Mid-American Conference,10,148,132,0.529,-0.31,-0.64,0,1,0,Ohio,Ohio
+843,1993-94,15,Missouri Valley Conference,10,144,140,0.507,-0.33,0.4,0,2,0,Southern Illinois Tulsa,Southern Illinois
+844,1993-94,16,Big Sky Conference,8,126,96,0.568,-0.8,-0.85,0,1,0,Idaho State Weber State,Boise State
+845,1993-94,17,Big West Conference,10,143,143,0.5,-0.83,0.22,0,1,0,New Mexico State,New Mexico State
+846,1993-94,18,Sun Belt Conference,10,148,135,0.523,-1.18,-1.13,0,2,0,Western Kentucky,Louisiana
+847,1993-94,19,Colonial Athletic Association,8,110,115,0.489,-2.99,-2.72,0,1,0,James Madison Old Dominion,James Madison
+848,1993-94,20,Metro Atlantic Athletic Conference,8,119,111,0.517,-3.32,-3.21,0,1,0,Canisius,Loyola (MD)
+849,1993-94,21,Mid-Continent Conference,10,137,147,0.482,-4.98,-3.52,0,1,0,Green Bay,Green Bay
+850,1993-94,22,Southern Conference,10,138,145,0.488,-5.11,-2.51,0,1,0,Chattanooga,Chattanooga
+851,1993-94,23,North Atlantic Conference,8,118,105,0.529,-5.89,-5.87,0,1,0,Drexel,Drexel
+852,1993-94,24,Ohio Valley Conference,9,113,141,0.445,-7.36,-3.98,0,1,0,Murray State,Tennessee State
+853,1993-94,25,Independent,6,55,110,0.333,-8.12,-0.39,0,0,0,,
+854,1993-94,26,Southland Conference,10,134,146,0.479,-8.37,-6.12,0,1,0,Louisiana-Monroe,Texas State
+855,1993-94,27,Northeast Conference,10,128,151,0.459,-8.91,-6.6,0,1,0,Rider,Rider
+856,1993-94,28,Trans America Athletic Conference,10,127,153,0.454,-8.96,-5.5,0,2,0,College of Charleston,Central Florida
+857,1993-94,29,Ivy Group,8,98,112,0.467,-9.59,-6.62,0,1,0,Pennsylvania,
+858,1993-94,30,Big South Conference,10,131,147,0.471,-10.24,-7.01,0,1,0,Towson,Liberty
+859,1993-94,31,Patriot League,8,96,127,0.43,-11.48,-8.09,0,1,0,Colgate Fordham Holy Cross Navy,Navy
+860,1993-94,32,Mid-Eastern Athletic Conference,9,109,145,0.429,-13.37,-8.82,0,1,0,Coppin State,North Carolina A&T
+861,1993-94,33,Southwest Athletic Conference,8,100,123,0.448,-15.03,-9.56,0,1,0,Texas Southern,Texas Southern
+862,1993-94,34,East Coast Conference,6,57,108,0.345,-17.78,-7.85,0,0,0,Troy,Hofstra
+864,1992-93,1,Atlantic Coast Conference,9,181,100,0.644,15.41,10.03,5,6,1,North Carolina,Georgia Tech
+865,1992-93,2,Big Eight Conference,8,157,92,0.631,14.21,8.54,2,6,1,Kansas,Missouri
+866,1992-93,3,Big Ten Conference,11,203,130,0.61,13.28,9.39,4,5,1,Indiana,
+867,1992-93,4,Great Midwest Conference,6,116,71,0.62,12.37,6.13,1,3,0,Cincinnati,Cincinnati
+868,1992-93,5,Big East Conference,10,175,126,0.581,12.01,8.52,1,3,0,Seton Hall,Seton Hall
+869,1992-93,6,Southeastern Conference,12,209,150,0.582,10.5,7.92,3,4,1,Vanderbilt (East) Arkansas (West),Kentucky
+870,1992-93,7,Atlantic 10 Conference,8,142,95,0.599,9.11,5.78,1,4,0,Massachusetts,Massachusetts
+871,1992-93,8,Pacific-10 Conference,10,161,129,0.555,8.93,7.5,1,3,0,Arizona,
+872,1992-93,9,Metropolitan Collegiate Athletic Conference,7,107,95,0.53,5.09,3.78,1,2,0,Louisville,Louisville
+873,1992-93,10,Big West Conference,10,150,134,0.528,3.21,2.87,2,2,0,New Mexico State,Long Beach State
+874,1992-93,11,Southwest Conference,8,120,106,0.531,2.92,2.71,0,2,0,Southern Methodist,Texas Tech
+875,1992-93,12,Western Athletic Conference,10,166,134,0.553,2.72,2.81,2,3,0,Brigham Young Utah,New Mexico
+876,1992-93,13,Missouri Valley Conference,10,143,142,0.502,1.47,2.18,0,1,0,Illinois State,Southern Illinois
+877,1992-93,14,Midwestern Collegiate Conference,8,111,116,0.489,1.12,2.15,0,2,0,Evansville Xavier,Evansville
+878,1992-93,15,Sun Belt Conference,10,144,135,0.516,0.97,0.71,2,2,0,New Orleans,Western Kentucky
+879,1992-93,16,Colonial Athletic Association,8,119,108,0.524,0.29,-0.01,0,1,0,James Madison Old Dominion,East Carolina
+880,1992-93,17,West Coast Conference,8,120,109,0.524,-3.39,-2.19,0,1,0,Pepperdine,Santa Clara
+881,1992-93,18,Metro Atlantic Athletic Conference,8,113,112,0.502,-3.7,-3.19,0,1,0,Manhattan,Manhattan
+882,1992-93,19,Mid-American Conference,10,141,144,0.495,-4.28,-2.87,0,1,0,Ball State Miami (OH),Ball State
+883,1992-93,20,Big Sky Conference,8,117,107,0.522,-5.14,-4.43,0,1,0,Idaho,Boise State
+884,1992-93,21,Southern Conference,10,139,143,0.493,-6,-4.28,0,1,0,Chattanooga,Chattanooga
+885,1992-93,22,Ivy Group,8,103,106,0.493,-6.11,-4.89,0,1,0,Pennsylvania,
+886,1992-93,23,Southland Conference,10,133,139,0.489,-6.49,-4.38,0,1,0,Louisiana-Monroe,Louisiana-Monroe
+887,1992-93,24,Mid-Continent Conference,9,119,133,0.472,-6.57,-5.11,0,1,0,Cleveland State,Wright State
+888,1992-93,25,North Atlantic Conference,8,110,113,0.493,-8.06,-6.48,0,1,0,Drexel Northeastern,Delaware
+889,1992-93,26,Southwest Athletic Conference,8,106,122,0.465,-9.09,-5.49,0,1,0,Jackson State,Southern
+890,1992-93,27,Ohio Valley Conference,9,113,134,0.457,-9.12,-4.8,0,1,0,Tennessee State,Tennessee State
+891,1992-93,28,Trans America Athletic Conference,9,126,120,0.512,-9.48,-7.39,0,0,0,Florida International,
+892,1992-93,29,Patriot League,8,102,123,0.453,-9.49,-6.75,0,1,0,Bucknell,Holy Cross
+893,1992-93,30,Independent,11,111,186,0.374,-10.14,-2.7,0,0,0,,
+894,1992-93,31,Northeast Conference,10,124,159,0.438,-10.86,-8.24,0,1,0,Rider,Rider
+895,1992-93,32,Big South Conference,10,132,154,0.462,-13.06,-9.32,0,1,0,Towson,Coastal Carolina
+896,1992-93,33,Mid-Eastern Athletic Conference,9,110,141,0.438,-16.39,-10.91,0,1,0,Coppin State,Coppin State
+898,1991-92,1,Big Ten Conference,10,188,124,0.603,15.85,10.91,4,5,2,Ohio State,
+899,1991-92,2,Big Eight Conference,8,166,83,0.667,15.8,9.57,4,6,0,Kansas,Kansas
+900,1991-92,3,Atlantic Coast Conference,9,179,106,0.628,13.7,9.04,3,5,1,Duke,Duke
+901,1991-92,4,Southeastern Conference,12,219,154,0.587,10.98,7.54,4,4,0,Kentucky (East) Arkansas (West),Kentucky
+902,1991-92,5,Great Midwest Conference,6,113,70,0.617,10.58,5.27,2,3,1,Cincinnati DePaul,Cincinnati
+903,1991-92,6,Big East Conference,10,177,136,0.565,10.43,7.38,3,5,0,Georgetown Seton Hall St. John's (NY),Syracuse
+904,1991-92,7,Pacific-10 Conference,10,178,126,0.586,10.42,8.21,3,4,0,UCLA,
+905,1991-92,8,Metropolitan Collegiate Athletic Conference,7,120,88,0.577,7.06,4.57,0,4,0,Tulane,Charlotte
+906,1991-92,9,Atlantic 10 Conference,9,156,116,0.574,6.09,4.58,1,3,0,Massachusetts,Massachusetts
+907,1991-92,10,Midwestern Collegiate Conference,6,100,76,0.568,5.1,2.18,0,1,0,Evansville,Evansville
+908,1991-92,11,Southwest Conference,8,135,109,0.553,4.78,3.2,0,2,0,Houston Texas,Houston
+909,1991-92,12,Western Athletic Conference,9,153,126,0.548,4.7,3.79,0,2,0,Brigham Young Texas-El Paso,Brigham Young
+910,1991-92,13,Big West Conference,10,155,137,0.531,4.2,3.96,1,1,0,Nevada-Las Vegas,New Mexico State
+911,1991-92,14,Mid-American Conference,9,137,128,0.517,0.8,0.7,0,1,0,Miami (OH),Miami (OH)
+912,1991-92,15,Sun Belt Conference,11,166,164,0.503,-0.06,-0.39,0,1,0,Louisiana Louisiana Tech,Louisiana
+913,1991-92,16,West Coast Conference,8,123,110,0.528,-0.11,-0.43,0,1,0,Pepperdine,Pepperdine
+914,1991-92,17,Missouri Valley Conference,10,133,156,0.46,-1.3,0.4,0,1,0,Illinois State Southern Illinois,Missouri State
+915,1991-92,18,Metro Atlantic Athletic Conference,9,130,136,0.489,-2.81,-2.07,0,1,0,Manhattan,La Salle
+916,1991-92,19,Colonial Athletic Association,8,109,125,0.466,-3.45,-1.18,0,1,0,James Madison Richmond,Old Dominion
+917,1991-92,20,Mid-Continent Conference,9,131,128,0.506,-3.58,-2.78,0,1,0,Green Bay,Eastern Illinois
+918,1991-92,21,Big Sky Conference,9,132,130,0.504,-4.09,-2.98,0,1,0,Montana,Montana
+919,1991-92,22,Ohio Valley Conference,8,107,125,0.461,-5.27,-1.86,0,1,0,Murray State,Murray State
+920,1991-92,23,Southern Conference,8,117,114,0.506,-5.41,-3.46,0,1,0,Chattanooga East Tennessee State,East Tennessee State
+921,1991-92,24,Independent,12,162,179,0.475,-6.46,-3.07,0,0,0,,
+922,1991-92,25,Patriot League,8,103,128,0.446,-7.23,-5.63,0,1,0,Bucknell Fordham,Fordham
+923,1991-92,26,Ivy Group,8,99,111,0.471,-7.41,-5.28,0,1,0,Princeton,
+924,1991-92,27,Southland Conference,10,132,151,0.466,-8.43,-5.61,0,1,0,Texas-San Antonio,Louisiana-Monroe
+925,1991-92,28,North Atlantic Conference,8,108,125,0.464,-9.5,-6.99,0,1,0,Delaware,Delaware
+926,1991-92,29,Trans America Athletic Conference,8,101,130,0.437,-9.77,-5.94,0,1,0,Georgia Southern,Georgia Southern
+927,1991-92,30,Northeast Conference,9,124,137,0.475,-10.72,-8.82,0,1,0,Robert Morris,Robert Morris
+928,1991-92,31,Big South Conference,8,115,119,0.491,-13.09,-9.8,0,1,0,Radford,Campbell
+929,1991-92,32,East Coast Conference,7,77,124,0.383,-14.75,-9.4,0,0,0,Hofstra,Towson
+930,1991-92,33,Southwest Athletic Conference,8,94,136,0.409,-15.16,-8.68,0,1,0,Mississippi Valley State Texas Southern,Mississippi Valley State
+931,1991-92,34,Mid-Eastern Athletic Conference,9,105,154,0.405,-19.89,-13.25,0,1,0,Howard North Carolina A&T,Howard
+933,1990-91,1,Big Eight Conference,8,161,97,0.624,16.35,10.51,3,3,1,Kansas Oklahoma State,Missouri
+934,1990-91,2,Atlantic Coast Conference,8,165,89,0.65,15.83,9.55,2,6,2,Duke,North Carolina
+935,1990-91,3,Big East Conference,9,181,107,0.628,14.61,9.88,3,7,0,Syracuse,Seton Hall
+936,1990-91,4,Pacific-10 Conference,10,180,119,0.602,12.39,8.54,2,4,0,Arizona,
+937,1990-91,5,Southeastern Conference,10,164,135,0.548,11.26,8.52,4,5,0,Louisiana State Mississippi State,Alabama
+938,1990-91,6,Big Ten Conference,10,180,122,0.596,10.99,7.87,2,5,0,Indiana Ohio State,
+939,1990-91,7,Southwest Conference,9,149,124,0.546,7.79,5.47,2,2,0,Arkansas,Arkansas
+940,1990-91,8,Metropolitan Collegiate Athletic Conference,8,139,104,0.572,7.08,4.68,1,2,0,Southern Mississippi,Florida State
+941,1990-91,9,Western Athletic Conference,9,160,115,0.582,4.62,3.3,1,3,0,Utah,Brigham Young
+942,1990-91,10,Atlantic 10 Conference,10,162,142,0.533,4.51,4.01,0,3,0,Rutgers,Penn State
+943,1990-91,11,Big West Conference,10,153,140,0.522,3.28,2.73,2,2,1,Nevada-Las Vegas,Nevada-Las Vegas
+944,1990-91,12,American South Conference,7,120,88,0.577,1.73,-1.09,0,2,0,Arkansas State New Orleans,Louisiana Tech
+945,1990-91,13,Missouri Valley Conference,9,131,141,0.482,1.05,1.77,0,1,0,Creighton,Creighton
+946,1990-91,14,Mid-American Conference,9,142,124,0.534,0.91,0.42,0,1,0,Eastern Michigan,Eastern Michigan
+947,1990-91,15,Sun Belt Conference,8,121,118,0.506,0.59,0.99,0,1,0,South Alabama,South Alabama
+948,1990-91,16,Metro Atlantic Athletic Conference,9,136,130,0.511,-0.87,-0.72,0,1,0,Siena,Saint Peter's
+949,1990-91,17,Midwestern Collegiate Conference,8,117,120,0.494,-0.88,-0.85,0,1,0,Xavier,Xavier
+950,1990-91,18,West Coast Conference,8,115,120,0.489,-2.21,-0.99,0,1,0,Pepperdine,Pepperdine
+951,1990-91,19,Mid-Continent Conference,9,139,125,0.527,-3.34,-2.45,0,2,0,Northern Illinois,Green Bay
+952,1990-91,20,Colonial Athletic Association,8,114,119,0.489,-3.58,-2.51,0,1,0,James Madison,Richmond
+953,1990-91,21,Ohio Valley Conference,7,112,94,0.544,-4.23,-3.59,0,1,0,Murray State,Murray State
+954,1990-91,22,Southern Conference,8,124,109,0.532,-4.49,-3.14,1,1,0,Chattanooga East Tennessee State Furman,East Tennessee State
+955,1990-91,23,Patriot League,7,98,109,0.473,-6.44,-4.65,0,0,0,Fordham,Fordham
+956,1990-91,24,Big Sky Conference,9,127,133,0.488,-6.99,-5.12,0,1,0,Montana,Montana
+957,1990-91,25,Northeast Conference,9,125,137,0.477,-7.73,-6.38,0,1,0,Fairleigh Dickinson Saint Francis (PA),Saint Francis (PA)
+958,1990-91,26,Ivy Group,8,97,112,0.464,-7.85,-5.12,1,1,0,Princeton,
+959,1990-91,27,North Atlantic Conference,6,77,99,0.438,-8.2,-4.71,0,1,0,Northeastern,Northeastern
+960,1990-91,28,East Coast Conference,7,86,116,0.426,-9.73,-6.16,0,1,0,Towson,Towson
+961,1990-91,29,Trans America Athletic Conference,8,101,131,0.435,-10.35,-7.23,0,1,0,Texas-San Antonio,Georgia State
+962,1990-91,30,Southland Conference,8,104,125,0.454,-10.82,-8.25,0,1,0,Louisiana-Monroe,Louisiana-Monroe
+963,1990-91,31,Independent,17,171,309,0.356,-11.49,-4.69,1,1,0,,
+964,1990-91,32,Mid-Eastern Athletic Conference,9,110,150,0.423,-12.32,-8.78,0,0,0,Coppin State,Florida A&M
+965,1990-91,33,Southwest Athletic Conference,8,94,133,0.414,-13.64,-7.54,0,0,0,Jackson State,Jackson State
+966,1990-91,34,Big South Conference,8,104,128,0.448,-14.54,-9.81,0,1,0,Coastal Carolina,Coastal Carolina
