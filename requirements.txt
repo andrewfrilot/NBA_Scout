@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 absl-py==0.7.1
 alabaster==0.7.12
 anaconda-client==1.7.2
@@ -28,10 +29,15 @@ certifi==2018.11.29
 cffi==1.11.5
 chardet==3.0.4
 citipy==0.0.5
+=======
+astroid==2.1.0
+certifi==2019.6.16
+>>>>>>> aadeade11f30f9d1ceefe081055bfb7ad67150d1
 Click==7.0
 cloudpickle==0.6.1
 clyent==1.2.2
 colorama==0.4.1
+<<<<<<< HEAD
 comtypes==1.1.7
 conda==4.6.11
 conda-build==3.17.6
@@ -82,6 +88,11 @@ ipython==7.2.0
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 isort==4.3.17
+=======
+Flask==1.1.1
+Flask-SQLAlchemy==2.4.0
+isort==4.3.4
+>>>>>>> aadeade11f30f9d1ceefe081055bfb7ad67150d1
 itsdangerous==1.1.0
 jdcal==1.4
 jedi==0.13.2
@@ -198,6 +209,7 @@ Send2Trash==1.5.0
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.12.0
+<<<<<<< HEAD
 snowballstemmer==1.2.1
 sortedcollections==1.0.1
 sortedcontainers==2.1.0
@@ -230,6 +242,10 @@ Werkzeug==0.14.1
 widgetsnbextension==3.4.2
 win-inet-pton==1.0.1
 win-unicode-console==0.5
+=======
+SQLAlchemy==1.3.6
+Werkzeug==0.15.5
+>>>>>>> aadeade11f30f9d1ceefe081055bfb7ad67150d1
 wincertstore==0.2
 wrapt==1.11.1
 xlrd==1.2.0
