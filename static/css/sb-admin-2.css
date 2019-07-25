@@ -12058,3 +12058,8 @@ footer.sticky-footer .copyright {
 body.sidebar-toggled footer.sticky-footer {
   width: 100%;
 }
+
+#year-button {
+  background-color: rgb(176, 39, 180);
+  padding: 20px
+}
