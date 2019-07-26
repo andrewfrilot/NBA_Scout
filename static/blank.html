@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/cerulean/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+  <title>Weather Analysis Visualization</title>
+</head>
+
+<body id="body">
+
+    <nav class="navbar navbar-expand-md navbar-dark bg-primary">
+        <a class="navbar-brand" href="#">Latitude</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="comparison.html">Comparison <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="data.html">Data</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Plots
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="temperature.html">Lat vs Temp</a>
+                  <a class="dropdown-item" href="humidity.html">Lat vs Humidity</a>
+                  <a class="dropdown-item" href="cloudiness.html">Lat vs Cloudiness</a>
+                  <a class ="dropdown-item" href= "wind_speed.html">Lat vs Windspeed</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+</body>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="panel panel-default">
+          <div class="panel-body">
+
+            <h2>Summary: Latitude vs X</h2>
+            <hr>
+            <img class="temp_plot" src="Assets/humidity_vs_temp_scatter_plot.png" alt="temp_plot">
+            <BR CLEAR=”left” />
+            <p class="text">
+              This is an analysis and visualization of weather of 500+ cities across the world. The main objective was
+              to showcase the relationship of various factors like temperature, humidity, cloudiness and wind speed with
+              respect to the distance from the equator. <br> <br>
+              For this analysis, the latitude and longitude were created randomly and then CityPy (a Python library) was
+              used to generate city names for respective coordinates.
+              After selecting unique non-repeat observations, a weather check was performed on each of the cities using
+              a series of successive API calls from OpenWeatherMap. Then all different point of interests were plotted
+              against latitude using Matplotlib.<br><br>
+              Clicking the visualizations on the right will give you a more in-depth analyis of the relationship between
+              Longitude and the respective data point.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <div id="viz">
+            <h2>Visualizations</h2>
+            <hr>
+            <div class="row">
+              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"><a href="temperature.html"><img
+                    class="img img-responsive" src="Assets/latitude_vs_temp_scatter_plot.png" style="width:100%"
+                    alt=""></a></div>
+              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"><a href="humidity.html"><img class="img img-responsive"
+                    src="Assets/humidity_vs_temp_scatter_plot.png" style="width:100%" alt=""></a></div>
+            </div>
+            <div class="row">
+              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"><a href="cloudiness.html"><img class="img img-responsive"
+                    src="Assets/latitude_vs_cloudiness_scatter_plot.png" style="width:100%" alt=""></a></div>
+              <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"><a href="wind_speed.html"><img class="img img-responsive"
+                    src="Assets/latitude_vs_windspeed_scatter_plot.png" style="width:100%" alt=""></a></div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+</body>
+
+</html>
