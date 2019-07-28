@@ -16,6 +16,20 @@ def home():
     # Return template and data
     return render_template("index.html")
 
+
+@app.route("/about")
+def home(): 
+
+    # Return template and data
+    return render_template("about.html")
+
+
+@app.route("/nba")
+def home(): 
+
+    # Return template and data
+    return render_template("nba.html")
+
 #create routes for all pages once i figure out all different routes
 
 if __name__ == "__main__": 
