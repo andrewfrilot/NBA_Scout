@@ -18,14 +18,14 @@ def home():
 
 
 @app.route("/about")
-def home(): 
+def about(): 
 
     # Return template and data
     return render_template("about.html")
 
 
 @app.route("/nba")
-def home(): 
+def nba(): 
 
     # Return template and data
     return render_template("nba.html")
