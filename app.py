@@ -35,3 +35,11 @@ def nba():
 
     # Return template and data
     return render_template("nba.html")
+
+@app.route("/ncaa")
+def ncaa():
+    return render_template("ncaa.html")
+
+@app.route("/model")
+def models():
+    return render_template("model.html")
