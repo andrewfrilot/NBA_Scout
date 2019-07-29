@@ -1,36 +1,37 @@
 # import necessary libraries
-from flask import Flask, render_template, redirect
-from flask_pymongo import PyMongo
+from flask import Flask, render_template
 import os
 
 
 # create instance of Flask app
 app = Flask(__name__)
 
-# Create route that renders index.html template and finds documents from mongo
+def home(): 
 
-# Create route that renders index.html template and finds documents from mongo
+    # Return template and data
+  # import necessary libraries
+from flask import Flask, render_template
+import os
+
+
+# create instance of Flask app
+app = Flask(__name__)
+
+# Create route that renders index.html template
 @app.route("/")
 def home(): 
 
     # Return template and data
     return render_template("index.html")
 
-
 @app.route("/about")
 def about(): 
 
     # Return template and data
     return render_template("about.html")
-
-
+    
 @app.route("/nba")
 def nba(): 
 
     # Return template and data
     return render_template("nba.html")
-
-#create routes for all pages once i figure out all different routes
-
-if __name__ == "__main__": 
-    app.run(debug= True)
