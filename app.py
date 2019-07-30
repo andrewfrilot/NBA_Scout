@@ -6,17 +6,6 @@ import os
 # create instance of Flask app
 app = Flask(__name__)
 
-def home(): 
-
-    # Return template and data
-  # import necessary libraries
-from flask import Flask, render_template
-import os
-
-
-# create instance of Flask app
-app = Flask(__name__)
-
 # Create route that renders index.html template
 @app.route("/")
 def home(): 
