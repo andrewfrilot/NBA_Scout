@@ -55,9 +55,28 @@
   </header>
 
   <section id="about">
+     <div class = "container">
+       <div class="col-md-10 mx-auto">
+        <select id = "year" onchange = "getData(this)">
+          <option value ="2019">2019</option>
+          <option value ="2018">2018</option>
+          <option value ="2017">2017</option>
+          <option value ="2016">2016</option>
+          <option value ="2015">2015</option>
+          <option value ="2014">2014</option>
+          <option value ="2013">2013</option>
+          <option value ="2012">2012</option>
+          <option value ="2011">2011</option>
+          <option value ="2010">2010</option>
+        </select>
+      </div>
+      </div>
+
     <div class="container">
       <div class="row">
+
         <div class="col-lg-8 mx-auto">
+
           <h2>Model Analysis</h2>
           <p class="lead">Below is a list of the best NCAA players from this past year based on the results of our Machine Learning Model.</p>
           <ul>
@@ -124,7 +143,7 @@
   <!-- Footer -->
   <footer class="py-5 bg-dark">
     <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2019</p>
+      <p class="m-0 text-center text-white">Copyright &copy; NBA Scout 2019</p>
     </div>
     <!-- /.container -->
   </footer>
@@ -133,11 +152,17 @@
   <script src="../static/js/jquery/jquery.min.js"></script>
   <script src="../static/js/bootstrap/js/bootstrap.bundle.min.js"></script>
 
+  <!-- D3 CDN -->
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+
   <!-- Plugin JavaScript -->
   <script src="../static/js/jquery-easing/jquery.easing.min.js"></script>
 
   <!-- Custom JavaScript for this theme -->
   <script src="../static/js/scrolling-nav.js"></script>
+
+  <!-- Onchange Javascript file -->
+  <script src = "../static/js/getdata.js"></script> 
 
 </body>
 
