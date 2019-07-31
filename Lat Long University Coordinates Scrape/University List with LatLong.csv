@@ -1,0 +1,872 @@
+,Lat,Long,School
+0,30.2849185,-97.7340567,Texas University
+1,35.1876457,-111.654093,Northern Arizona University
+2,32.5933574,-85.4951663,Auburn University
+3,36.1270236,-97.07372219999999,Oklahoma State University
+4,36.1447034,-86.8026551,Vanderbilt University
+5,39.1329219,-84.51495039999999,Cincinnati University
+6,38.0306511,-84.5039697,Kentucky University
+7,37.4274745,-122.169719,Stanford University
+8,42.701848,-84.4821719,Michigan State University
+9,43.0391534,-76.1351158,Syracuse University
+10,30.4132579,-91.1800023,Louisiana State University
+11,41.8077414,-72.2539805,Connecticut University
+12,41.9247559,-87.6566465,DePaul University
+13,40.0068363,-83.0306222,Ohio State University
+14,44.97399,-93.2277285,Minnesota University
+15,40.7220627,-73.79421119999999,St. John's (NY) University
+16,32.5933574,-85.4951663,Auburn University
+17,30.4132579,-91.1800023,Louisiana State University
+18,40.716792,-73.5994041,Hofstra University
+19,40.4237054,-86.92119459999999,Purdue University
+20,42.701848,-84.4821719,Michigan State University
+21,33.7756178,-84.39628499999999,Georgia Tech University
+22,40.7220627,-73.79421119999999,St. John's (NY) University
+23,36.8124451,-119.7457805,Fresno State University
+24,43.0391534,-76.1351158,Syracuse University
+25,33.4242399,-111.9280527,Arizona State University
+26,41.8077414,-72.2539805,Connecticut University
+27,38.9403808,-92.32773750000001,Missouri University
+28,39.1754487,-86.512627,Indiana University
+29,46.7288124,-117.0126084,Idaho University
+30,42.0266187,-93.6464654,Iowa State University
+31,38.0306511,-84.5039697,Kentucky University
+32,41.8077414,-72.2539805,Connecticut University
+33,38.0306511,-84.5039697,Kentucky University
+34,38.4235332,-82.4263138,Marshall University
+35,39.1329219,-84.51495039999999,Cincinnati University
+36,38.0306511,-84.5039697,Kentucky University
+37,38.0306511,-84.5039697,Kentucky University
+38,30.2849185,-97.7340567,Texas University
+39,38.9543439,-95.2557961,Kansas University
+40,35.0843187,-106.6197812,New Mexico University
+41,35.2058936,-97.4457137,Oklahoma University
+42,33.7756178,-84.39628499999999,Georgia Tech University
+43,42.701848,-84.4821719,Michigan State University
+44,35.9049122,-79.0469134,North Carolina University
+45,32.2318851,-110.9501094,Arizona University
+46,41.9247559,-87.6566465,DePaul University
+47,36.53498,-87.3548855,Austin Peay University
+48,40.7433773,-74.2465446,Seton Hall University
+49,39.1754487,-86.512627,Indiana University
+50,38.9869183,-76.9425543,Maryland University
+51,41.7055716,-86.2353388,Notre Dame University
+52,36.8124451,-119.7457805,Fresno State University
+53,36.0686895,-94.1748471,Arkansas University
+54,40.0068363,-83.0306222,Ohio State University
+55,37.3641651,-120.4254615,University of California University
+56,38.9076089,-77.07225849999999,Georgetown University
+57,32.5933574,-85.4951663,Auburn University
+58,43.0391534,-76.1351158,Syracuse University
+59,32.2318851,-110.9501094,Arizona University
+60,36.0014258,-78.9382286,Duke University
+61,29.7199489,-95.3422334,Houston University
+62,35.9049122,-79.0469134,North Carolina University
+63,38.9543439,-95.2557961,Kansas University
+64,37.4274745,-122.169719,Stanford University
+65,37.4274745,-122.169719,Stanford University
+66,40.7220627,-73.79421119999999,St. John's (NY) University
+67,40.7433773,-74.2465446,Seton Hall University
+68,33.2140233,-87.5391418,Alabama University
+69,34.0223519,-118.285117,Southern California University
+70,42.0266187,-93.6464654,Iowa State University
+71,32.2318851,-110.9501094,Arizona University
+72,35.3070929,-80.735164,Charlotte University
+73,39.1329219,-84.51495039999999,Cincinnati University
+74,32.8412178,-96.78451749999999,Southern Methodist University
+75,34.6738437,-82.8368654,Clemson University
+76,41.9247559,-87.6566465,DePaul University
+77,34.0223519,-118.285117,Southern California University
+78,34.068921,-118.4451811,UCLA University
+79,38.9543439,-95.2557961,Kansas University
+80,38.9869183,-76.9425543,Maryland University
+81,41.693255,-72.764167,Central Connecticut State University
+82,36.0014258,-78.9382286,Duke University
+83,36.8124451,-119.7457805,Fresno State University
+84,41.7055716,-86.2353388,Notre Dame University
+85,32.77572170000001,-117.0718893,San Diego State University
+86,35.8430861,-90.67485889999999,Arkansas State University
+87,39.1754487,-86.512627,Indiana University
+88,36.8124451,-119.7457805,Fresno State University
+89,37.4274745,-122.169719,Stanford University
+90,33.2140233,-87.5391418,Alabama University
+91,35.9544013,-83.92945639999999,Tennessee University
+92,47.66644729999999,-117.4015208,Gonzaga University
+93,37.4274745,-122.169719,Stanford University
+94,36.0014258,-78.9382286,Duke University
+95,40.1019523,-88.2271615,Illinois University
+96,34.068921,-118.4451811,UCLA University
+97,38.9869183,-76.9425543,Maryland University
+98,40.0387561,-75.15663219999999,La Salle University
+99,41.8077414,-72.2539805,Connecticut University
+100,34.0223519,-118.285117,Southern California University
+101,38.4235332,-82.4263138,Marshall University
+102,36.1340985,-80.2778951,Wake Forest University
+103,25.7191685,-80.2771253,Miami (FL) University
+104,38.9403808,-92.32773750000001,Missouri University
+105,37.3641651,-120.4254615,University of California University
+106,38.9869183,-76.9425543,Maryland University
+107,36.0014258,-78.9382286,Duke University
+108,35.9544013,-83.92945639999999,Tennessee University
+109,42.701848,-84.4821719,Michigan State University
+110,35.118741,-89.937141,Memphis University
+111,39.1329219,-84.51495039999999,Cincinnati University
+112,38.0335529,-78.5079772,Virginia University
+113,44.0448302,-123.0726055,Oregon University
+114,38.0306511,-84.5039697,Kentucky University
+115,40.2518435,-111.6493156,Brigham Young University
+116,38.2122761,-85.75850229999999,Louisville University
+117,30.2849185,-97.7340567,Texas University
+118,34.068921,-118.4451811,UCLA University
+119,43.5819086,-84.7756364,Central Michigan University
+120,36.0014258,-78.9382286,Duke University
+121,33.9480053,-83.3773221,Georgia University
+122,36.1340985,-80.2778951,Wake Forest University
+123,39.324358,-82.10138889999999,Ohio University
+124,38.9543439,-95.2557961,Kansas University
+125,38.9869183,-76.9425543,Maryland University
+126,38.0306511,-84.5039697,Kentucky University
+127,33.7756178,-84.39628499999999,Georgia Tech University
+128,29.6436325,-82.3549302,Florida University
+129,33.4551742,-88.79437659999999,Mississippi State University
+130,43.0391534,-76.1351158,Syracuse University
+131,42.3355488,-71.16849450000001,Boston College University
+132,36.1085197,-115.1431709,Nevada-Las Vegas University
+133,40.1019523,-88.2271615,Illinois University
+134,38.9543439,-95.2557961,Kansas University
+135,33.4242399,-111.9280527,Arizona State University
+136,38.9076089,-77.07225849999999,Georgetown University
+137,39.149448,-84.47363740000002,Xavier University
+138,33.4551742,-88.79437659999999,Mississippi State University
+139,32.2318851,-110.9501094,Arizona University
+140,43.038473,-87.93044549999999,Marquette University
+141,41.2654838,-95.9472079,Creighton University
+142,42.701848,-84.4821719,Michigan State University
+143,44.0448302,-123.0726055,Oregon University
+144,44.97399,-93.2277285,Minnesota University
+145,39.9951217,-75.23993279999999,Saint Joseph's University
+146,38.1886162,-83.4315122,Morehead State University
+147,30.4418778,-84.2984889,Florida State University
+148,40.8075355,-73.9625727,Columbia University
+149,38.9403808,-92.32773750000001,Missouri University
+150,35.3092494,-83.1829254,Western Carolina University
+151,42.0266187,-93.6464654,Iowa State University
+152,33.9480053,-83.3773221,Georgia University
+153,39.1329219,-84.51495039999999,Cincinnati University
+154,39.9951217,-75.23993279999999,Saint Joseph's University
+155,39.149448,-84.47363740000002,Xavier University
+156,34.3647324,-89.538443,Mississippi University
+157,42.2780436,-83.7382241,Michigan University
+158,47.66644729999999,-117.4015208,Gonzaga University
+159,39.5441917,-119.816397,Nevada University
+160,33.8829226,-117.8869261,Cal State Fullerton University
+161,37.4274745,-122.169719,Stanford University
+162,31.6219236,-94.6462581,Stephen F. Austin University
+163,39.149448,-84.47363740000002,Xavier University
+164,36.0014258,-78.9382286,Duke University
+165,47.4906921,-111.2707539,Providence University
+166,29.6436325,-82.3549302,Florida University
+167,36.1270236,-97.07372219999999,Oklahoma State University
+168,34.068921,-118.4451811,UCLA University
+169,40.00758099999999,-105.2659417,Colorado University
+170,32.2318851,-110.9501094,Arizona University
+171,30.2849185,-97.7340567,Texas University
+172,44.97399,-93.2277285,Minnesota University
+173,41.1173345,-85.1077816,Purdue-Fort Wayne University
+174,44.0448302,-123.0726055,Oregon University
+175,36.1447034,-86.8026551,Vanderbilt University
+176,36.0014258,-78.9382286,Duke University
+177,33.5842591,-101.8782822,Texas Tech University
+178,41.8077414,-72.2539805,Connecticut University
+179,35.7846633,-78.6820946,North Carolina State University
+180,40.1019523,-88.2271615,Illinois University
+181,32.2318851,-110.9501094,Arizona University
+182,30.2114404,-92.0204121,Louisiana University
+183,35.0843187,-106.6197812,New Mexico University
+184,36.1270236,-97.07372219999999,Oklahoma State University
+185,38.9403808,-92.32773750000001,Missouri University
+186,29.6436325,-82.3549302,Florida University
+187,33.7756178,-84.39628499999999,Georgia Tech University
+188,40.7649368,-111.8421021,Utah University
+189,36.0014258,-78.9382286,Duke University
+190,35.9049122,-79.0469134,North Carolina University
+191,33.4242399,-111.9280527,Arizona State University
+192,43.038473,-87.93044549999999,Marquette University
+193,34.068921,-118.4451811,UCLA University
+194,40.4443533,-79.960835,Pittsburgh University
+195,41.8077414,-72.2539805,Connecticut University
+196,30.4418778,-84.2984889,Florida State University
+197,47.66644729999999,-117.4015208,Gonzaga University
+198,38.9543439,-95.2557961,Kansas University
+199,32.2318851,-110.9501094,Arizona University
+200,30.4132579,-91.1800023,Louisiana State University
+201,34.0414045,-118.7095814,Pepperdine University
+202,43.0391534,-76.1351158,Syracuse University
+203,30.618531,-96.33649899999999,Texas A&M University
+204,39.1754487,-86.512627,Indiana University
+205,40.1019523,-88.2271615,Illinois University
+206,35.9049122,-79.0469134,North Carolina University
+207,35.9049122,-79.0469134,North Carolina University
+208,39.1329219,-84.51495039999999,Cincinnati University
+209,33.4551742,-88.79437659999999,Mississippi State University
+210,38.6487895,-90.31079620000001,Washington University
+211,36.1340985,-80.2778951,Wake Forest University
+212,34.068921,-118.4451811,UCLA University
+213,30.2849185,-97.7340567,Texas University
+214,41.8077414,-72.2539805,Connecticut University
+215,40.037056,-75.34358,Villanova University
+216,28.0587031,-82.41385389999999,South Florida University
+217,30.4418778,-84.2984889,Florida State University
+218,35.118741,-89.937141,Memphis University
+219,39.9811935,-75.1553512,Temple University
+220,42.0266187,-93.6464654,Iowa State University
+221,41.8077414,-72.2539805,Connecticut University
+222,42.701848,-84.4821719,Michigan State University
+223,41.8077414,-72.2539805,Connecticut University
+224,36.0686895,-94.1748471,Arkansas University
+225,34.068921,-118.4451811,UCLA University
+226,40.037056,-75.34358,Villanova University
+227,40.5008186,-74.44739910000001,Rutgers University
+228,30.2849185,-97.7340567,Texas University
+229,30.4132579,-91.1800023,Louisiana State University
+230,42.3355488,-71.16849450000001,Boston College University
+231,33.9937575,-81.0299186,South Carolina University
+232,40.1019523,-88.2271615,Illinois University
+233,42.701848,-84.4821719,Michigan State University
+234,30.2849185,-97.7340567,Texas University
+235,32.2318851,-110.9501094,Arizona University
+236,41.8077414,-72.2539805,Connecticut University
+237,36.0014258,-78.9382286,Duke University
+238,35.118741,-89.937141,Memphis University
+239,47.66644729999999,-117.4015208,Gonzaga University
+240,40.6977743,-89.6153484,Bradley University
+241,43.038473,-87.93044549999999,Marquette University
+242,32.5263753,-92.6481104,Louisiana Tech University
+243,38.0306511,-84.5039697,Kentucky University
+244,38.6487895,-90.31079620000001,Washington University
+245,35.7846633,-78.6820946,North Carolina State University
+246,38.8997145,-77.0485992,George Washington University
+247,36.0014258,-78.9382286,Duke University
+248,37.3641651,-120.4254615,University of California University
+249,29.7173941,-95.40183119999999,Rice University
+250,34.068921,-118.4451811,UCLA University
+251,43.0391534,-76.1351158,Syracuse University
+252,29.6436325,-82.3549302,Florida University
+253,40.0068363,-83.0306222,Ohio State University
+254,38.0335529,-78.5079772,Virginia University
+255,29.6436325,-82.3549302,Florida University
+256,34.0223519,-118.285117,Southern California University
+257,36.0014258,-78.9382286,Duke University
+258,36.8124451,-119.7457805,Fresno State University
+259,41.9247559,-87.6566465,DePaul University
+260,30.4418778,-84.2984889,Florida State University
+261,43.076592,-89.4124875,Wisconsin University
+262,33.7756178,-84.39628499999999,Georgia Tech University
+263,34.0223519,-118.285117,Southern California University
+264,35.9049122,-79.0469134,North Carolina University
+265,38.9543439,-95.2557961,Kansas University
+266,39.5441917,-119.816397,Nevada University
+267,38.9869183,-76.9425543,Maryland University
+268,47.4910283,-117.5862361,Eastern Washington University
+269,35.9049122,-79.0469134,North Carolina University
+270,33.2140233,-87.5391418,Alabama University
+271,30.4132579,-91.1800023,Louisiana State University
+272,33.7756178,-84.39628499999999,Georgia Tech University
+273,36.1270236,-97.07372219999999,Oklahoma State University
+274,39.5441917,-119.816397,Nevada University
+275,42.3355488,-71.16849450000001,Boston College University
+276,30.2849185,-97.7340567,Texas University
+277,40.0068363,-83.0306222,Ohio State University
+278,29.6436325,-82.3549302,Florida University
+279,44.0448302,-123.0726055,Oregon University
+280,41.9247559,-87.6566465,DePaul University
+281,40.0068363,-83.0306222,Ohio State University
+282,36.1447034,-86.8026551,Vanderbilt University
+283,29.6436325,-82.3549302,Florida University
+284,31.8742035,-91.13729239999999,Alcorn State University
+285,30.618531,-96.33649899999999,Texas A&M University
+286,41.7224565,-73.9341204,Marist University
+287,40.4443533,-79.960835,Pittsburgh University
+288,38.9076089,-77.07225849999999,Georgetown University
+289,29.6436325,-82.3549302,Florida University
+290,47.4906921,-111.2707539,Providence University
+291,41.6626963,-91.5548998,Iowa University
+292,38.6487895,-90.31079620000001,Washington University
+293,38.9543439,-95.2557961,Kansas University
+294,39.6361396,-79.95593579999999,West Virginia University
+295,44.0448302,-123.0726055,Oregon University
+296,37.3641651,-120.4254615,University of California University
+297,39.7738832,-86.1763393,IUPUI University
+298,33.2140233,-87.5391418,Alabama University
+299,35.7846633,-78.6820946,North Carolina State University
+300,38.9076089,-77.07225849999999,Georgetown University
+301,34.068921,-118.4451811,UCLA University
+302,37.4274745,-122.169719,Stanford University
+303,37.4274745,-122.169719,Stanford University
+304,44.0448302,-123.0726055,Oregon University
+305,34.0223519,-118.285117,Southern California University
+306,38.9543439,-95.2557961,Kansas University
+307,30.618531,-96.33649899999999,Texas A&M University
+308,36.9853543,-86.456138,Western Kentucky University
+309,40.0068363,-83.0306222,Ohio State University
+310,39.1754487,-86.512627,Indiana University
+311,38.0306511,-84.5039697,Kentucky University
+312,37.0228392,-76.3343603,Hampton University
+313,38.2122761,-85.75850229999999,Louisville University
+314,38.9543439,-95.2557961,Kansas University
+315,35.0843187,-106.6197812,New Mexico University
+316,38.9869183,-76.9425543,Maryland University
+317,39.1754487,-86.512627,Indiana University
+318,35.118741,-89.937141,Memphis University
+319,35.118741,-89.937141,Memphis University
+320,36.1447034,-86.8026551,Vanderbilt University
+321,42.2780436,-83.7382241,Michigan University
+322,36.0686895,-94.1748471,Arkansas University
+323,46.7319225,-117.1542121,Washington State University
+324,39.1754487,-86.512627,Indiana University
+325,34.068921,-118.4451811,UCLA University
+326,39.1974437,-96.5847249,Kansas State University
+327,37.22838429999999,-80.42341669999999,Virginia Tech University
+328,29.6436325,-82.3549302,Florida University
+329,40.279623,-74.738187,Rider University
+330,36.0686895,-94.1748471,Arkansas University
+331,30.2849185,-97.7340567,Texas University
+332,32.2318851,-110.9501094,Arizona University
+333,39.1974437,-96.5847249,Kansas State University
+334,39.3126142,-76.65790559999999,Coppin State University
+335,39.5441917,-119.816397,Nevada University
+336,33.5021227,-86.8064447,Alabama-Birmingham University
+337,38.0335529,-78.5079772,Virginia University
+338,30.4132579,-91.1800023,Louisiana State University
+339,40.2518435,-111.6493156,Brigham Young University
+340,38.9543439,-95.2557961,Kansas University
+341,35.118741,-89.937141,Memphis University
+342,35.9049122,-79.0469134,North Carolina University
+343,36.8124451,-119.7457805,Fresno State University
+344,34.0223519,-118.285117,Southern California University
+345,35.9049122,-79.0469134,North Carolina University
+346,33.4242399,-111.9280527,Arizona State University
+347,41.7055716,-86.2353388,Notre Dame University
+348,35.2058936,-97.4457137,Oklahoma University
+349,35.2058936,-97.4457137,Oklahoma University
+350,35.118741,-89.937141,Memphis University
+351,36.9853543,-86.456138,Western Kentucky University
+352,39.6361396,-79.95593579999999,West Virginia University
+353,30.618531,-96.33649899999999,Texas A&M University
+354,35.9049122,-79.0469134,North Carolina University
+355,37.4274745,-122.169719,Stanford University
+356,43.0391534,-76.1351158,Syracuse University
+357,39.5441917,-119.816397,Nevada University
+358,37.1382689,-80.5506221,Radford University
+359,30.2849185,-97.7340567,Texas University
+360,36.1519879,-95.946,Tulsa University
+361,28.0587031,-82.41385389999999,South Florida University
+362,36.0014258,-78.9382286,Duke University
+363,43.038473,-87.93044549999999,Marquette University
+364,39.8411235,-86.17119079999999,Butler University
+365,36.3435415,-88.8643812,Tennessee-Martin University
+366,34.068921,-118.4451811,UCLA University
+367,34.6738437,-82.8368654,Clemson University
+368,42.0266187,-93.6464654,Iowa State University
+369,40.4443533,-79.960835,Pittsburgh University
+370,32.2318851,-110.9501094,Arizona University
+371,38.6487895,-90.31079620000001,Washington University
+372,39.149448,-84.47363740000002,Xavier University
+373,36.1340985,-80.2778951,Wake Forest University
+374,38.9543439,-95.2557961,Kansas University
+375,30.4418778,-84.2984889,Florida State University
+376,39.5441917,-119.816397,Nevada University
+377,33.4242399,-111.9280527,Arizona State University
+378,35.9049122,-79.0469134,North Carolina University
+379,47.66644729999999,-117.4015208,Gonzaga University
+380,40.037056,-75.34358,Villanova University
+381,35.5008018,-80.8446725,Davidson University
+382,35.118741,-89.937141,Memphis University
+383,30.4418778,-84.2984889,Florida State University
+384,34.0223519,-118.285117,Southern California University
+385,39.6361396,-79.95593579999999,West Virginia University
+386,39.4780293,-88.1759056,Eastern Illinois University
+387,29.6436325,-82.3549302,Florida University
+388,38.9403808,-92.32773750000001,Missouri University
+389,34.068921,-118.4451811,UCLA University
+390,25.7191685,-80.2771253,Miami (FL) University
+391,38.2122761,-85.75850229999999,Louisville University
+392,36.1340985,-80.2778951,Wake Forest University
+393,41.7224565,-73.9341204,Marist University
+394,28.6024274,-81.2000599,Central Florida University
+395,42.701848,-84.4821719,Michigan State University
+396,38.9076089,-77.07225849999999,Georgetown University
+397,37.5483122,-77.4526805,Virginia Commonwealth University
+398,41.8077414,-72.2539805,Connecticut University
+399,32.5263753,-92.6481104,Louisiana Tech University
+400,41.8077414,-72.2539805,Connecticut University
+401,34.3647324,-89.538443,Mississippi University
+402,36.0014258,-78.9382286,Duke University
+403,40.4443533,-79.960835,Pittsburgh University
+404,43.0391534,-76.1351158,Syracuse University
+405,35.2058936,-97.4457137,Oklahoma University
+406,40.0068363,-83.0306222,Ohio State University
+407,33.5021227,-86.8064447,Alabama-Birmingham University
+408,33.4551742,-88.79437659999999,Mississippi State University
+409,25.7191685,-80.2771253,Miami (FL) University
+410,37.5483122,-77.4526805,Virginia Commonwealth University
+411,38.9076089,-77.07225849999999,Georgetown University
+412,38.0306511,-84.5039697,Kentucky University
+413,35.9049122,-79.0469134,North Carolina University
+414,33.7756178,-84.39628499999999,Georgia Tech University
+415,38.6487895,-90.31079620000001,Washington University
+416,30.2849185,-97.7340567,Texas University
+417,38.0306511,-84.5039697,Kentucky University
+418,30.4418778,-84.2984889,Florida State University
+419,43.0391534,-76.1351158,Syracuse University
+420,40.0068363,-83.0306222,Ohio State University
+421,40.5008186,-74.44739910000001,Rutgers University
+422,39.9951217,-75.23993279999999,Saint Joseph's University
+423,40.4764166,-90.6871341,Western Illinois University
+424,38.9543439,-95.2557961,Kansas University
+425,38.9543439,-95.2557961,Kansas University
+426,42.2780436,-83.7382241,Michigan University
+427,29.6436325,-82.3549302,Florida University
+428,40.4237054,-86.92119459999999,Purdue University
+429,38.0306511,-84.5039697,Kentucky University
+430,29.6436325,-82.3549302,Florida University
+431,39.8411235,-86.17119079999999,Butler University
+432,32.77572170000001,-117.0718893,San Diego State University
+433,33.9480053,-83.3773221,Georgia University
+434,43.076592,-89.4124875,Wisconsin University
+435,34.068921,-118.4451811,UCLA University
+436,41.8077414,-72.2539805,Connecticut University
+437,33.9480053,-83.3773221,Georgia University
+438,33.207488,-97.1525862,North Texas University
+439,46.7319225,-117.1542121,Washington State University
+440,30.7129974,-95.5472905,Sam Houston State University
+441,30.7129974,-95.5472905,Sam Houston State University
+442,33.7756178,-84.39628499999999,Georgia Tech University
+443,38.9543439,-95.2557961,Kansas University
+444,30.4418778,-84.2984889,Florida State University
+445,36.0014258,-78.9382286,Duke University
+446,36.0014258,-78.9382286,Duke University
+447,38.0306511,-84.5039697,Kentucky University
+448,41.50249729999999,-81.6747185,Cleveland State University
+449,43.038473,-87.93044549999999,Marquette University
+450,40.0068363,-83.0306222,Ohio State University
+451,39.9811935,-75.1553512,Temple University
+452,40.2518435,-111.6493156,Brigham Young University
+453,40.00758099999999,-105.2659417,Colorado University
+454,42.6679486,-83.2081632,Oakland University
+455,42.3355488,-71.16849450000001,Boston College University
+456,36.0014258,-78.9382286,Duke University
+457,34.068921,-118.4451811,UCLA University
+458,30.2849185,-97.7340567,Texas University
+459,40.716792,-73.5994041,Hofstra University
+460,40.2518435,-111.6493156,Brigham Young University
+461,38.1886162,-83.4315122,Morehead State University
+462,35.9544013,-83.92945639999999,Tennessee University
+463,37.5758681,-77.5409744,Richmond University
+464,38.0306511,-84.5039697,Kentucky University
+465,32.7841884,-79.93708869999999,College of Charleston University
+466,36.8480161,-76.262085,Norfolk State University
+467,42.0784113,-78.48288219999999,St. Bonaventure University
+468,33.4551742,-88.79437659999999,Mississippi State University
+469,36.1757592,-85.5086374,Tennessee Tech University
+470,33.7756178,-84.39628499999999,Georgia Tech University
+471,36.0014258,-78.9382286,Duke University
+472,41.19189009999999,-111.9436903,Weber State University
+473,35.9049122,-79.0469134,North Carolina University
+474,41.8077414,-72.2539805,Connecticut University
+475,38.0306511,-84.5039697,Kentucky University
+476,40.1019523,-88.2271615,Illinois University
+477,43.0391534,-76.1351158,Syracuse University
+478,30.618531,-96.33649899999999,Texas A&M University
+479,38.0306511,-84.5039697,Kentucky University
+480,31.5497007,-97.1143046,Baylor University
+481,33.8230593,-85.7681082,Jacksonville State University
+482,38.0306511,-84.5039697,Kentucky University
+483,35.9049122,-79.0469134,North Carolina University
+484,38.6487895,-90.31079620000001,Washington University
+485,42.0266187,-93.6464654,Iowa State University
+486,38.9543439,-95.2557961,Kansas University
+487,38.9543439,-95.2557961,Kansas University
+488,36.0014258,-78.9382286,Duke University
+489,47.66644729999999,-117.4015208,Gonzaga University
+490,38.6487895,-90.31079620000001,Washington University
+491,40.0068363,-83.0306222,Ohio State University
+492,36.1447034,-86.8026551,Vanderbilt University
+493,27.7127448,-97.32414329999999,Texas A&M-Corpus Christi University
+494,41.8077414,-72.2539805,Connecticut University
+495,43.038473,-87.93044549999999,Marquette University
+496,44.5637806,-123.2794443,Oregon State University
+497,38.9403808,-92.32773750000001,Missouri University
+498,38.0306511,-84.5039697,Kentucky University
+499,35.118741,-89.937141,Memphis University
+500,29.6436325,-82.3549302,Florida University
+501,35.9049122,-79.0469134,North Carolina University
+502,31.5497007,-97.1143046,Baylor University
+503,41.3797788,-83.6300826,Bowling Green State University
+504,30.2114404,-92.0204121,Louisiana University
+505,40.4237054,-86.92119459999999,Purdue University
+506,35.9049122,-79.0469134,North Carolina University
+507,43.0391534,-76.1351158,Syracuse University
+508,31.5497007,-97.1143046,Baylor University
+509,38.0306511,-84.5039697,Kentucky University
+510,38.0306511,-84.5039697,Kentucky University
+511,36.1447034,-86.8026551,Vanderbilt University
+512,30.4418778,-84.2984889,Florida State University
+513,43.038473,-87.93044549999999,Marquette University
+514,34.4139629,-119.848947,UC-Santa Barbara University
+515,38.9403808,-92.32773750000001,Missouri University
+516,36.1447034,-86.8026551,Vanderbilt University
+517,40.7220627,-73.79421119999999,St. John's (NY) University
+518,30.4132579,-91.1800023,Louisiana State University
+519,40.6048687,-75.3775187,Lehigh University
+520,42.701848,-84.4821719,Michigan State University
+521,38.0306511,-84.5039697,Kentucky University
+522,39.1754487,-86.512627,Indiana University
+523,40.9547721,-76.885076,Bucknell University
+524,34.068921,-118.4451811,UCLA University
+525,29.6436325,-82.3549302,Florida University
+526,47.66644729999999,-117.4015208,Gonzaga University
+527,38.9076089,-77.07225849999999,Georgetown University
+528,37.3148783,-89.52804379999999,Southeast Missouri State University
+529,29.5829699,-98.61972,Texas-San Antonio University
+530,36.0014258,-78.9382286,Duke University
+531,38.9403808,-92.32773750000001,Missouri University
+532,35.2058936,-97.4457137,Oklahoma University
+533,33.207488,-97.1525862,North Texas University
+534,38.9869183,-76.9425543,Maryland University
+535,36.0014258,-78.9382286,Duke University
+536,25.7191685,-80.2771253,Miami (FL) University
+537,38.9543439,-95.2557961,Kansas University
+538,42.414062,-83.1379029,Detroit Mercy University
+539,40.0068363,-83.0306222,Ohio State University
+540,38.9543439,-95.2557961,Kansas University
+541,44.3189457,-96.783968,South Dakota State University
+542,39.1754487,-86.512627,Indiana University
+543,40.00758099999999,-105.2659417,Colorado University
+544,38.2122761,-85.75850229999999,Louisville University
+545,35.0843187,-106.6197812,New Mexico University
+546,43.0391534,-76.1351158,Syracuse University
+547,35.9049122,-79.0469134,North Carolina University
+548,42.2780436,-83.7382241,Michigan University
+549,36.6163842,-88.3214979,Murray State University
+550,33.9480053,-83.3773221,Georgia University
+551,38.2122761,-85.75850229999999,Louisville University
+552,37.3641651,-120.4254615,University of California University
+553,40.4443533,-79.960835,Pittsburgh University
+554,35.7846633,-78.6820946,North Carolina State University
+555,36.1085197,-115.1431709,Nevada-Las Vegas University
+556,32.2318851,-110.9501094,Arizona University
+557,42.2780436,-83.7382241,Michigan University
+558,44.0448302,-123.0726055,Oregon University
+559,31.5497007,-97.1143046,Baylor University
+560,40.573436,-105.0865473,Colorado State University
+561,32.2318851,-110.9501094,Arizona University
+562,33.4242399,-111.9280527,Arizona State University
+563,32.77572170000001,-117.0718893,San Diego State University
+564,35.1876457,-111.654093,Northern Arizona University
+565,33.7838235,-118.1140904,Long Beach State University
+566,37.22838429999999,-80.42341669999999,Virginia Tech University
+567,35.9049122,-79.0469134,North Carolina University
+568,38.0306511,-84.5039697,Kentucky University
+569,30.4132579,-91.1800023,Louisiana State University
+570,41.8077414,-72.2539805,Connecticut University
+571,37.4274745,-122.169719,Stanford University
+572,38.0306511,-84.5039697,Kentucky University
+573,40.4443533,-79.960835,Pittsburgh University
+574,30.2114404,-92.0204121,Louisiana University
+575,42.701848,-84.4821719,Michigan State University
+576,36.0014258,-78.9382286,Duke University
+577,34.068921,-118.4451811,UCLA University
+578,41.2654838,-95.9472079,Creighton University
+579,42.2780436,-83.7382241,Michigan University
+580,34.6738437,-82.8368654,Clemson University
+581,39.1754487,-86.512627,Indiana University
+582,35.7846633,-78.6820946,North Carolina State University
+583,38.0306511,-84.5039697,Kentucky University
+584,38.9543439,-95.2557961,Kansas University
+585,38.6487895,-90.31079620000001,Washington University
+586,37.5758681,-77.5409744,Richmond University
+587,32.77572170000001,-117.0718893,San Diego State University
+588,42.2780436,-83.7382241,Michigan University
+589,35.9544013,-83.92945639999999,Tennessee University
+590,42.2780436,-83.7382241,Michigan University
+591,36.1270236,-97.07372219999999,Oklahoma State University
+592,38.2122761,-85.75850229999999,Louisville University
+593,39.149448,-84.47363740000002,Xavier University
+594,38.9403808,-92.32773750000001,Missouri University
+595,40.00758099999999,-105.2659417,Colorado University
+596,41.8077414,-72.2539805,Connecticut University
+597,35.0843187,-106.6197812,New Mexico University
+598,34.068921,-118.4451811,UCLA University
+599,36.1270236,-97.07372219999999,Oklahoma State University
+600,44.53207339999999,-87.92171429999999,Green Bay University
+601,36.0014258,-78.9382286,Duke University
+602,37.4274745,-122.169719,Stanford University
+603,42.701848,-84.4821719,Michigan State University
+604,31.5497007,-97.1143046,Baylor University
+605,36.3435415,-88.8643812,Tennessee-Martin University
+606,31.7709368,-106.5046405,Texas-El Paso University
+607,32.2318851,-110.9501094,Arizona University
+608,38.0335529,-78.5079772,Virginia University
+609,37.7215022,-97.2861691,Wichita State University
+610,38.9543439,-95.2557961,Kansas University
+611,43.0391534,-76.1351158,Syracuse University
+612,29.0349641,-81.3032406,Stetson University
+613,43.0391534,-76.1351158,Syracuse University
+614,32.2318851,-110.9501094,Arizona University
+615,36.0014258,-78.9382286,Duke University
+616,38.9543439,-95.2557961,Kansas University
+617,41.3148754,-105.5665744,Wyoming University
+618,35.9544013,-83.92945639999999,Tennessee University
+619,36.6163842,-88.3214979,Murray State University
+620,36.0686895,-94.1748471,Arkansas University
+621,34.068921,-118.4451811,UCLA University
+622,40.7220627,-73.79421119999999,St. John's (NY) University
+623,38.0306511,-84.5039697,Kentucky University
+624,34.068921,-118.4451811,UCLA University
+625,30.4132579,-91.1800023,Louisiana State University
+626,42.3867598,-72.5300515,Massachusetts University
+627,30.4132579,-91.1800023,Louisiana State University
+628,43.0391534,-76.1351158,Syracuse University
+629,36.1085197,-115.1431709,Nevada-Las Vegas University
+630,38.0306511,-84.5039697,Kentucky University
+631,35.9049122,-79.0469134,North Carolina University
+632,37.271674,-76.71337799999999,William & Mary University
+633,37.271674,-76.71337799999999,William & Mary University
+634,30.2849185,-97.7340567,Texas University
+635,36.0014258,-78.9382286,Duke University
+636,35.3070929,-80.735164,Charlotte University
+637,44.0448302,-123.0726055,Oregon University
+638,40.7649368,-111.8421021,Utah University
+639,41.6626963,-91.5548998,Iowa University
+640,39.3437156,-94.9153472,Army University
+641,32.528282,-92.073415,Louisiana-Monroe University
+642,39.0333106,-94.57754709999999,Missouri-Kansas City University
+643,46.7288124,-117.0126084,Idaho University
+644,40.0068363,-83.0306222,Ohio State University
+645,38.2122761,-85.75850229999999,Louisville University
+646,43.0391534,-76.1351158,Syracuse University
+647,41.7055716,-86.2353388,Notre Dame University
+648,38.0306511,-84.5039697,Kentucky University
+649,43.076592,-89.4124875,Wisconsin University
+650,42.701848,-84.4821719,Michigan State University
+651,38.0335529,-78.5079772,Virginia University
+652,39.6779504,-75.7506114,Delaware University
+653,33.4647494,-86.79363099999999,Samford University
+654,38.0306511,-84.5039697,Kentucky University
+655,33.753068,-84.38528190000001,Georgia State University
+656,32.2318851,-110.9501094,Arizona University
+657,41.3797788,-83.6300826,Bowling Green State University
+658,40.037056,-75.34358,Villanova University
+659,43.076592,-89.4124875,Wisconsin University
+660,37.3530446,-79.1769529,Liberty University
+661,38.0306511,-84.5039697,Kentucky University
+662,36.0014258,-78.9382286,Duke University
+663,32.2318851,-110.9501094,Arizona University
+664,42.3355488,-71.16849450000001,Boston College University
+665,47.4910283,-117.5862361,Eastern Washington University
+666,38.2122761,-85.75850229999999,Louisville University
+667,38.0306511,-84.5039697,Kentucky University
+668,41.7055716,-86.2353388,Notre Dame University
+669,35.9049122,-79.0469134,North Carolina University
+670,34.068921,-118.4451811,UCLA University
+671,38.2122761,-85.75850229999999,Louisville University
+672,38.0306511,-84.5039697,Kentucky University
+673,38.6487895,-90.31079620000001,Washington University
+674,42.0266187,-93.6464654,Iowa State University
+675,42.0266187,-93.6464654,Iowa State University
+676,43.0391534,-76.1351158,Syracuse University
+677,38.9869183,-76.9425543,Maryland University
+678,42.2780436,-83.7382241,Michigan University
+679,36.1085197,-115.1431709,Nevada-Las Vegas University
+680,42.701848,-84.4821719,Michigan State University
+681,37.3641651,-120.4254615,University of California University
+682,38.0306511,-84.5039697,Kentucky University
+683,33.7756178,-84.39628499999999,Georgia Tech University
+684,41.4860647,-71.5308537,Rhode Island University
+685,40.7433773,-74.2465446,Seton Hall University
+686,30.4132579,-91.1800023,Louisiana State University
+687,32.2787745,-106.7479059,New Mexico State University
+688,47.66644729999999,-117.4015208,Gonzaga University
+689,38.9869183,-76.9425543,Maryland University
+690,34.6738437,-82.8368654,Clemson University
+691,38.6487895,-90.31079620000001,Washington University
+692,38.9543439,-95.2557961,Kansas University
+693,35.2058936,-97.4457137,Oklahoma University
+694,42.701848,-84.4821719,Michigan State University
+695,30.4418778,-84.2984889,Florida State University
+696,36.1447034,-86.8026551,Vanderbilt University
+697,32.2318851,-110.9501094,Arizona University
+698,38.0335529,-78.5079772,Virginia University
+699,44.53207339999999,-87.92171429999999,Green Bay University
+700,37.3641651,-120.4254615,University of California University
+701,47.4906921,-111.2707539,Providence University
+702,34.068921,-118.4451811,UCLA University
+703,41.19189009999999,-111.9436903,Weber State University
+704,41.7055716,-86.2353388,Notre Dame University
+705,36.0014258,-78.9382286,Duke University
+706,35.2058936,-97.4457137,Oklahoma University
+707,35.9049122,-79.0469134,North Carolina University
+708,32.9821829,-80.07065539999999,Charleston Southern University
+709,36.1447034,-86.8026551,Vanderbilt University
+710,42.6679486,-83.2081632,Oakland University
+711,47.4906921,-111.2707539,Providence University
+712,43.038473,-87.93044549999999,Marquette University
+713,41.8077414,-72.2539805,Connecticut University
+714,40.4237054,-86.92119459999999,Purdue University
+715,43.0391534,-76.1351158,Syracuse University
+716,32.8412178,-96.78451749999999,Southern Methodist University
+717,42.0266187,-93.6464654,Iowa State University
+718,37.3641651,-120.4254615,University of California University
+719,25.7191685,-80.2771253,Miami (FL) University
+720,41.4639394,-87.04388929999999,Valparaiso University
+721,41.2654838,-95.9472079,Creighton University
+722,43.0391534,-76.1351158,Syracuse University
+723,32.2318851,-110.9501094,Arizona University
+724,40.7649368,-111.8421021,Utah University
+725,34.0223519,-118.285117,Southern California University
+726,38.0306511,-84.5039697,Kentucky University
+727,38.9543439,-95.2557961,Kansas University
+728,33.9937575,-81.0299186,South Carolina University
+729,47.66644729999999,-117.4015208,Gonzaga University
+730,42.2780436,-83.7382241,Michigan University
+731,40.00758099999999,-105.2659417,Colorado University
+732,40.4237054,-86.92119459999999,Purdue University
+733,39.149448,-84.47363740000002,Xavier University
+734,36.0014258,-78.9382286,Duke University
+735,47.66644729999999,-117.4015208,Gonzaga University
+736,36.1340985,-80.2778951,Wake Forest University
+737,29.7199489,-95.3422334,Houston University
+738,44.0448302,-123.0726055,Oregon University
+739,30.4418778,-84.2984889,Florida State University
+740,34.068921,-118.4451811,UCLA University
+741,39.1754487,-86.512627,Indiana University
+742,38.0306511,-84.5039697,Kentucky University
+743,34.068921,-118.4451811,UCLA University
+744,32.2318851,-110.9501094,Arizona University
+745,30.2849185,-97.7340567,Texas University
+746,35.9049122,-79.0469134,North Carolina University
+747,44.0448302,-123.0726055,Oregon University
+748,32.8412178,-96.78451749999999,Southern Methodist University
+749,39.1754487,-86.512627,Indiana University
+750,37.3641651,-120.4254615,University of California University
+751,34.6738437,-82.8368654,Clemson University
+752,36.0014258,-78.9382286,Duke University
+753,38.9543439,-95.2557961,Kansas University
+754,39.1974437,-96.5847249,Kansas State University
+755,30.4418778,-84.2984889,Florida State University
+756,36.0014258,-78.9382286,Duke University
+757,43.038473,-87.93044549999999,Marquette University
+758,42.3355488,-71.16849450000001,Boston College University
+759,43.0008093,-78.7889697,Buffalo University
+760,40.037056,-75.34358,Villanova University
+761,38.0306511,-84.5039697,Kentucky University
+762,38.6487895,-90.31079620000001,Washington University
+763,36.1270236,-97.07372219999999,Oklahoma State University
+764,36.0014258,-78.9382286,Duke University
+765,33.7756178,-84.39628499999999,Georgia Tech University
+766,38.9543439,-95.2557961,Kansas University
+767,38.0306511,-84.5039697,Kentucky University
+768,34.0223519,-118.285117,Southern California University
+769,42.0893553,-75.9697049,Binghamton University
+770,36.1340985,-80.2778951,Wake Forest University
+771,32.8412178,-96.78451749999999,Southern Methodist University
+772,38.0306511,-84.5039697,Kentucky University
+773,25.7191685,-80.2771253,Miami (FL) University
+774,42.2780436,-83.7382241,Michigan University
+775,41.2654838,-95.9472079,Creighton University
+776,30.618531,-96.33649899999999,Texas A&M University
+777,35.2058936,-97.4457137,Oklahoma University
+778,34.068921,-118.4451811,UCLA University
+779,37.7215022,-97.2861691,Wichita State University
+780,33.2140233,-87.5391418,Alabama University
+781,42.3355488,-71.16849450000001,Boston College University
+782,33.5842591,-101.8782822,Texas Tech University
+783,40.037056,-75.34358,Villanova University
+784,40.7982133,-77.8599084,Penn State University
+785,39.6361396,-79.95593579999999,West Virginia University
+786,40.037056,-75.34358,Villanova University
+787,38.0306511,-84.5039697,Kentucky University
+788,32.2318851,-110.9501094,Arizona University
+789,40.0068363,-83.0306222,Ohio State University
+790,30.2849185,-97.7340567,Texas University
+791,39.7393,-84.17996749999999,Dayton University
+792,36.0014258,-78.9382286,Duke University
+793,25.7191685,-80.2771253,Miami (FL) University
+794,42.701848,-84.4821719,Michigan State University
+795,40.037056,-75.34358,Villanova University
+796,40.037056,-75.34358,Villanova University
+797,44.0448302,-123.0726055,Oregon University
+798,38.9869183,-76.9425543,Maryland University
+799,38.9869183,-76.9425543,Maryland University
+800,38.9869183,-76.9425543,Maryland University
+801,43.6026952,-116.2014604,Boise State University
+802,47.6091799,-122.3173119,Seattle University
+803,34.068921,-118.4451811,UCLA University
+804,25.7191685,-80.2771253,Miami (FL) University
+805,32.7298718,-97.1140116,Texas-Arlington University
+806,40.00758099999999,-105.2659417,Colorado University
+807,37.2005546,-93.2806806,Missouri State University
+808,29.9407282,-90.12031669999999,Tulane University
+809,39.1329219,-84.51495039999999,Cincinnati University
+810,40.4237054,-86.92119459999999,Purdue University
+811,38.0335529,-78.5079772,Virginia University
+812,30.3530584,-81.6066798,Jacksonville University
+813,38.0306511,-84.5039697,Kentucky University
+814,38.9543439,-95.2557961,Kansas University
+815,39.6799914,-77.3486971,Mount St. Mary's University
+816,38.6487895,-90.31079620000001,Washington University
+817,36.6163842,-88.3214979,Murray State University
+818,42.2780436,-83.7382241,Michigan University
+819,32.5933574,-85.4951663,Auburn University
+820,41.3163244,-72.92234309999999,Yale University
+821,40.037056,-75.34358,Villanova University
+822,39.1754487,-86.512627,Indiana University
+823,35.9049122,-79.0469134,North Carolina University
+824,32.77572170000001,-117.0718893,San Diego State University
+825,30.4418778,-84.2984889,Florida State University
+826,39.5441917,-119.816397,Nevada University
+827,35.1876457,-111.654093,Northern Arizona University
+828,38.6487895,-90.31079620000001,Washington University
+829,36.1328981,-86.7940699,Belmont University
+830,40.69323,-73.992165,St. Francis (NY) University
+831,36.0014258,-78.9382286,Duke University
+832,40.716792,-73.5994041,Hofstra University
+833,38.0306511,-84.5039697,Kentucky University
+834,30.4132579,-91.1800023,Louisiana State University
+835,33.4551742,-88.79437659999999,Mississippi State University
+836,35.9544013,-83.92945639999999,Tennessee University
+837,35.9049122,-79.0469134,North Carolina University
+838,35.9544013,-83.92945639999999,Tennessee University
+839,37.676444,-113.071332,Southern Utah University
+840,36.0014258,-78.9382286,Duke University
+841,40.8201966,-96.70047629999999,Nebraska University
+842,42.0266187,-93.6464654,Iowa State University
+843,40.8075355,-73.9625727,Columbia University
+844,47.66644729999999,-117.4015208,Gonzaga University
+845,33.9480053,-83.3773221,Georgia University
+846,33.5842591,-101.8782822,Texas Tech University
+847,42.7883015,-96.92533809999999,South Dakota University
+848,37.22838429999999,-80.42341669999999,Virginia Tech University
+849,42.2780436,-83.7382241,Michigan University
+850,32.7841884,-79.93708869999999,College of Charleston University
+851,33.9702454,-118.4165979,Loyola Marymount University
+852,44.0448302,-123.0726055,Oregon University
+853,35.9544013,-83.92945639999999,Tennessee University
+854,38.0335529,-78.5079772,Virginia University
+855,42.0266187,-93.6464654,Iowa State University
+856,30.2849185,-97.7340567,Texas University
+857,38.0306511,-84.5039697,Kentucky University
+858,34.465182,-81.87755899999999,Presbyterian University
+859,38.0306511,-84.5039697,Kentucky University
+860,30.4418778,-84.2984889,Florida State University
+861,41.3148754,-105.5665744,Wyoming University
+862,35.9049122,-79.0469134,North Carolina University
+863,38.0335529,-78.5079772,Virginia University
+864,36.0686895,-94.1748471,Arkansas University
+865,38.9869183,-76.9425543,Maryland University
+866,40.4237054,-86.92119459999999,Purdue University
+867,34.068921,-118.4451811,UCLA University
+868,47.66644729999999,-117.4015208,Gonzaga University
+869,38.0335529,-78.5079772,Virginia University
+870,36.1447034,-86.8026551,Vanderbilt University
