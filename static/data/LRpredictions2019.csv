@@ -1,174 +1,51 @@
-,Player,Class,Season,Pos,School,Conf,Year Drafted,Rd,Pk,Tm,Projected Pk
-18341,Marcus Paige,SR,2016,G,North Carolina,ACC,2016,2,55,BRK,46.0
-18369,Chinanu Onuaku,SO,2016,F,Louisville,ACC,2016,2,37,HOU,36.0
-18382,Jamal Murray,FR,2016,G,Kentucky,SEC,2016,1,7,DEN,14.0
-18386,Dejounte Murray,FR,2016,G,Washington,Pac-12,2016,1,29,SAS,17.0
-18475,Malachi Richardson,FR,2016,G,Syracuse,ACC,2016,1,22,CHO,19.0
-18695,Jake Layman,SR,2016,F,Maryland,Big Ten,2016,2,47,ORL,42.0
-18696,Caris LeVert,SR,2016,G,Michigan,Big Ten,2016,1,20,IND,18.0
-18764,Patrick McCaw,SO,2016,G,Nevada-Las Vegas,MWC,2016,2,38,MIL,46.0
-18819,Denzel Valentine,SR,2016,G,Michigan State,Big Ten,2016,1,14,CHI,9.0
-18862,Tyler Ulis,SO,2016,G,Kentucky,SEC,2016,2,34,PHO,45.0
-19032,Isaiah Whitehead,SO,2016,G,Seton Hall,Big East,2016,2,42,UTA,38.0
-19081,Pascal Siakam,SO,2016,F,New Mexico State,WAC,2016,1,27,TOR,16.0
-19129,Domantas Sabonis,SO,2016,F,Gonzaga,WCC,2016,1,11,ORL,15.0
-19181,Diamond Stone,FR,2016,C,Maryland,Big Ten,2016,2,40,NOP,41.0
-19301,Marquese Chriss,FR,2016,F,Washington,Pac-12,2016,1,8,SAC,13.0
-19422,Cheick Diallo,FR,2016,F,Kansas,Big 12,2016,2,33,LAC,43.0
-19505,Isaiah Cousins,SR,2016,G,Oklahoma,Big 12,2016,2,59,SAC,48.0
-19509,Deyonta Davis,FR,2016,F,Michigan State,Big Ten,2016,2,31,BOS,42.0
-19581,Malik Beasley,FR,2016,G,Florida State,ACC,2016,1,19,DEN,18.0
-19596,Wade Baldwin,SO,2016,G,Vanderbilt,SEC,2016,1,17,MEM,14.0
-19684,Malcolm Brogdon,SR,2016,G,Virginia,ACC,2016,2,36,MIL,41.0
-19762,Ben Bentil,SO,2016,F,Providence,Big East,2016,2,51,BOS,44.0
-19777,Joel Bolomboy,SR,2016,F,Weber State,Big Sky,2016,2,52,UTA,41.0
-19838,Demetrius Jackson,JR,2016,G,Notre Dame,ACC,2016,2,45,BOS,45.0
-19865,Brandon Ingram,FR,2016,G,Duke,ACC,2016,1,2,LAL,19.0
-19925,Buddy Hield,SR,2016,G,Oklahoma,Big 12,2016,1,6,NOP,11.0
-20002,Brice Johnson,SR,2016,F,North Carolina,ACC,2016,1,25,LAC,11.0
-20041,Damian Jones,JR,2016,C,Vanderbilt,SEC,2016,1,30,GSW,12.0
-20078,Kay Felder,JR,2016,G,Oakland,Horizon,2016,2,54,ATL,42.0
-20142,Kris Dunn,JR,2016,G,Providence,Big East,2016,1,5,MIN,13.0
-20179,Henry Ellenson,FR,2016,F,Marquette,Big East,2016,1,18,DET,17.0
-20240,Daniel Hamilton,SO,2016,G,Connecticut,AAC,2016,2,56,DEN,43.0
-20251,A.J. Hammons,SR,2016,C,Purdue,Big Ten,2016,2,46,DAL,33.0
-20269,Michael Gbinije,SR,2016,F,Syracuse,ACC,2016,2,49,DET,44.0
-20378,Semi Ojeleye,JR,2017,F,Southern Methodist,AAC,2017,2,37,BOS,47.0
-20507,Davon Reed,SR,2017,G,Miami (FL),ACC,2017,2,32,PHO,41.0
-20522,Alec Peters,SR,2017,F,Valparaiso,Horizon,2017,2,54,PHO,47.0
-20536,Justin Patton,FR,2017,C,Creighton,Big East,2017,1,16,CHI,13.0
-20595,Tyler Lydon,SO,2017,F,Syracuse,ACC,2017,1,24,UTA,19.0
-20638,Lauri Markkanen,FR,2017,F,Arizona,Pac-12,2017,1,7,MIN,18.0
-20679,Kyle Kuzma,JR,2017,F,Utah,Pac-12,2017,1,27,BRK,18.0
-20745,De'Anthony Melton,FR,2017,G,Southern California,Pac-12,2018,2,46,HOU,44.0
-20751,Malik Monk,FR,2017,G,Kentucky,SEC,2017,1,11,CHO,16.0
-20779,Donovan Mitchell,SO,2017,G,Louisville,ACC,2017,1,13,DEN,17.0
-20808,Frank Mason,SR,2017,G,Kansas,Big 12,2017,2,34,SAC,40.0
-20927,Sindarius Thornwell,SR,2017,G,South Carolina,SEC,2017,2,48,MIL,43.0
-21013,Nigel Williams-Goss,JR,2017,G,Gonzaga,WCC,2017,2,55,UTA,44.0
-21020,D.J. Wilson,JR,2017,F,Michigan,Big Ten,2017,1,17,MIL,16.0
-21057,Derrick White,SR,2017,G,Colorado,Pac-12,2017,1,29,SAS,13.0
-21260,Caleb Swanigan,SO,2017,F,Purdue,Big Ten,2017,1,26,POR,11.0
-21264,Edmond Sumner,SO,2017,G,Xavier,Big East,2017,2,52,NOP,43.0
-21305,Jayson Tatum,FR,2017,F,Duke,ACC,2017,1,3,BOS,12.0
-21411,Zach Collins,FR,2017,F,Gonzaga,WCC,2017,1,10,SAC,0.0
-21580,Tyler Dorsey,SO,2017,G,Oregon,Pac-12,2017,2,41,ATL,43.0
-21652,Dwayne Bacon,SO,2017,G,Florida State,ACC,2017,2,40,NOP,46.0
-21659,Lonzo Ball,FR,2017,G,UCLA,Pac-12,2017,1,2,LAL,7.0
-21686,OG Anunoby,SO,2017,F,Indiana,Big Ten,2017,1,23,TOR,12.0
-21752,Bam Adebayo,FR,2017,F,Kentucky,SEC,2017,1,14,MIA,15.0
-21766,Ike Anigbogu,FR,2017,F,UCLA,Pac-12,2017,2,47,IND,48.0
-21778,Kadeem Allen,SR,2017,G,Arizona,Pac-12,2017,2,53,BOS,45.0
-21781,Jarrett Allen,FR,2017,F,Texas,Big 12,2017,1,22,BRK,16.0
-21823,Tony Bradley,FR,2017,F,North Carolina,ACC,2017,1,28,LAL,14.0
-21827,Dillon Brooks,JR,2017,F,Oregon,Pac-12,2017,2,45,HOU,41.0
-21832,Sterling Brown,SR,2017,G,Southern Methodist,AAC,2017,2,46,PHI,43.0
-21842,Thomas Bryant,SO,2017,C,Indiana,Big Ten,2017,2,42,UTA,41.0
-21888,Jordan Bell,JR,2017,F,Oregon,Pac-12,2017,2,38,CHI,37.0
-21927,Jaron Blossomgame,SR,2017,F,Clemson,ACC,2017,2,59,SAS,44.0
-21974,Frank Jackson,FR,2017,G,Duke,ACC,2017,2,31,CHO,47.0
-21977,Josh Jackson,FR,2017,G,Kansas,Big 12,2017,1,4,PHO,14.0
-21978,Justin Jackson,JR,2017,F,North Carolina,ACC,2017,1,15,POR,18.0
-21995,Wesley Iwundu,SR,2017,F,Kansas State,Big 12,2017,2,33,ORL,47.0
-22000,Jonathan Isaac,FR,2017,F,Florida State,ACC,2017,1,6,ORL,14.0
-22031,Josh Hart,SR,2017,G,Villanova,Big East,2017,1,30,UTA,16.0
-22086,Luke Kennard,SO,2017,G,Duke,ACC,2017,1,12,DET,20.0
-22216,De'Aaron Fox,FR,2017,G,Kentucky,SEC,2017,1,5,SAC,16.0
-22241,Markelle Fultz,FR,2017,G,Washington,Pac-12,2017,1,1,PHI,18.0
-22338,Jawun Evans,SO,2017,G,Oklahoma State,Big 12,2017,2,39,PHI,43.0
-22408,Harry Giles,FR,2017,F,Duke,ACC,2017,1,20,POR,19.0
-22515,Josh Okogie,SO,2018,G,Georgia Tech,ACC,2018,1,20,MIN,17.0
-22536,Sviatoslav Mykhailiuk,SR,2018,G,Kansas,Big 12,2018,2,47,LAL,49.0
-22877,Chimezie Metu,JR,2018,F,Southern California,Pac-12,2018,2,49,SAS,42.0
-22939,Shake Milton,JR,2018,G,Southern Methodist,AAC,2018,2,54,DAL,42.0
-23005,Jarred Vanderbilt,FR,2018,F,Kentucky,SEC,2018,2,41,ORL,51.0
-23045,Lonnie Walker,FR,2018,G,Miami (FL),ACC,2018,1,18,SAS,19.0
-23056,Moritz Wagner,JR,2018,F,Michigan,Big Ten,2018,1,25,LAL,18.0
-23093,Khyri Thomas,JR,2018,G,Creighton,Big East,2018,2,38,PHI,44.0
-23182,Robert Williams,SO,2018,F,Texas A&M,SEC,2018,1,27,BOS,13.0
-23197,Trae Young,FR,2018,G,Oklahoma,Big 12,2018,1,5,DAL,4.0
-23199,Kevin Knox,FR,2018,F,Kentucky,SEC,2018,1,9,NYK,19.0
-23239,Thomas Welsh,SR,2018,C,UCLA,Pac-12,2018,2,58,DEN,48.0
-23333,Collin Sexton,FR,2018,G,Alabama,SEC,2018,1,8,CLE,13.0
-23336,Landry Shamet,SO,2018,G,Wichita State,AAC,2018,1,26,PHI,18.0
-23377,Jerome Robinson,JR,2018,G,Boston College,ACC,2018,1,13,LAC,16.0
-23573,Zhaire Smith,FR,2018,G,Texas Tech,Big 12,2018,1,16,PHO,18.0
-23580,Omari Spellman,FR,2018,F,Villanova,Big East,2018,1,30,ATL,17.0
-23712,Tony Carr,SO,2018,G,Penn State,Big Ten,2018,2,51,NOP,46.0
-23734,Jevon Carter,SR,2018,G,West Virginia,Big 12,2018,2,32,MEM,37.0
-23755,Donte DiVincenzo,SO,2018,G,Villanova,Big East,2018,1,17,MIL,19.0
-23781,Hamidou Diallo,FR,2018,G,Kentucky,SEC,2018,2,45,BRK,49.0
-23881,Deandre Ayton,FR,2018,F,Arizona,Pac-12,2018,1,1,PHO,14.0
-23914,Keita Bates-Diop,JR,2018,F,Ohio State,Big Ten,2018,2,48,MIN,39.0
-23930,Mohamed Bamba,FR,2018,F,Texas,Big 12,2018,1,6,ORL,11.0
-23986,Kostas Antetokounmpo,FR,2018,F,Dayton,A-10,2018,2,60,PHI,47.0
-23995,Grayson Allen,SR,2018,G,Duke,ACC,2018,1,21,UTA,18.0
-24016,Bruce Brown,SO,2018,G,Miami (FL),ACC,2018,2,42,DET,46.0
-24020,Miles Bridges,SO,2018,G,Michigan State,Big Ten,2018,1,12,LAC,15.0
-24037,Mikal Bridges,JR,2018,G,Villanova,Big East,2018,1,10,PHI,15.0
-24056,Jalen Brunson,JR,2018,G,Villanova,Big East,2018,2,33,DAL,36.0
-24072,Troy Brown,FR,2018,F,Oregon,Pac-12,2018,1,15,WAS,15.0
-24148,Kevin Huerter,SO,2018,G,Maryland,Big Ten,2018,1,19,ATL,15.0
-24190,Justin Jackson,SO,2018,F,Maryland,Big Ten,2018,2,43,DEN,43.0
-24199,Chandler Hutchison,SR,2018,G,Boise State,MWC,2018,1,22,CHI,11.0
-24265,Aaron Holiday,JR,2018,G,UCLA,Pac-12,2018,1,23,IND,15.0
-24276,Dewan Hernandez,SO,2018,F,Miami (FL),ACC,2019,2,59,TOR,44.0
-24283,Kevin Hervey,SR,2018,F,Texas-Arlington,Sun Belt,2018,2,57,OKC,40.0
-24359,George King,SR,2018,G,Colorado,Pac-12,2018,2,59,PHO,43.0
-24375,Alize Johnson,SR,2018,F,Missouri State,MVC,2018,2,50,IND,47.0
-24440,Melvin Frazier,JR,2018,G,Tulane,AAC,2018,2,35,ORL,41.0
-24504,Jacob Evans,JR,2018,G,Cincinnati,AAC,2018,1,28,GSW,18.0
-24512,Vince Edwards,SR,2018,F,Purdue,Big Ten,2018,2,52,UTA,44.0
-24590,Devon Hall,SR,2018,G,Virginia,ACC,2018,2,53,OKC,47.0
-24624,Shai Gilgeous-Alexander,FR,2018,G,Kentucky,SEC,2018,1,11,CHO,16.0
-24655,Devonte' Graham,SR,2018,G,Kansas,Big 12,2018,2,34,ATL,43.0
-24822,Jaylen Nowell,SO,2019,G,Washington,Pac-12,2019,2,43,MIN,41.0
-24953,Ja Morant,SO,2019,G,Murray State,OVC,2019,1,2,MEM,9.0
-24998,Kevin Porter Jr,FR,2019,G,Southern California,Pac-12,2019,1,30,MIL,16.0
-25003,Jordan Poole,SO,2019,G,Michigan,Big Ten,2019,1,28,GSW,17.0
-25164,Kezie Okpala,SO,2019,F,Stanford,Pac-12,2019,2,32,PHO,41.0
-25171,Chuma Okeke,SO,2019,F,Auburn,SEC,2019,1,16,ORL,15.0
-25182,Miye Oni,JR,2019,G,Yale,Ivy,2019,2,58,GSW,40.0
-25241,Eric Paschall,SR,2019,F,Villanova,Big East,2019,2,41,GSW,42.0
-25400,Romeo Langford,FR,2019,G,Indiana,Big Ten,2019,1,14,BOS,17.0
-25415,Nassir Little,FR,2019,F,North Carolina,ACC,2019,1,25,POR,15.0
-25604,Jalen McDaniels,SO,2019,F,San Diego State,MWC,2019,2,52,CHO,45.0
-25710,Terance Mann,SR,2019,G,Florida State,ACC,2019,2,48,LAC,46.0
-25823,Cody Martin,SR,2019,F,Nevada,MWC,2019,2,36,CHO,43.0
-26127,Matisse Thybulle,SR,2019,G,Washington,Pac-12,2019,1,20,BOS,12.0
-26164,Dylan Windler,SR,2019,G,Belmont,OVC,2019,1,26,CLE,14.0
-26206,Zion Williamson,FR,2019,F,Duke,ACC,2019,1,1,NOP,-6.0
-26265,Justin Wright-Foreman,SR,2019,G,Hofstra,CAA,2019,2,53,UTA,45.0
-26320,PJ Washington,SO,2019,F,Kentucky,SEC,2019,1,12,CHO,15.0
-26333,Tremont Waters,SO,2019,G,Louisiana State,SEC,2019,2,51,BOS,39.0
-26350,Quinndary Weatherspoon,SR,2019,G,Mississippi State,SEC,2019,2,49,SAS,43.0
-26374,Grant Williams,JR,2019,F,Tennessee,SEC,2019,1,22,BOS,10.0
-26398,Coby White,FR,2019,G,North Carolina,ACC,2019,1,7,CHI,14.0
-26555,Admiral Schofield,SR,2019,G,Tennessee,SEC,2019,2,42,PHI,46.0
-26623,Cam Reddish,FR,2019,F,Duke,ACC,2019,1,10,ATL,15.0
-26648,Isaiah Roby,JR,2019,F,Nebraska,Big Ten,2019,2,45,DET,46.0
-27033,Brandon Clarke,JR,2019,F,Gonzaga,WCC,2019,1,21,OKC,4.0
-27049,Nicolas Claxton,SO,2019,F,Georgia,SEC,2019,2,31,BRK,42.0
-27467,Jarrett Culver,SO,2019,G,Texas Tech,Big 12,2019,1,6,PHO,14.0
-27685,R.J. Barrett,FR,2019,F,Duke,ACC,2019,1,3,NYK,14.0
-27773,Nickeil Alexander-Walker,SO,2019,G,Virginia Tech,ACC,2019,1,17,BRK,15.0
-27933,Ignas Brazdeikis,FR,2019,F,Michigan,Big Ten,2019,2,47,SAC,47.0
-27955,Jarrell Brantley,SR,2019,F,College of Charleston,CAA,2019,2,50,IND,41.0
-28124,Bol Bol,FR,2019,C,Oregon,Pac-12,2019,2,44,MIA,39.0
-28152,Jordan Bone,JR,2019,G,Tennessee,SEC,2019,2,57,NOP,48.0
-28269,De'Andre Hunter,SO,2019,G,Virginia,ACC,2019,1,4,LAL,11.0
-28315,Talen Horton-Tucker,FR,2019,G,Iowa State,Big 12,2019,2,46,ORL,45.0
-28358,Jaxson Hayes,FR,2019,F,Texas,Big 12,2019,1,8,ATL,9.0
-28419,Tyler Herro,FR,2019,G,Kentucky,SEC,2019,1,13,MIA,16.0
-28609,Keldon Johnson,FR,2019,G,Kentucky,SEC,2019,1,29,SAS,18.0
-28613,Mfiondu Kabengele,SO,2019,F,Florida State,ACC,2019,1,27,BRK,12.0
-28648,Justin James,SR,2019,G,Wyoming,MWC,2019,2,40,SAC,38.0
-28719,Cameron Johnson,SR,2019,G,North Carolina,ACC,2019,1,11,MIN,15.0
-28763,Ty Jerome,JR,2019,G,Virginia,ACC,2019,1,24,PHI,19.0
-28877,Daniel Gafford,SO,2019,F,Arkansas,SEC,2019,2,38,CHI,38.0
-28905,Bruno Fernando,SO,2019,F,Maryland,Big Ten,2019,2,34,PHI,37.0
-28989,Carsen Edwards,JR,2019,G,Purdue,Big Ten,2019,2,33,PHI,40.0
-29152,Jaylen Hands,SO,2019,G,UCLA,Pac-12,2019,2,56,LAC,42.0
-29184,Rui Hachimura,JR,2019,F,Gonzaga,WCC,2019,1,9,WAS,15.0
-29191,Kyle Guy,JR,2019,G,Virginia,ACC,2019,2,55,NYK,49.0
-29258,Darius Garland,FR,2019,G,Vanderbilt,SEC,2019,1,5,CLE,13.0
+Player,Class,Season,Pos,School,Conf,Year Drafted,Rd,Pk,Tm,Projected Pk
+Jaylen Nowell,SO,2019,G,Washington,Pac-12,2019,2,43,MIN,41
+Ja Morant,SO,2019,G,Murray State,OVC,2019,1,2,MEM,9
+Kevin Porter Jr,FR,2019,G,Southern California,Pac-12,2019,1,30,MIL,16
+Jordan Poole,SO,2019,G,Michigan,Big Ten,2019,1,28,GSW,17
+Kezie Okpala,SO,2019,F,Stanford,Pac-12,2019,2,32,PHO,41
+Chuma Okeke,SO,2019,F,Auburn,SEC,2019,1,16,ORL,15
+Miye Oni,JR,2019,G,Yale,Ivy,2019,2,58,GSW,40
+Eric Paschall,SR,2019,F,Villanova,Big East,2019,2,41,GSW,42
+Romeo Langford,FR,2019,G,Indiana,Big Ten,2019,1,14,BOS,17
+Nassir Little,FR,2019,F,North Carolina,ACC,2019,1,25,POR,15
+Jalen McDaniels,SO,2019,F,San Diego State,MWC,2019,2,52,CHO,45
+Terance Mann,SR,2019,G,Florida State,ACC,2019,2,48,LAC,46
+Cody Martin,SR,2019,F,Nevada,MWC,2019,2,36,CHO,43
+Matisse Thybulle,SR,2019,G,Washington,Pac-12,2019,1,20,BOS,12
+Dylan Windler,SR,2019,G,Belmont,OVC,2019,1,26,CLE,14
+Zion Williamson,FR,2019,F,Duke,ACC,2019,1,1,NOP,-6
+Justin Wright-Foreman,SR,2019,G,Hofstra,CAA,2019,2,53,UTA,45
+PJ Washington,SO,2019,F,Kentucky,SEC,2019,1,12,CHO,15
+Tremont Waters,SO,2019,G,Louisiana State,SEC,2019,2,51,BOS,39
+Quinndary Weatherspoon,SR,2019,G,Mississippi State,SEC,2019,2,49,SAS,43
+Grant Williams,JR,2019,F,Tennessee,SEC,2019,1,22,BOS,10
+Coby White,FR,2019,G,North Carolina,ACC,2019,1,7,CHI,14
+Admiral Schofield,SR,2019,G,Tennessee,SEC,2019,2,42,PHI,46
+Cam Reddish,FR,2019,F,Duke,ACC,2019,1,10,ATL,15
+Isaiah Roby,JR,2019,F,Nebraska,Big Ten,2019,2,45,DET,46
+Brandon Clarke,JR,2019,F,Gonzaga,WCC,2019,1,21,OKC,4
+Nicolas Claxton,SO,2019,F,Georgia,SEC,2019,2,31,BRK,42
+Jarrett Culver,SO,2019,G,Texas Tech,Big 12,2019,1,6,PHO,14
+R.J. Barrett,FR,2019,F,Duke,ACC,2019,1,3,NYK,14
+Nickeil Alexander-Walker,SO,2019,G,Virginia Tech,ACC,2019,1,17,BRK,15
+Ignas Brazdeikis,FR,2019,F,Michigan,Big Ten,2019,2,47,SAC,47
+Jarrell Brantley,SR,2019,F,College of Charleston,CAA,2019,2,50,IND,41
+Bol Bol,FR,2019,C,Oregon,Pac-12,2019,2,44,MIA,39
+Jordan Bone,JR,2019,G,Tennessee,SEC,2019,2,57,NOP,48
+De'Andre Hunter,SO,2019,G,Virginia,ACC,2019,1,4,LAL,11
+Talen Horton-Tucker,FR,2019,G,Iowa State,Big 12,2019,2,46,ORL,45
+Jaxson Hayes,FR,2019,F,Texas,Big 12,2019,1,8,ATL,9
+Tyler Herro,FR,2019,G,Kentucky,SEC,2019,1,13,MIA,16
+Keldon Johnson,FR,2019,G,Kentucky,SEC,2019,1,29,SAS,18
+Mfiondu Kabengele,SO,2019,F,Florida State,ACC,2019,1,27,BRK,12
+Justin James,SR,2019,G,Wyoming,MWC,2019,2,40,SAC,38
+Cameron Johnson,SR,2019,G,North Carolina,ACC,2019,1,11,MIN,15
+Ty Jerome,JR,2019,G,Virginia,ACC,2019,1,24,PHI,19
+Daniel Gafford,SO,2019,F,Arkansas,SEC,2019,2,38,CHI,38
+Bruno Fernando,SO,2019,F,Maryland,Big Ten,2019,2,34,PHI,37
+Carsen Edwards,JR,2019,G,Purdue,Big Ten,2019,2,33,PHI,40
+Jaylen Hands,SO,2019,G,UCLA,Pac-12,2019,2,56,LAC,42
+Rui Hachimura,JR,2019,F,Gonzaga,WCC,2019,1,9,WAS,15
+Kyle Guy,JR,2019,G,Virginia,ACC,2019,2,55,NYK,49
+Darius Garland,FR,2019,G,Vanderbilt,SEC,2019,1,5,CLE,13
