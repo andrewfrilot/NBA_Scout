@@ -1,6 +1,6 @@
 function buildFacts(newYear){
 
-var panelnba = d3.select("#nbacard");
+var panelnba = d3.select("#nbatable");
     panelnba.html("");
 
     d3.csv("../static/data/ncaa_model_in.csv").then((nbaplayers) => {
