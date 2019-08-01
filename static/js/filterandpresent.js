@@ -28,14 +28,7 @@ var panelnba = d3.select("#nbacard");
      panelnba.append("h4").html(` <br></br><strong>Actual Pick<\strong><br></br>` + `${sorted_pk_nba[2].Pk}`);
      panelnba.append("h4").html(`<br></br><strong>Projected Pick<\strong><br></br>` + `${sorted_pk_nba[2].ProjectedPk}`);
 
-
-
-
-    
-      //  panelnfl.append("h6").text(`Player: ${sorted_av_nfl[0].Player}`);
-      //  panelnfl.append("h6").text(`College: ${sorted_av_nfl[0].college}`);
-      //  panelnfl.append("h6").text(`Average Value: ${sorted_av_nfl[0].AV}`);
-      
+     
     }
   });
 }
