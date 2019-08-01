@@ -57,18 +57,41 @@
   <section id="about">
      <div class = "container">
        <div class="col-md-10 mx-auto">
-        <select id = "year" onchange = "getData(this)">
-          <option value ="2019">2019</option>
-          <option value ="2018">2018</option>
-          <option value ="2017">2017</option>
-          <option value ="2016">2016</option>
-          <option value ="2015">2015</option>
-          <option value ="2014">2014</option>
-          <option value ="2013">2013</option>
-          <option value ="2012">2012</option>
-          <option value ="2011">2011</option>
-          <option value ="2010">2010</option>
-        </select>
+        
+
+        <section class="section_2" id="pick_three">
+          <div class="container">
+              <div class="row align-items-center">
+                  <div class="col-lg-4 order-lg-1">
+                              <div class="p-5">
+                                  
+                                  <hr class="header-bar">
+  
+                                  <p class="display-1">NBA Top Picks
+                                       </p>
+                                      <select id="sport-picker" class="minimal" onchange="optionChanged(this.value)"></select>
+                              </div>
+                          </div>
+                          
+  
+   <div class="col-lg-8 order-lg-2">
+                                  <div class="p-5">
+                                          <div class="card-grid-container">
+                                                  <div class="card-card_1 card" id="nbacard">NBA</div>
+                                                  <!-- <div class="card-card_2 card" id="nbacard">nba</div>
+                                                  <div class="card-card_3 card" id="nflcard">nfl</div> -->
+                                                  <!-- <div class="card-card_selector"><select id="sport-picker" class="minimal" onchange="optionChanged(this.value)"></select></div> -->
+                                                </div>
+  
+                                          
+                                  </div>
+                              </div>
+  
+  
+  
+                              </div>
+                              </div>
+      </section>
       </div>
       </div>
 
@@ -140,6 +163,8 @@
     </div>
 </section>
 
+
+
   <!-- Footer -->
   <footer class="py-5 bg-dark">
     <div class="container">
@@ -163,6 +188,8 @@
 
   <!-- Onchange Javascript file -->
   <script src = "../static/js/getdata.js"></script> 
+
+  <script src="../static/js/filterandpresent.js"></script>
 
 </body>
 
